@@ -84,15 +84,3 @@ The parity tests copy Manual's `infix_to_postfix` and `evaluate_postfix`
 verbatim from the apworld's `Rules.py` and compare verdicts over random
 inventories and option sets. All should report 0 mismatches / failures. They
 require `gen/_apworld/` to be present.
-
-## Known issues in the apworld
-
-Found while building this, worth reporting upstream:
-
-- 20 locations have **unbalanced parentheses** in `requires` (e.g. `Donate Pike`).
-  Manual tolerates it, so they work, but they're latent bugs.
-- `Craft Spooky Carriage` uses lowercase `Or` — also tolerated.
-- `Craft Hearth` and `Craft Bamboo Noodle Slide` carry a `|Daisy Mae|` term that
-  looks unintended; it loosens their logic.
-- Several items are flagged `progression: True` but gate nothing:
-  `Tool Ring`, `Progressive Inventory Space`, `Bell Voucher`.

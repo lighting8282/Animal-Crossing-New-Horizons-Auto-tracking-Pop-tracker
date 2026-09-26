@@ -39,11 +39,10 @@ than a "correct" boolean parser, because the tracker has to agree with what
 Archipelago actually did at generation time. Quirks reproduced deliberately:
 
 - **`AND` and `OR` have equal precedence** and are left-associative, so
-  `a OR b AND c` means `(a OR b) AND c`. This is not the usual precedence and
-  silently changes the meaning of real rules in this apworld.
-- `AND`/`OR` match case-insensitively (`Craft Spooky Carriage` uses `Or`).
+  `a OR b AND c` means `(a OR b) AND c`. This is not the usual precedence, so
+  a conventional parser would quietly disagree with Archipelago.
+- `AND`/`OR` match case-insensitively, so `Or` and `and` are valid.
 - An unclosed `(` is tolerated and behaves as if closed at end of expression.
-  20 locations in this apworld rely on that, e.g. `Donate Pike`.
 - A stray `)` is a hard error in Manual, so it is here too.
 
 ## Tests
