@@ -1,0 +1,175 @@
+[
+    {
+        "name": "The Great Indoors",
+        "chest_unopened_img": "/images/items/closeleaf.png",
+        "chest_opened_img": "/images/items/openleaf.png",
+        "overlay_background": "#000000",
+        "access_rules": [],
+        "children": [
+            {
+                "name": "The Kitchen",
+                "chest_unopened_img": "/images/items/closeleaf.png",
+                "chest_opened_img": "/images/items/openleaf.png",
+                "overlay_background": "#000000",
+                "access_rules": [],
+                "sections": [
+                    {
+                        "name": "Learn 20 cooking recipes",
+                        "access_rules": [
+                            "$Rule|115"
+                        ],
+                        "visibility_rules": [
+                            "$Vis|115"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Cook 5 food items",
+                        "access_rules": [
+                            "$Rule|116"
+                        ],
+                        "visibility_rules": [
+                            "$Vis|116"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Cook some flour",
+                        "access_rules": [
+                            "$Rule|85"
+                        ],
+                        "visibility_rules": [
+                            "$Vis|85"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Cook some sugar",
+                        "access_rules": [
+                            "$Rule|86"
+                        ],
+                        "visibility_rules": [
+                            "$Vis|86"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Cook some carrot potage",
+                        "access_rules": [
+                            "$Rule|87"
+                        ],
+                        "visibility_rules": [
+                            "$Vis|87"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Cook a pumpkin bagel sandwich",
+                        "access_rules": [
+                            "$Rule|88"
+                        ],
+                        "visibility_rules": [
+                            "$Vis|88"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Cook some tomato curry",
+                        "access_rules": [
+                            "$Rule|89"
+                        ],
+                        "visibility_rules": [
+                            "$Vis|89"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Cook a grilled sea bass with herbs",
+                        "access_rules": [
+                            "$Rule|90"
+                        ],
+                        "visibility_rules": [
+                            "$Vis|90"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Cook some pancakes",
+                        "access_rules": [
+                            "$Rule|91"
+                        ],
+                        "visibility_rules": [
+                            "$Vis|91"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Cook a smoothie with your island's native fruit",
+                        "access_rules": [
+                            "$Rule|92"
+                        ],
+                        "visibility_rules": [
+                            "$Vis|92"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "The Great Indoors",
+                        "x": 1392,
+                        "y": 456,
+                        "size": 30
+                    }
+                ]
+            },
+            {
+                "name": "Get Decorating!",
+                "chest_unopened_img": "/images/items/closeleaf.png",
+                "chest_opened_img": "/images/items/openleaf.png",
+                "overlay_background": "#000000",
+                "access_rules": [],
+                "sections": [
+                    {
+                        "name": "Obtain an S-rank from the Happy Home Academy",
+                        "access_rules": [
+                            "$Rule|137"
+                        ],
+                        "visibility_rules": [
+                            "$Vis|137"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Place 5 furniture items in your home",
+                        "access_rules": [
+                            "$Rule|138"
+                        ],
+                        "visibility_rules": [
+                            "$Vis|138"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Put 20 items in storage",
+                        "access_rules": [
+                            "$Rule|139"
+                        ],
+                        "visibility_rules": [
+                            "$Vis|139"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "The Great Indoors",
+                        "x": 538,
+                        "y": 494,
+                        "size": 30
+                    }
+                ]
+            }
+        ]
+    }
+]

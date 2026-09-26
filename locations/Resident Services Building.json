@@ -1,0 +1,229 @@
+[
+    {
+        "name": "Resident Services Building",
+        "chest_unopened_img": "/images/items/closeleaf.png",
+        "chest_opened_img": "/images/items/openleaf.png",
+        "overlay_background": "#000000",
+        "access_rules": [],
+        "children": [
+            {
+                "name": "Pay Off Your Loans!",
+                "chest_unopened_img": "/images/items/closeleaf.png",
+                "chest_opened_img": "/images/items/openleaf.png",
+                "overlay_background": "#000000",
+                "access_rules": [],
+                "sections": [
+                    {
+                        "name": "Pay off all of your loans and complete your goal!",
+                        "access_rules": [
+                            "$Rule|409"
+                        ],
+                        "visibility_rules": [
+                            "$Vis|409"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Resident Services Building",
+                        "x": 656,
+                        "y": 652,
+                        "size": 30
+                    }
+                ]
+            },
+            {
+                "name": "Customization",
+                "chest_unopened_img": "/images/items/closeleaf.png",
+                "chest_opened_img": "/images/items/openleaf.png",
+                "overlay_background": "#000000",
+                "access_rules": [],
+                "sections": [
+                    {
+                        "name": "Customize 5 furniture items",
+                        "access_rules": [
+                            "$Rule|113"
+                        ],
+                        "visibility_rules": [
+                            "$Vis|113"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Change up your look at a wardrobe",
+                        "access_rules": [
+                            "$Rule|190"
+                        ],
+                        "visibility_rules": [
+                            "$Vis|190"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Craft a wooden wardrobe",
+                        "access_rules": [
+                            "$Rule|67"
+                        ],
+                        "visibility_rules": [
+                            "$Vis|67"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Resident Services Building",
+                        "x": 222,
+                        "y": 706,
+                        "size": 30
+                    }
+                ]
+            },
+            {
+                "name": "Making The Island Your Own",
+                "chest_unopened_img": "/images/items/closeleaf.png",
+                "chest_opened_img": "/images/items/openleaf.png",
+                "overlay_background": "#000000",
+                "access_rules": [],
+                "sections": [
+                    {
+                        "name": "Change your island's flag or tune",
+                        "access_rules": [
+                            "$Rule|171"
+                        ],
+                        "visibility_rules": [
+                            "$Vis|171"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Use the Island Designer app",
+                        "access_rules": [
+                            "$Rule|172"
+                        ],
+                        "visibility_rules": [
+                            "$Vis|172"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Craft a bamboo noodle slide",
+                        "access_rules": [
+                            "$Rule|410"
+                        ],
+                        "visibility_rules": [
+                            "$Vis|410"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Craft a mushroom wreath",
+                        "access_rules": [
+                            "$Rule|411"
+                        ],
+                        "visibility_rules": [
+                            "$Vis|411"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Craft an ornament wreath",
+                        "access_rules": [
+                            "$Rule|412"
+                        ],
+                        "visibility_rules": [
+                            "$Vis|412"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Craft an outdoor picnic set",
+                        "access_rules": [
+                            "$Rule|413"
+                        ],
+                        "visibility_rules": [
+                            "$Vis|413"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Craft a red-leaf pile",
+                        "access_rules": [
+                            "$Rule|414"
+                        ],
+                        "visibility_rules": [
+                            "$Vis|414"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Craft a shell wreath",
+                        "access_rules": [
+                            "$Rule|415"
+                        ],
+                        "visibility_rules": [
+                            "$Vis|415"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Craft a snowflake wreath",
+                        "access_rules": [
+                            "$Rule|416"
+                        ],
+                        "visibility_rules": [
+                            "$Vis|416"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Craft a tree's bounty little tree",
+                        "access_rules": [
+                            "$Rule|417"
+                        ],
+                        "visibility_rules": [
+                            "$Vis|417"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Resident Services Building",
+                        "x": 1402,
+                        "y": 588,
+                        "size": 30
+                    }
+                ]
+            },
+            {
+                "name": "Start Project K!",
+                "chest_unopened_img": "/images/items/closeleaf.png",
+                "chest_opened_img": "/images/items/openleaf.png",
+                "overlay_background": "#000000",
+                "access_rules": [],
+                "sections": [
+                    {
+                        "name": "Craft the campsite construction kit",
+                        "access_rules": [
+                            "$Rule|62"
+                        ],
+                        "visibility_rules": [
+                            "$Vis|62"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Resident Services Building",
+                        "x": 876,
+                        "y": 652,
+                        "size": 30
+                    }
+                ]
+            }
+        ]
+    }
+]

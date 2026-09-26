@@ -1,0 +1,483 @@
+[
+    {
+        "name": "Nook's Cranny",
+        "chest_unopened_img": "/images/items/closeleaf.png",
+        "chest_opened_img": "/images/items/openleaf.png",
+        "overlay_background": "#000000",
+        "access_rules": [],
+        "children": [
+            {
+                "name": "Bells, Bells, Bells",
+                "chest_unopened_img": "/images/items/closeleaf.png",
+                "chest_opened_img": "/images/items/openleaf.png",
+                "overlay_background": "#000000",
+                "access_rules": [],
+                "sections": [
+                    {
+                        "name": "Sell 50 clumps of weeds",
+                        "access_rules": [
+                            "$Rule|123"
+                        ],
+                        "visibility_rules": [
+                            "$Vis|123"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Sell 20 fruit",
+                        "access_rules": [
+                            "$Rule|127"
+                        ],
+                        "visibility_rules": [
+                            "$Vis|127"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Sell 10 seashells",
+                        "access_rules": [
+                            "$Rule|132"
+                        ],
+                        "visibility_rules": [
+                            "$Vis|132"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Buy something for the first time",
+                        "access_rules": [
+                            "$Rule|148"
+                        ],
+                        "visibility_rules": [
+                            "$Vis|148"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Sell something for the first time",
+                        "access_rules": [
+                            "$Rule|149"
+                        ],
+                        "visibility_rules": [
+                            "$Vis|149"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Spend 5,000 bells",
+                        "access_rules": [
+                            "$Rule|151"
+                        ],
+                        "visibility_rules": [
+                            "$Vis|151"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Buy turnips from Daisy Mae",
+                        "access_rules": [
+                            "$Rule|152"
+                        ],
+                        "visibility_rules": [
+                            "$Vis|152"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Make 1,000 bells on the Stalk Market",
+                        "access_rules": [
+                            "$Rule|153"
+                        ],
+                        "visibility_rules": [
+                            "$Vis|153"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Nook's Cranny",
+                        "x": 284,
+                        "y": 570,
+                        "size": 30
+                    }
+                ]
+            },
+            {
+                "name": "The Cabinet",
+                "chest_unopened_img": "/images/items/closeleaf.png",
+                "chest_opened_img": "/images/items/openleaf.png",
+                "overlay_background": "#000000",
+                "access_rules": [],
+                "sections": [
+                    {
+                        "name": "Bury a pitfall seed",
+                        "access_rules": [
+                            "$Rule|160"
+                        ],
+                        "visibility_rules": [
+                            "$Vis|160"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Fall into the hole created by said pitfall seed",
+                        "access_rules": [
+                            "$Rule|163"
+                        ],
+                        "visibility_rules": [
+                            "$Vis|163"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Craft a wooden ladder set-up kit",
+                        "access_rules": [
+                            "$Rule|15"
+                        ],
+                        "visibility_rules": [
+                            "$Vis|15"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Craft a pitfall seed",
+                        "access_rules": [
+                            "$Rule|43"
+                        ],
+                        "visibility_rules": [
+                            "$Vis|43"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Nook's Cranny",
+                        "x": 441,
+                        "y": 233,
+                        "size": 30
+                    }
+                ]
+            },
+            {
+                "name": "DIY for Beginners",
+                "chest_unopened_img": "/images/items/closeleaf.png",
+                "chest_opened_img": "/images/items/openleaf.png",
+                "overlay_background": "#000000",
+                "access_rules": [],
+                "sections": [
+                    {
+                        "name": "Craft an ocarina",
+                        "access_rules": [
+                            "$Rule|42"
+                        ],
+                        "visibility_rules": [
+                            "$Vis|42"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Craft an old-fashioned washtub",
+                        "access_rules": [
+                            "$Rule|53"
+                        ],
+                        "visibility_rules": [
+                            "$Vis|53"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Craft a stone stool",
+                        "access_rules": [
+                            "$Rule|55"
+                        ],
+                        "visibility_rules": [
+                            "$Vis|55"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Craft a frying pan",
+                        "access_rules": [
+                            "$Rule|56"
+                        ],
+                        "visibility_rules": [
+                            "$Vis|56"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Craft a hay bed",
+                        "access_rules": [
+                            "$Rule|58"
+                        ],
+                        "visibility_rules": [
+                            "$Vis|58"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Nook's Cranny",
+                        "x": 620,
+                        "y": 233,
+                        "size": 30
+                    }
+                ]
+            },
+            {
+                "name": "Test Your DIY Skills",
+                "chest_unopened_img": "/images/items/closeleaf.png",
+                "chest_opened_img": "/images/items/openleaf.png",
+                "overlay_background": "#000000",
+                "access_rules": [],
+                "sections": [
+                    {
+                        "name": "Craft a mini DIY workbench",
+                        "access_rules": [
+                            "$Rule|44"
+                        ],
+                        "visibility_rules": [
+                            "$Vis|44"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Craft a wooden-block chair",
+                        "access_rules": [
+                            "$Rule|46"
+                        ],
+                        "visibility_rules": [
+                            "$Vis|46"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Craft a wooden-block bookshelf",
+                        "access_rules": [
+                            "$Rule|47"
+                        ],
+                        "visibility_rules": [
+                            "$Vis|47"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Craft a rocking chair",
+                        "access_rules": [
+                            "$Rule|49"
+                        ],
+                        "visibility_rules": [
+                            "$Vis|49"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Craft a ringtoss",
+                        "access_rules": [
+                            "$Rule|50"
+                        ],
+                        "visibility_rules": [
+                            "$Vis|50"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Craft a swinging bench",
+                        "access_rules": [
+                            "$Rule|51"
+                        ],
+                        "visibility_rules": [
+                            "$Vis|51"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Craft a potted ivy",
+                        "access_rules": [
+                            "$Rule|59"
+                        ],
+                        "visibility_rules": [
+                            "$Vis|59"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Nook's Cranny",
+                        "x": 441,
+                        "y": 322,
+                        "size": 30
+                    }
+                ]
+            },
+            {
+                "name": "Wildest Dreams DIY",
+                "chest_unopened_img": "/images/items/closeleaf.png",
+                "chest_opened_img": "/images/items/openleaf.png",
+                "overlay_background": "#000000",
+                "access_rules": [],
+                "sections": [
+                    {
+                        "name": "Craft a plain sink",
+                        "access_rules": [
+                            "$Rule|48"
+                        ],
+                        "visibility_rules": [
+                            "$Vis|48"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Craft a wooden fish",
+                        "access_rules": [
+                            "$Rule|52"
+                        ],
+                        "visibility_rules": [
+                            "$Vis|52"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Craft a brick oven",
+                        "access_rules": [
+                            "$Rule|54"
+                        ],
+                        "visibility_rules": [
+                            "$Vis|54"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Craft an iron wall lamp",
+                        "access_rules": [
+                            "$Rule|57"
+                        ],
+                        "visibility_rules": [
+                            "$Vis|57"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Craft a hearth",
+                        "access_rules": [
+                            "$Rule|60"
+                        ],
+                        "visibility_rules": [
+                            "$Vis|60"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Nook's Cranny",
+                        "x": 620,
+                        "y": 322,
+                        "size": 30
+                    }
+                ]
+            },
+            {
+                "name": "Basic Cooking Recipes",
+                "chest_unopened_img": "/images/items/closeleaf.png",
+                "chest_opened_img": "/images/items/openleaf.png",
+                "overlay_background": "#000000",
+                "access_rules": [],
+                "sections": [
+                    {
+                        "name": "Cook some whole wheat flour",
+                        "access_rules": [
+                            "$Rule|93"
+                        ],
+                        "visibility_rules": [
+                            "$Vis|93"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Cook some brown sugar",
+                        "access_rules": [
+                            "$Rule|94"
+                        ],
+                        "visibility_rules": [
+                            "$Vis|94"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Cook some seaweed soup",
+                        "access_rules": [
+                            "$Rule|95"
+                        ],
+                        "visibility_rules": [
+                            "$Vis|95"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Cook some organic bread",
+                        "access_rules": [
+                            "$Rule|96"
+                        ],
+                        "visibility_rules": [
+                            "$Vis|96"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Cook some gnocchi di patate",
+                        "access_rules": [
+                            "$Rule|97"
+                        ],
+                        "visibility_rules": [
+                            "$Vis|97"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Cook some tomato puree",
+                        "access_rules": [
+                            "$Rule|98"
+                        ],
+                        "visibility_rules": [
+                            "$Vis|98"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Cook some brown-sugar cupcakes",
+                        "access_rules": [
+                            "$Rule|99"
+                        ],
+                        "visibility_rules": [
+                            "$Vis|99"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Cook some carrot cake",
+                        "access_rules": [
+                            "$Rule|100"
+                        ],
+                        "visibility_rules": [
+                            "$Vis|100"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Nook's Cranny",
+                        "x": 441,
+                        "y": 435,
+                        "size": 30
+                    }
+                ]
+            }
+        ]
+    }
+]

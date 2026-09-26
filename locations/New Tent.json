@@ -1,0 +1,553 @@
+[
+    {
+        "name": "New Tent",
+        "chest_unopened_img": "/images/items/closeleaf.png",
+        "chest_opened_img": "/images/items/openleaf.png",
+        "overlay_background": "#000000",
+        "access_rules": [],
+        "children": [
+            {
+                "name": "Let's Get Started!",
+                "chest_unopened_img": "/images/items/closeleaf.png",
+                "chest_opened_img": "/images/items/openleaf.png",
+                "overlay_background": "#000000",
+                "access_rules": [],
+                "sections": [
+                    {
+                        "name": "Move to a new island and begin your island life!",
+                        "access_rules": [
+                            "$Rule|102"
+                        ],
+                        "visibility_rules": [
+                            "$Vis|102"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Talk to all of your neighbours",
+                        "access_rules": [
+                            "$Rule|105"
+                        ],
+                        "visibility_rules": [
+                            "$Vis|105"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Island Shutterbug",
+                        "access_rules": [
+                            "$Rule|142"
+                        ],
+                        "visibility_rules": [
+                            "$Vis|142"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Edit Credit",
+                        "access_rules": [
+                            "$Rule|143"
+                        ],
+                        "visibility_rules": [
+                            "$Vis|143"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "NookPhone Life",
+                        "access_rules": [
+                            "$Rule|144"
+                        ],
+                        "visibility_rules": [
+                            "$Vis|144"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Send 5 letters",
+                        "access_rules": [
+                            "$Rule|156"
+                        ],
+                        "visibility_rules": [
+                            "$Vis|156"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Play on three different days",
+                        "access_rules": [
+                            "$Rule|195"
+                        ],
+                        "visibility_rules": [
+                            "$Vis|195"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "New Tent",
+                        "x": 639,
+                        "y": 302,
+                        "size": 30
+                    }
+                ]
+            },
+            {
+                "name": "Out in the River",
+                "chest_unopened_img": "/images/items/closeleaf.png",
+                "chest_opened_img": "/images/items/openleaf.png",
+                "overlay_background": "#000000",
+                "access_rules": [],
+                "sections": [
+                    {
+                        "name": "Catch 10 fish",
+                        "access_rules": [
+                            "$Rule|103"
+                        ],
+                        "visibility_rules": [
+                            "$Vis|103"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Fish up 3 pieces of trash",
+                        "access_rules": [
+                            "$Rule|134"
+                        ],
+                        "visibility_rules": [
+                            "$Vis|134"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Catch 10 fish in a row",
+                        "access_rules": [
+                            "$Rule|135"
+                        ],
+                        "visibility_rules": [
+                            "$Vis|135"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Pop a balloon and lose the present to the water",
+                        "access_rules": [
+                            "$Rule|165"
+                        ],
+                        "visibility_rules": [
+                            "$Vis|165"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "New Tent",
+                        "x": 1047,
+                        "y": 140,
+                        "size": 30
+                    }
+                ]
+            },
+            {
+                "name": "Out in Nature",
+                "chest_unopened_img": "/images/items/closeleaf.png",
+                "chest_opened_img": "/images/items/openleaf.png",
+                "overlay_background": "#000000",
+                "access_rules": [],
+                "sections": [
+                    {
+                        "name": "Catch 10 bugs",
+                        "access_rules": [
+                            "$Rule|106"
+                        ],
+                        "visibility_rules": [
+                            "$Vis|106"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Catch a flea",
+                        "access_rules": [
+                            "$Rule|157"
+                        ],
+                        "visibility_rules": [
+                            "$Vis|157"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Catch a cicada shell",
+                        "access_rules": [
+                            "$Rule|158"
+                        ],
+                        "visibility_rules": [
+                            "$Vis|158"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Catch 5 wasps in a row",
+                        "access_rules": [
+                            "$Rule|159"
+                        ],
+                        "visibility_rules": [
+                            "$Vis|159"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Faint from a wasp sting",
+                        "access_rules": [
+                            "$Rule|161"
+                        ],
+                        "visibility_rules": [
+                            "$Vis|161"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Faint from a tarantula or scorpion attack",
+                        "access_rules": [
+                            "$Rule|162"
+                        ],
+                        "visibility_rules": [
+                            "$Vis|162"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Pop 5 balloons",
+                        "access_rules": [
+                            "$Rule|166"
+                        ],
+                        "visibility_rules": [
+                            "$Vis|166"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Build a perfect snowperson",
+                        "access_rules": [
+                            "$Rule|168"
+                        ],
+                        "visibility_rules": [
+                            "$Vis|168"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Wish upon a shooting star",
+                        "access_rules": [
+                            "$Rule|169"
+                        ],
+                        "visibility_rules": [
+                            "$Vis|169"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Help Wisp get his spirit pieces back",
+                        "access_rules": [
+                            "$Rule|173"
+                        ],
+                        "visibility_rules": [
+                            "$Vis|173"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Dig up some buried bells",
+                        "access_rules": [
+                            "$Rule|193"
+                        ],
+                        "visibility_rules": [
+                            "$Vis|193"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Shake a piece of furniture from a tree",
+                        "access_rules": [
+                            "$Rule|194"
+                        ],
+                        "visibility_rules": [
+                            "$Vis|194"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "New Tent",
+                        "x": 104,
+                        "y": 329,
+                        "size": 30
+                    }
+                ]
+            },
+            {
+                "name": "Crafting",
+                "chest_unopened_img": "/images/items/closeleaf.png",
+                "chest_opened_img": "/images/items/openleaf.png",
+                "overlay_background": "#000000",
+                "access_rules": [],
+                "sections": [
+                    {
+                        "name": "Learn 10 DIY recipes",
+                        "access_rules": [
+                            "$Rule|108"
+                        ],
+                        "visibility_rules": [
+                            "$Vis|108"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Craft 5 furniture",
+                        "access_rules": [
+                            "$Rule|112"
+                        ],
+                        "visibility_rules": [
+                            "$Vis|112"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Craft a simple DIY workbench",
+                        "access_rules": [
+                            "$Rule|29"
+                        ],
+                        "visibility_rules": [
+                            "$Vis|29"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Craft a campfire",
+                        "access_rules": [
+                            "$Rule|63"
+                        ],
+                        "visibility_rules": [
+                            "$Vis|63"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Craft some medicine",
+                        "access_rules": [
+                            "$Rule|78"
+                        ],
+                        "visibility_rules": [
+                            "$Vis|78"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Craft a leaf umbrella",
+                        "access_rules": [
+                            "$Rule|80"
+                        ],
+                        "visibility_rules": [
+                            "$Vis|80"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "New Tent",
+                        "x": 1082,
+                        "y": 375,
+                        "size": 30
+                    }
+                ]
+            },
+            {
+                "name": "Resources",
+                "chest_unopened_img": "/images/items/closeleaf.png",
+                "chest_opened_img": "/images/items/openleaf.png",
+                "overlay_background": "#000000",
+                "access_rules": [],
+                "sections": [
+                    {
+                        "name": "Chop 20 pieces of wood from trees",
+                        "access_rules": [
+                            "$Rule|114"
+                        ],
+                        "visibility_rules": [
+                            "$Vis|114"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Hit one rock 8 times",
+                        "access_rules": [
+                            "$Rule|118"
+                        ],
+                        "visibility_rules": [
+                            "$Vis|118"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "New Tent",
+                        "x": 279,
+                        "y": 110,
+                        "size": 30
+                    }
+                ]
+            },
+            {
+                "name": "Tender Loving Care",
+                "chest_unopened_img": "/images/items/closeleaf.png",
+                "chest_opened_img": "/images/items/openleaf.png",
+                "overlay_background": "#000000",
+                "access_rules": [],
+                "sections": [
+                    {
+                        "name": "Plant 10 flowers",
+                        "access_rules": [
+                            "$Rule|124"
+                        ],
+                        "visibility_rules": [
+                            "$Vis|124"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Water 10 flowers",
+                        "access_rules": [
+                            "$Rule|125"
+                        ],
+                        "visibility_rules": [
+                            "$Vis|125"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Plant 5 trees",
+                        "access_rules": [
+                            "$Rule|126"
+                        ],
+                        "visibility_rules": [
+                            "$Vis|126"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Plant a fruit tree",
+                        "access_rules": [
+                            "$Rule|128"
+                        ],
+                        "visibility_rules": [
+                            "$Vis|128"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Fulfill a request from a villager",
+                        "access_rules": [
+                            "$Rule|140"
+                        ],
+                        "visibility_rules": [
+                            "$Vis|140"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Learn a reaction",
+                        "access_rules": [
+                            "$Rule|141"
+                        ],
+                        "visibility_rules": [
+                            "$Vis|141"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Build 20 fences",
+                        "access_rules": [
+                            "$Rule|167"
+                        ],
+                        "visibility_rules": [
+                            "$Vis|167"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Place a piece of furniture outside",
+                        "access_rules": [
+                            "$Rule|170"
+                        ],
+                        "visibility_rules": [
+                            "$Vis|170"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Become best friends with a villager",
+                        "access_rules": [
+                            "$Rule|184"
+                        ],
+                        "visibility_rules": [
+                            "$Vis|184"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Visit a villager on their birthday",
+                        "access_rules": [
+                            "$Rule|185"
+                        ],
+                        "visibility_rules": [
+                            "$Vis|185"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "And have a happy birthday of your own!",
+                        "access_rules": [
+                            "$Rule|186"
+                        ],
+                        "visibility_rules": [
+                            "$Vis|186"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Create your first custom design",
+                        "access_rules": [
+                            "$Rule|191"
+                        ],
+                        "visibility_rules": [
+                            "$Vis|191"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Create a pro custom design",
+                        "access_rules": [
+                            "$Rule|192"
+                        ],
+                        "visibility_rules": [
+                            "$Vis|192"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "New Tent",
+                        "x": 636,
+                        "y": 629,
+                        "size": 30
+                    }
+                ]
+            }
+        ]
+    }
+]

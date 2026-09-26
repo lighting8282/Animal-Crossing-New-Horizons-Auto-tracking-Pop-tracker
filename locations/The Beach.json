@@ -1,0 +1,152 @@
+[
+    {
+        "name": "The Beach",
+        "chest_unopened_img": "/images/items/closeleaf.png",
+        "chest_opened_img": "/images/items/openleaf.png",
+        "overlay_background": "#000000",
+        "access_rules": [],
+        "children": [
+            {
+                "name": "The Ocean",
+                "chest_unopened_img": "/images/items/closeleaf.png",
+                "chest_opened_img": "/images/items/openleaf.png",
+                "overlay_background": "#000000",
+                "access_rules": [],
+                "sections": [
+                    {
+                        "name": "Catch 5 sea creatures",
+                        "access_rules": [
+                            "$Rule|109"
+                        ],
+                        "visibility_rules": [
+                            "$Vis|109"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Give Pascal a scallop",
+                        "access_rules": [
+                            "$Rule|177"
+                        ],
+                        "visibility_rules": [
+                            "$Vis|177"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "The Beach",
+                        "x": 1163,
+                        "y": 203,
+                        "size": 30
+                    }
+                ]
+            },
+            {
+                "name": "Finding Stuff in the Sand",
+                "chest_unopened_img": "/images/items/closeleaf.png",
+                "chest_opened_img": "/images/items/openleaf.png",
+                "overlay_background": "#000000",
+                "access_rules": [],
+                "sections": [
+                    {
+                        "name": "Find 5 manila clams",
+                        "access_rules": [
+                            "$Rule|133"
+                        ],
+                        "visibility_rules": [
+                            "$Vis|133"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Help Gulliver or Gullivarrr",
+                        "access_rules": [
+                            "$Rule|174"
+                        ],
+                        "visibility_rules": [
+                            "$Vis|174"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Craft some fish bait",
+                        "access_rules": [
+                            "$Rule|79"
+                        ],
+                        "visibility_rules": [
+                            "$Vis|79"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "The Beach",
+                        "x": 585,
+                        "y": 356,
+                        "size": 30
+                    }
+                ]
+            },
+            {
+                "name": "The Pier",
+                "chest_unopened_img": "/images/items/closeleaf.png",
+                "chest_opened_img": "/images/items/openleaf.png",
+                "overlay_background": "#000000",
+                "access_rules": [],
+                "sections": [
+                    {
+                        "name": "Accompany Kapp'n on a boat tour",
+                        "access_rules": [
+                            "$Rule|178"
+                        ],
+                        "visibility_rules": [
+                            "$Vis|178"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Decorate a hotel room",
+                        "access_rules": [
+                            "$Rule|181"
+                        ],
+                        "visibility_rules": [
+                            "$Vis|181"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Show a lost tourist to the hotel",
+                        "access_rules": [
+                            "$Rule|182"
+                        ],
+                        "visibility_rules": [
+                            "$Vis|182"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Fulfill 5 DIY requests from the hotel",
+                        "access_rules": [
+                            "$Rule|183"
+                        ],
+                        "visibility_rules": [
+                            "$Vis|183"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "The Beach",
+                        "x": 1161,
+                        "y": 374,
+                        "size": 30
+                    }
+                ]
+            }
+        ]
+    }
+]

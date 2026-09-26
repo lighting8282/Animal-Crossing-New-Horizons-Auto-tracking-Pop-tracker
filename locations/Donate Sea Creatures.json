@@ -1,0 +1,1091 @@
+[
+    {
+        "name": "Donate Sea Creatures",
+        "chest_unopened_img": "/images/items/closesea.png",
+        "chest_opened_img": "/images/items/opensea.png",
+        "overlay_background": "#000000",
+        "access_rules": [],
+        "children": [
+            {
+                "name": "Donate Seaweed",
+                "chest_unopened_img": "/images/items/closesea.png",
+                "chest_opened_img": "/images/items/opensea.png",
+                "overlay_background": "#000000",
+                "access_rules": [],
+                "sections": [
+                    {
+                        "name": "Donate a seaweed to the museum",
+                        "access_rules": [
+                            "$Rule|356"
+                        ],
+                        "visibility_rules": [
+                            "$Vis|356"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Donate Sea Creatures",
+                        "x": 368,
+                        "y": 300,
+                        "size": 30
+                    }
+                ]
+            },
+            {
+                "name": "Donate Sea Grapes",
+                "chest_unopened_img": "/images/items/closesea.png",
+                "chest_opened_img": "/images/items/opensea.png",
+                "overlay_background": "#000000",
+                "access_rules": [],
+                "sections": [
+                    {
+                        "name": "Donate a sea grapes to the museum",
+                        "access_rules": [
+                            "$Rule|357"
+                        ],
+                        "visibility_rules": [
+                            "$Vis|357"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Donate Sea Creatures",
+                        "x": 368,
+                        "y": 444,
+                        "size": 30
+                    }
+                ]
+            },
+            {
+                "name": "Donate Sea Cucumber",
+                "chest_unopened_img": "/images/items/closesea.png",
+                "chest_opened_img": "/images/items/opensea.png",
+                "overlay_background": "#000000",
+                "access_rules": [],
+                "sections": [
+                    {
+                        "name": "Donate a sea cucumber to the museum",
+                        "access_rules": [
+                            "$Rule|358"
+                        ],
+                        "visibility_rules": [
+                            "$Vis|358"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Donate Sea Creatures",
+                        "x": 368,
+                        "y": 580,
+                        "size": 30
+                    }
+                ]
+            },
+            {
+                "name": "Donate Sea Pig",
+                "chest_unopened_img": "/images/items/closesea.png",
+                "chest_opened_img": "/images/items/opensea.png",
+                "overlay_background": "#000000",
+                "access_rules": [],
+                "sections": [
+                    {
+                        "name": "Donate a sea pig to the museum",
+                        "access_rules": [
+                            "$Rule|359"
+                        ],
+                        "visibility_rules": [
+                            "$Vis|359"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Donate Sea Creatures",
+                        "x": 368,
+                        "y": 723,
+                        "size": 30
+                    }
+                ]
+            },
+            {
+                "name": "Donate Sea Star",
+                "chest_unopened_img": "/images/items/closesea.png",
+                "chest_opened_img": "/images/items/opensea.png",
+                "overlay_background": "#000000",
+                "access_rules": [],
+                "sections": [
+                    {
+                        "name": "Donate a sea star to the museum",
+                        "access_rules": [
+                            "$Rule|360"
+                        ],
+                        "visibility_rules": [
+                            "$Vis|360"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Donate Sea Creatures",
+                        "x": 368,
+                        "y": 866,
+                        "size": 30
+                    }
+                ]
+            },
+            {
+                "name": "Donate Sea Urchin",
+                "chest_unopened_img": "/images/items/closesea.png",
+                "chest_opened_img": "/images/items/opensea.png",
+                "overlay_background": "#000000",
+                "access_rules": [],
+                "sections": [
+                    {
+                        "name": "Donate a sea urchin to the museum",
+                        "access_rules": [
+                            "$Rule|361"
+                        ],
+                        "visibility_rules": [
+                            "$Vis|361"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Donate Sea Creatures",
+                        "x": 539,
+                        "y": 300,
+                        "size": 30
+                    }
+                ]
+            },
+            {
+                "name": "Donate Slate Pencil Urchin",
+                "chest_unopened_img": "/images/items/closesea.png",
+                "chest_opened_img": "/images/items/opensea.png",
+                "overlay_background": "#000000",
+                "access_rules": [],
+                "sections": [
+                    {
+                        "name": "Donate a slate pencil urchin to the museum",
+                        "access_rules": [
+                            "$Rule|362"
+                        ],
+                        "visibility_rules": [
+                            "$Vis|362"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Donate Sea Creatures",
+                        "x": 539,
+                        "y": 444,
+                        "size": 30
+                    }
+                ]
+            },
+            {
+                "name": "Donate Sea Anemone",
+                "chest_unopened_img": "/images/items/closesea.png",
+                "chest_opened_img": "/images/items/opensea.png",
+                "overlay_background": "#000000",
+                "access_rules": [],
+                "sections": [
+                    {
+                        "name": "Donate a sea anemone to the museum",
+                        "access_rules": [
+                            "$Rule|363"
+                        ],
+                        "visibility_rules": [
+                            "$Vis|363"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Donate Sea Creatures",
+                        "x": 539,
+                        "y": 580,
+                        "size": 30
+                    }
+                ]
+            },
+            {
+                "name": "Donate Moon Jellyfish",
+                "chest_unopened_img": "/images/items/closesea.png",
+                "chest_opened_img": "/images/items/opensea.png",
+                "overlay_background": "#000000",
+                "access_rules": [],
+                "sections": [
+                    {
+                        "name": "Donate a moon jellyfish to the museum",
+                        "access_rules": [
+                            "$Rule|364"
+                        ],
+                        "visibility_rules": [
+                            "$Vis|364"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Donate Sea Creatures",
+                        "x": 539,
+                        "y": 723,
+                        "size": 30
+                    }
+                ]
+            },
+            {
+                "name": "Donate Sea Slug",
+                "chest_unopened_img": "/images/items/closesea.png",
+                "chest_opened_img": "/images/items/opensea.png",
+                "overlay_background": "#000000",
+                "access_rules": [],
+                "sections": [
+                    {
+                        "name": "Donate a sea slug to the museum",
+                        "access_rules": [
+                            "$Rule|365"
+                        ],
+                        "visibility_rules": [
+                            "$Vis|365"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Donate Sea Creatures",
+                        "x": 539,
+                        "y": 866,
+                        "size": 30
+                    }
+                ]
+            },
+            {
+                "name": "Donate Pearl Oyster",
+                "chest_unopened_img": "/images/items/closesea.png",
+                "chest_opened_img": "/images/items/opensea.png",
+                "overlay_background": "#000000",
+                "access_rules": [],
+                "sections": [
+                    {
+                        "name": "Donate a pearl oyster to the museum",
+                        "access_rules": [
+                            "$Rule|366"
+                        ],
+                        "visibility_rules": [
+                            "$Vis|366"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Donate Sea Creatures",
+                        "x": 707,
+                        "y": 300,
+                        "size": 30
+                    }
+                ]
+            },
+            {
+                "name": "Donate Mussel",
+                "chest_unopened_img": "/images/items/closesea.png",
+                "chest_opened_img": "/images/items/opensea.png",
+                "overlay_background": "#000000",
+                "access_rules": [],
+                "sections": [
+                    {
+                        "name": "Donate a mussel to the museum",
+                        "access_rules": [
+                            "$Rule|367"
+                        ],
+                        "visibility_rules": [
+                            "$Vis|367"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Donate Sea Creatures",
+                        "x": 707,
+                        "y": 444,
+                        "size": 30
+                    }
+                ]
+            },
+            {
+                "name": "Donate Oyster",
+                "chest_unopened_img": "/images/items/closesea.png",
+                "chest_opened_img": "/images/items/opensea.png",
+                "overlay_background": "#000000",
+                "access_rules": [],
+                "sections": [
+                    {
+                        "name": "Donate an oyster to the museum",
+                        "access_rules": [
+                            "$Rule|368"
+                        ],
+                        "visibility_rules": [
+                            "$Vis|368"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Donate Sea Creatures",
+                        "x": 707,
+                        "y": 580,
+                        "size": 30
+                    }
+                ]
+            },
+            {
+                "name": "Donate Scallop",
+                "chest_unopened_img": "/images/items/closesea.png",
+                "chest_opened_img": "/images/items/opensea.png",
+                "overlay_background": "#000000",
+                "access_rules": [],
+                "sections": [
+                    {
+                        "name": "Donate a scallop to the museum",
+                        "access_rules": [
+                            "$Rule|369"
+                        ],
+                        "visibility_rules": [
+                            "$Vis|369"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Donate Sea Creatures",
+                        "x": 707,
+                        "y": 723,
+                        "size": 30
+                    }
+                ]
+            },
+            {
+                "name": "Donate Whelk",
+                "chest_unopened_img": "/images/items/closesea.png",
+                "chest_opened_img": "/images/items/opensea.png",
+                "overlay_background": "#000000",
+                "access_rules": [],
+                "sections": [
+                    {
+                        "name": "Donate a whelk to the museum",
+                        "access_rules": [
+                            "$Rule|370"
+                        ],
+                        "visibility_rules": [
+                            "$Vis|370"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Donate Sea Creatures",
+                        "x": 707,
+                        "y": 866,
+                        "size": 30
+                    }
+                ]
+            },
+            {
+                "name": "Donate Turban Shell",
+                "chest_unopened_img": "/images/items/closesea.png",
+                "chest_opened_img": "/images/items/opensea.png",
+                "overlay_background": "#000000",
+                "access_rules": [],
+                "sections": [
+                    {
+                        "name": "Donate a turban shell to the museum",
+                        "access_rules": [
+                            "$Rule|371"
+                        ],
+                        "visibility_rules": [
+                            "$Vis|371"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Donate Sea Creatures",
+                        "x": 877,
+                        "y": 300,
+                        "size": 30
+                    }
+                ]
+            },
+            {
+                "name": "Donate Abalone",
+                "chest_unopened_img": "/images/items/closesea.png",
+                "chest_opened_img": "/images/items/opensea.png",
+                "overlay_background": "#000000",
+                "access_rules": [],
+                "sections": [
+                    {
+                        "name": "Donate an abalone to the museum",
+                        "access_rules": [
+                            "$Rule|372"
+                        ],
+                        "visibility_rules": [
+                            "$Vis|372"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Donate Sea Creatures",
+                        "x": 877,
+                        "y": 444,
+                        "size": 30
+                    }
+                ]
+            },
+            {
+                "name": "Donate Gigas Giant Clam",
+                "chest_unopened_img": "/images/items/closesea.png",
+                "chest_opened_img": "/images/items/opensea.png",
+                "overlay_background": "#000000",
+                "access_rules": [],
+                "sections": [
+                    {
+                        "name": "Donate a gigas giant clam to the museum",
+                        "access_rules": [
+                            "$Rule|373"
+                        ],
+                        "visibility_rules": [
+                            "$Vis|373"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Donate Sea Creatures",
+                        "x": 877,
+                        "y": 580,
+                        "size": 30
+                    }
+                ]
+            },
+            {
+                "name": "Donate Chambered Nautilus",
+                "chest_unopened_img": "/images/items/closesea.png",
+                "chest_opened_img": "/images/items/opensea.png",
+                "overlay_background": "#000000",
+                "access_rules": [],
+                "sections": [
+                    {
+                        "name": "Donate a chambered nautilus to the museum",
+                        "access_rules": [
+                            "$Rule|374"
+                        ],
+                        "visibility_rules": [
+                            "$Vis|374"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Donate Sea Creatures",
+                        "x": 877,
+                        "y": 723,
+                        "size": 30
+                    }
+                ]
+            },
+            {
+                "name": "Donate Octopus",
+                "chest_unopened_img": "/images/items/closesea.png",
+                "chest_opened_img": "/images/items/opensea.png",
+                "overlay_background": "#000000",
+                "access_rules": [],
+                "sections": [
+                    {
+                        "name": "Donate an octopus to the museum",
+                        "access_rules": [
+                            "$Rule|375"
+                        ],
+                        "visibility_rules": [
+                            "$Vis|375"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Donate Sea Creatures",
+                        "x": 877,
+                        "y": 866,
+                        "size": 30
+                    }
+                ]
+            },
+            {
+                "name": "Donate Umbrella Octopus",
+                "chest_unopened_img": "/images/items/closesea.png",
+                "chest_opened_img": "/images/items/opensea.png",
+                "overlay_background": "#000000",
+                "access_rules": [],
+                "sections": [
+                    {
+                        "name": "Donate an umbrella octopus to the museum",
+                        "access_rules": [
+                            "$Rule|376"
+                        ],
+                        "visibility_rules": [
+                            "$Vis|376"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Donate Sea Creatures",
+                        "x": 1044,
+                        "y": 300,
+                        "size": 30
+                    }
+                ]
+            },
+            {
+                "name": "Donate Vampire Squid",
+                "chest_unopened_img": "/images/items/closesea.png",
+                "chest_opened_img": "/images/items/opensea.png",
+                "overlay_background": "#000000",
+                "access_rules": [],
+                "sections": [
+                    {
+                        "name": "Donate a vampire squid to the museum",
+                        "access_rules": [
+                            "$Rule|377"
+                        ],
+                        "visibility_rules": [
+                            "$Vis|377"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Donate Sea Creatures",
+                        "x": 1044,
+                        "y": 444,
+                        "size": 30
+                    }
+                ]
+            },
+            {
+                "name": "Donate Firefly Squid",
+                "chest_unopened_img": "/images/items/closesea.png",
+                "chest_opened_img": "/images/items/opensea.png",
+                "overlay_background": "#000000",
+                "access_rules": [],
+                "sections": [
+                    {
+                        "name": "Donate a firefly squid to the museum",
+                        "access_rules": [
+                            "$Rule|378"
+                        ],
+                        "visibility_rules": [
+                            "$Vis|378"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Donate Sea Creatures",
+                        "x": 1044,
+                        "y": 580,
+                        "size": 30
+                    }
+                ]
+            },
+            {
+                "name": "Donate Gazami Crab",
+                "chest_unopened_img": "/images/items/closesea.png",
+                "chest_opened_img": "/images/items/opensea.png",
+                "overlay_background": "#000000",
+                "access_rules": [],
+                "sections": [
+                    {
+                        "name": "Donate a gazami crab to the museum",
+                        "access_rules": [
+                            "$Rule|379"
+                        ],
+                        "visibility_rules": [
+                            "$Vis|379"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Donate Sea Creatures",
+                        "x": 1044,
+                        "y": 723,
+                        "size": 30
+                    }
+                ]
+            },
+            {
+                "name": "Donate Dungeness Crab",
+                "chest_unopened_img": "/images/items/closesea.png",
+                "chest_opened_img": "/images/items/opensea.png",
+                "overlay_background": "#000000",
+                "access_rules": [],
+                "sections": [
+                    {
+                        "name": "Donate a Dungeness crab to the museum",
+                        "access_rules": [
+                            "$Rule|380"
+                        ],
+                        "visibility_rules": [
+                            "$Vis|380"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Donate Sea Creatures",
+                        "x": 1044,
+                        "y": 866,
+                        "size": 30
+                    }
+                ]
+            },
+            {
+                "name": "Donate Snow Crab",
+                "chest_unopened_img": "/images/items/closesea.png",
+                "chest_opened_img": "/images/items/opensea.png",
+                "overlay_background": "#000000",
+                "access_rules": [],
+                "sections": [
+                    {
+                        "name": "Donate a snow crab to the museum",
+                        "access_rules": [
+                            "$Rule|381"
+                        ],
+                        "visibility_rules": [
+                            "$Vis|381"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Donate Sea Creatures",
+                        "x": 1212,
+                        "y": 300,
+                        "size": 30
+                    }
+                ]
+            },
+            {
+                "name": "Donate Red King Crab",
+                "chest_unopened_img": "/images/items/closesea.png",
+                "chest_opened_img": "/images/items/opensea.png",
+                "overlay_background": "#000000",
+                "access_rules": [],
+                "sections": [
+                    {
+                        "name": "Donate a red king crab to the museum",
+                        "access_rules": [
+                            "$Rule|382"
+                        ],
+                        "visibility_rules": [
+                            "$Vis|382"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Donate Sea Creatures",
+                        "x": 1212,
+                        "y": 444,
+                        "size": 30
+                    }
+                ]
+            },
+            {
+                "name": "Donate Acorn Barnacle",
+                "chest_unopened_img": "/images/items/closesea.png",
+                "chest_opened_img": "/images/items/opensea.png",
+                "overlay_background": "#000000",
+                "access_rules": [],
+                "sections": [
+                    {
+                        "name": "Donate an acorn barnacle to the museum",
+                        "access_rules": [
+                            "$Rule|383"
+                        ],
+                        "visibility_rules": [
+                            "$Vis|383"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Donate Sea Creatures",
+                        "x": 1212,
+                        "y": 580,
+                        "size": 30
+                    }
+                ]
+            },
+            {
+                "name": "Donate Spider Crab",
+                "chest_unopened_img": "/images/items/closesea.png",
+                "chest_opened_img": "/images/items/opensea.png",
+                "overlay_background": "#000000",
+                "access_rules": [],
+                "sections": [
+                    {
+                        "name": "Donate a spider crab to the museum",
+                        "access_rules": [
+                            "$Rule|384"
+                        ],
+                        "visibility_rules": [
+                            "$Vis|384"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Donate Sea Creatures",
+                        "x": 1212,
+                        "y": 723,
+                        "size": 30
+                    }
+                ]
+            },
+            {
+                "name": "Donate Tiger Prawn",
+                "chest_unopened_img": "/images/items/closesea.png",
+                "chest_opened_img": "/images/items/opensea.png",
+                "overlay_background": "#000000",
+                "access_rules": [],
+                "sections": [
+                    {
+                        "name": "Donate a tiger prawn to the museum",
+                        "access_rules": [
+                            "$Rule|385"
+                        ],
+                        "visibility_rules": [
+                            "$Vis|385"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Donate Sea Creatures",
+                        "x": 1212,
+                        "y": 866,
+                        "size": 30
+                    }
+                ]
+            },
+            {
+                "name": "Donate Sweet Shrimp",
+                "chest_unopened_img": "/images/items/closesea.png",
+                "chest_opened_img": "/images/items/opensea.png",
+                "overlay_background": "#000000",
+                "access_rules": [],
+                "sections": [
+                    {
+                        "name": "Donate a sweet shrimp to the museum",
+                        "access_rules": [
+                            "$Rule|386"
+                        ],
+                        "visibility_rules": [
+                            "$Vis|386"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Donate Sea Creatures",
+                        "x": 1382,
+                        "y": 300,
+                        "size": 30
+                    }
+                ]
+            },
+            {
+                "name": "Donate Mantis Shrimp",
+                "chest_unopened_img": "/images/items/closesea.png",
+                "chest_opened_img": "/images/items/opensea.png",
+                "overlay_background": "#000000",
+                "access_rules": [],
+                "sections": [
+                    {
+                        "name": "Donate a mantis shrimp to the museum",
+                        "access_rules": [
+                            "$Rule|387"
+                        ],
+                        "visibility_rules": [
+                            "$Vis|387"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Donate Sea Creatures",
+                        "x": 1382,
+                        "y": 444,
+                        "size": 30
+                    }
+                ]
+            },
+            {
+                "name": "Donate Spiny Lobster",
+                "chest_unopened_img": "/images/items/closesea.png",
+                "chest_opened_img": "/images/items/opensea.png",
+                "overlay_background": "#000000",
+                "access_rules": [],
+                "sections": [
+                    {
+                        "name": "Donate a spiny lobster to the museum",
+                        "access_rules": [
+                            "$Rule|388"
+                        ],
+                        "visibility_rules": [
+                            "$Vis|388"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Donate Sea Creatures",
+                        "x": 1382,
+                        "y": 580,
+                        "size": 30
+                    }
+                ]
+            },
+            {
+                "name": "Donate Lobster",
+                "chest_unopened_img": "/images/items/closesea.png",
+                "chest_opened_img": "/images/items/opensea.png",
+                "overlay_background": "#000000",
+                "access_rules": [],
+                "sections": [
+                    {
+                        "name": "Donate a lobster to the museum",
+                        "access_rules": [
+                            "$Rule|389"
+                        ],
+                        "visibility_rules": [
+                            "$Vis|389"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Donate Sea Creatures",
+                        "x": 1382,
+                        "y": 723,
+                        "size": 30
+                    }
+                ]
+            },
+            {
+                "name": "Donate Giant Isopod",
+                "chest_unopened_img": "/images/items/closesea.png",
+                "chest_opened_img": "/images/items/opensea.png",
+                "overlay_background": "#000000",
+                "access_rules": [],
+                "sections": [
+                    {
+                        "name": "Donate a giant isopod to the museum",
+                        "access_rules": [
+                            "$Rule|390"
+                        ],
+                        "visibility_rules": [
+                            "$Vis|390"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Donate Sea Creatures",
+                        "x": 1382,
+                        "y": 866,
+                        "size": 30
+                    }
+                ]
+            },
+            {
+                "name": "Donate Horseshoe Crab",
+                "chest_unopened_img": "/images/items/closesea.png",
+                "chest_opened_img": "/images/items/opensea.png",
+                "overlay_background": "#000000",
+                "access_rules": [],
+                "sections": [
+                    {
+                        "name": "Donate a horseshoe crab to the museum",
+                        "access_rules": [
+                            "$Rule|391"
+                        ],
+                        "visibility_rules": [
+                            "$Vis|391"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Donate Sea Creatures",
+                        "x": 1551,
+                        "y": 300,
+                        "size": 30
+                    }
+                ]
+            },
+            {
+                "name": "Donate Sea Pineapple",
+                "chest_unopened_img": "/images/items/closesea.png",
+                "chest_opened_img": "/images/items/opensea.png",
+                "overlay_background": "#000000",
+                "access_rules": [],
+                "sections": [
+                    {
+                        "name": "Donate a sea pineapple to the museum",
+                        "access_rules": [
+                            "$Rule|392"
+                        ],
+                        "visibility_rules": [
+                            "$Vis|392"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Donate Sea Creatures",
+                        "x": 1551,
+                        "y": 444,
+                        "size": 30
+                    }
+                ]
+            },
+            {
+                "name": "Donate Spotted Garden Eel",
+                "chest_unopened_img": "/images/items/closesea.png",
+                "chest_opened_img": "/images/items/opensea.png",
+                "overlay_background": "#000000",
+                "access_rules": [],
+                "sections": [
+                    {
+                        "name": "Donate a spotted garden eel to the museum",
+                        "access_rules": [
+                            "$Rule|393"
+                        ],
+                        "visibility_rules": [
+                            "$Vis|393"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Donate Sea Creatures",
+                        "x": 1551,
+                        "y": 580,
+                        "size": 30
+                    }
+                ]
+            },
+            {
+                "name": "Donate Flatworm",
+                "chest_unopened_img": "/images/items/closesea.png",
+                "chest_opened_img": "/images/items/opensea.png",
+                "overlay_background": "#000000",
+                "access_rules": [],
+                "sections": [
+                    {
+                        "name": "Donate a flatworm to the museum",
+                        "access_rules": [
+                            "$Rule|394"
+                        ],
+                        "visibility_rules": [
+                            "$Vis|394"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Donate Sea Creatures",
+                        "x": 1551,
+                        "y": 723,
+                        "size": 30
+                    }
+                ]
+            },
+            {
+                "name": "Donate Venus' Flower Basket",
+                "chest_unopened_img": "/images/items/closesea.png",
+                "chest_opened_img": "/images/items/opensea.png",
+                "overlay_background": "#000000",
+                "access_rules": [],
+                "sections": [
+                    {
+                        "name": "Donate a Venus' flower basket to the museum",
+                        "access_rules": [
+                            "$Rule|395"
+                        ],
+                        "visibility_rules": [
+                            "$Vis|395"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Donate Sea Creatures",
+                        "x": 1551,
+                        "y": 866,
+                        "size": 30
+                    }
+                ]
+            }
+        ]
+    }
+]

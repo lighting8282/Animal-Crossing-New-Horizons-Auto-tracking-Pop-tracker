@@ -1,0 +1,182 @@
+[
+    {
+        "name": "Museum",
+        "chest_unopened_img": "/images/items/closeleaf.png",
+        "chest_opened_img": "/images/items/openleaf.png",
+        "overlay_background": "#000000",
+        "access_rules": [],
+        "children": [
+            {
+                "name": "Complete Museum",
+                "chest_unopened_img": "/images/items/closeleaf.png",
+                "chest_opened_img": "/images/items/openleaf.png",
+                "overlay_background": "#000000",
+                "access_rules": [],
+                "sections": [
+                    {
+                        "name": "Donate all fish, bugs, sea creatures, and fossils to the museum and complete your goal!",
+                        "access_rules": [
+                            "$Rule|407"
+                        ],
+                        "visibility_rules": [
+                            "$Vis|407"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Donate all fish, bugs, sea creatures, fossils, and works of art to the museum and complete your goal!",
+                        "access_rules": [
+                            "$Rule|408"
+                        ],
+                        "visibility_rules": [
+                            "$Vis|408"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Museum",
+                        "x": 1425,
+                        "y": 787,
+                        "size": 30
+                    }
+                ]
+            },
+            {
+                "name": "Donations",
+                "chest_unopened_img": "/images/items/closeleaf.png",
+                "chest_opened_img": "/images/items/openleaf.png",
+                "overlay_background": "#000000",
+                "access_rules": [],
+                "sections": [
+                    {
+                        "name": "Register 10 fish to your Critterpedia",
+                        "access_rules": [
+                            "$Rule|104"
+                        ],
+                        "visibility_rules": [
+                            "$Vis|104"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Register 10 bugs to your Critterpedia",
+                        "access_rules": [
+                            "$Rule|107"
+                        ],
+                        "visibility_rules": [
+                            "$Vis|107"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Register 5 sea creatures to your Critterpedia",
+                        "access_rules": [
+                            "$Rule|110"
+                        ],
+                        "visibility_rules": [
+                            "$Vis|110"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Museum",
+                        "x": 958,
+                        "y": 259,
+                        "size": 30
+                    }
+                ]
+            },
+            {
+                "name": "Scavenging",
+                "chest_unopened_img": "/images/items/closeleaf.png",
+                "chest_opened_img": "/images/items/openleaf.png",
+                "overlay_background": "#000000",
+                "access_rules": [],
+                "sections": [
+                    {
+                        "name": "Find a fossil",
+                        "access_rules": [
+                            "$Rule|119"
+                        ],
+                        "visibility_rules": [
+                            "$Vis|119"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Get 5 fossils assessed",
+                        "access_rules": [
+                            "$Rule|120"
+                        ],
+                        "visibility_rules": [
+                            "$Vis|120"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Find a gyroid",
+                        "access_rules": [
+                            "$Rule|121"
+                        ],
+                        "visibility_rules": [
+                            "$Vis|121"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Obtain 5 unique gyroids",
+                        "access_rules": [
+                            "$Rule|122"
+                        ],
+                        "visibility_rules": [
+                            "$Vis|122"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Fall for one of Redd's forgeries",
+                        "access_rules": [
+                            "$Rule|164"
+                        ],
+                        "visibility_rules": [
+                            "$Vis|164"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Donate an actually real work of art from Redd",
+                        "access_rules": [
+                            "$Rule|176"
+                        ],
+                        "visibility_rules": [
+                            "$Vis|176"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Enjoy a coffee at the Roost",
+                        "access_rules": [
+                            "$Rule|179"
+                        ],
+                        "visibility_rules": [
+                            "$Vis|179"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Museum",
+                        "x": 958,
+                        "y": 791,
+                        "size": 30
+                    }
+                ]
+            }
+        ]
+    }
+]

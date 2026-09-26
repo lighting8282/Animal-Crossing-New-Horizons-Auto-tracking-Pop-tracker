@@ -1,0 +1,1883 @@
+[
+    {
+        "name": "Overworld",
+        "chest_unopened_img": "/images/items/closeleaf.png",
+        "chest_opened_img": "/images/items/openleaf.png",
+        "overlay_background": "#000000",
+        "access_rules": [],
+        "children": [
+            {
+                "name": "Donate Bugs",
+                "chest_unopened_img": "/images/items/closeleaf.png",
+                "chest_opened_img": "/images/items/openleaf.png",
+                "overlay_background": "#000000",
+                "access_rules": [],
+                "sections": [
+                    {
+                        "name": "Donate Flea - Catch a flea",
+                        "ref": "Donate Bugs/Donate Flea/Catch a flea"
+                    },
+                    {
+                        "name": "Donate Flea - Donate a flea to the museum",
+                        "ref": "Donate Bugs/Donate Flea/Donate a flea to the museum"
+                    },
+                    {
+                        "name": "Donate Cicada Shell - Catch a cicada shell",
+                        "ref": "Donate Bugs/Donate Cicada Shell/Catch a cicada shell"
+                    },
+                    {
+                        "name": "Donate Cicada Shell - Donate a cicada shell to the museum",
+                        "ref": "Donate Bugs/Donate Cicada Shell/Donate a cicada shell to the museum"
+                    },
+                    {
+                        "name": "Donate Common Butterfly - Donate a common butterfly to the museum",
+                        "ref": "Donate Bugs/Donate Common Butterfly/Donate a common butterfly to the museum"
+                    },
+                    {
+                        "name": "Donate Yellow Butterfly - Donate a yellow butterfly to the museum",
+                        "ref": "Donate Bugs/Donate Yellow Butterfly/Donate a yellow butterfly to the museum"
+                    },
+                    {
+                        "name": "Donate Tiger Butterfly - Donate a tiger butterfly to the museum",
+                        "ref": "Donate Bugs/Donate Tiger Butterfly/Donate a tiger butterfly to the museum"
+                    },
+                    {
+                        "name": "Donate Peacock Butterfly - Donate a peacock butterfly to the museum",
+                        "ref": "Donate Bugs/Donate Peacock Butterfly/Donate a peacock butterfly to the museum"
+                    },
+                    {
+                        "name": "Donate Common Bluebottle - Donate a common bluebottle to the museum",
+                        "ref": "Donate Bugs/Donate Common Bluebottle/Donate a common bluebottle to the museum"
+                    },
+                    {
+                        "name": "Donate Paper Kite Butterfly - Donate a paper kite butterfly to the museum",
+                        "ref": "Donate Bugs/Donate Paper Kite Butterfly/Donate a paper kite butterfly to the museum"
+                    },
+                    {
+                        "name": "Donate Great Purple Emperor - Donate a great purple emperor to the museum",
+                        "ref": "Donate Bugs/Donate Great Purple Emperor/Donate a great purple emperor to the museum"
+                    },
+                    {
+                        "name": "Donate Monarch Butterfly - Donate a monarch butterfly to the museum",
+                        "ref": "Donate Bugs/Donate Monarch Butterfly/Donate a monarch butterfly to the museum"
+                    },
+                    {
+                        "name": "Donate Emperor Butterfly - Donate an emperor butterfly to the museum",
+                        "ref": "Donate Bugs/Donate Emperor Butterfly/Donate an emperor butterfly to the museum"
+                    },
+                    {
+                        "name": "Donate Agrias Butterfly - Donate an agrias butterfly to the museum",
+                        "ref": "Donate Bugs/Donate Agrias Butterfly/Donate an agrias butterfly to the museum"
+                    },
+                    {
+                        "name": "Donate Rajah Brooke's Birdwing - Donate a Rajah Brooke's birdwing to the museum",
+                        "ref": "Donate Bugs/Donate Rajah Brooke's Birdwing/Donate a Rajah Brooke's birdwing to the museum"
+                    },
+                    {
+                        "name": "Donate Queen Alexandra's Birdwing - Donate a Queen Alexandra's birdwing to the museum",
+                        "ref": "Donate Bugs/Donate Queen Alexandra's Birdwing/Donate a Queen Alexandra's birdwing to the museum"
+                    },
+                    {
+                        "name": "Donate Moth - Donate a moth to the museum",
+                        "ref": "Donate Bugs/Donate Moth/Donate a moth to the museum"
+                    },
+                    {
+                        "name": "Donate Atlas Moth - Donate an Atlas moth to the museum",
+                        "ref": "Donate Bugs/Donate Atlas Moth/Donate an Atlas moth to the museum"
+                    },
+                    {
+                        "name": "Donate Madagascan Sunset Moth - Donate a Madagascan sunset moth to the museum",
+                        "ref": "Donate Bugs/Donate Madagascan Sunset Moth/Donate a Madagascan sunset moth to the museum"
+                    },
+                    {
+                        "name": "Donate Long Locust - Donate a long locust to the museum",
+                        "ref": "Donate Bugs/Donate Long Locust/Donate a long locust to the museum"
+                    },
+                    {
+                        "name": "Donate Migratory Locust - Donate a migratory locust to the museum",
+                        "ref": "Donate Bugs/Donate Migratory Locust/Donate a migratory locust to the museum"
+                    },
+                    {
+                        "name": "Donate Rice Grasshopper - Donate a rice grasshopper to the museum",
+                        "ref": "Donate Bugs/Donate Rice Grasshopper/Donate a rice grasshopper to the museum"
+                    },
+                    {
+                        "name": "Donate Grasshopper - Donate a grasshopper to the museum",
+                        "ref": "Donate Bugs/Donate Grasshopper/Donate a grasshopper to the museum"
+                    },
+                    {
+                        "name": "Donate Cricket - Donate a cricket to the museum",
+                        "ref": "Donate Bugs/Donate Cricket/Donate a cricket to the museum"
+                    },
+                    {
+                        "name": "Donate Bell Cricket - Donate a bell cricket to the museum",
+                        "ref": "Donate Bugs/Donate Bell Cricket/Donate a bell cricket to the museum"
+                    },
+                    {
+                        "name": "Donate Mantis - Donate a mantis to the museum",
+                        "ref": "Donate Bugs/Donate Mantis/Donate a mantis to the museum"
+                    },
+                    {
+                        "name": "Donate Orchis Mantis - Donate an orchis mantis to the museum",
+                        "ref": "Donate Bugs/Donate Orchis Mantis/Donate an orchis mantis to the museum"
+                    },
+                    {
+                        "name": "Donate Honeybee - Donate a honeybee to the museum",
+                        "ref": "Donate Bugs/Donate Honeybee/Donate a honeybee to the museum"
+                    },
+                    {
+                        "name": "Donate Wasp - Donate a wasp to the museum",
+                        "ref": "Donate Bugs/Donate Wasp/Donate a wasp to the museum"
+                    },
+                    {
+                        "name": "Donate Brown Cicada - Donate a brown cicada to the museum",
+                        "ref": "Donate Bugs/Donate Brown Cicada/Donate a brown cicada to the museum"
+                    },
+                    {
+                        "name": "Donate Robust Cicada - Donate a robust cicada to the museum",
+                        "ref": "Donate Bugs/Donate Robust Cicada/Donate a robust cicada to the museum"
+                    },
+                    {
+                        "name": "Donate Giant Cicada - Donate a giant cicada to the museum",
+                        "ref": "Donate Bugs/Donate Giant Cicada/Donate a giant cicada to the museum"
+                    },
+                    {
+                        "name": "Donate Walker Cicada - Donate a walker cicada to the museum",
+                        "ref": "Donate Bugs/Donate Walker Cicada/Donate a walker cicada to the museum"
+                    },
+                    {
+                        "name": "Donate Evening Cicada - Donate an evening cicada to the museum",
+                        "ref": "Donate Bugs/Donate Evening Cicada/Donate an evening cicada to the museum"
+                    },
+                    {
+                        "name": "Donate Red Dragonfly - Donate a red dragonfly to the museum",
+                        "ref": "Donate Bugs/Donate Red Dragonfly/Donate a red dragonfly to the museum"
+                    },
+                    {
+                        "name": "Donate Darner Dragonfly - Donate a darner dragonfly to the museum",
+                        "ref": "Donate Bugs/Donate Darner Dragonfly/Donate a darner dragonfly to the museum"
+                    },
+                    {
+                        "name": "Donate Banded Dragonfly - Donate a banded dragonfly to the museum",
+                        "ref": "Donate Bugs/Donate Banded Dragonfly/Donate a banded dragonfly to the museum"
+                    },
+                    {
+                        "name": "Donate Damselfly - Donate a damselfly to the museum",
+                        "ref": "Donate Bugs/Donate Damselfly/Donate a damselfly to the museum"
+                    },
+                    {
+                        "name": "Donate Firefly - Donate a firefly to the museum",
+                        "ref": "Donate Bugs/Donate Firefly/Donate a firefly to the museum"
+                    },
+                    {
+                        "name": "Donate Mole Cricket - Donate a mole cricket to the museum",
+                        "ref": "Donate Bugs/Donate Mole Cricket/Donate a mole cricket to the museum"
+                    },
+                    {
+                        "name": "Donate Pondskater - Donate a pondskater to the museum",
+                        "ref": "Donate Bugs/Donate Pondskater/Donate a pondskater to the museum"
+                    },
+                    {
+                        "name": "Donate Diving Beetle - Donate a diving beetle to the museum",
+                        "ref": "Donate Bugs/Donate Diving Beetle/Donate a diving beetle to the museum"
+                    },
+                    {
+                        "name": "Donate Giant Water Bug - Donate a giant water bug to the museum",
+                        "ref": "Donate Bugs/Donate Giant Water Bug/Donate a giant water bug to the museum"
+                    },
+                    {
+                        "name": "Donate Stinkbug - Donate a stinkbug to the museum",
+                        "ref": "Donate Bugs/Donate Stinkbug/Donate a stinkbug to the museum"
+                    },
+                    {
+                        "name": "Donate Man-Faced Stink Bug - Donate a man-faced stink bug to the museum",
+                        "ref": "Donate Bugs/Donate Man-Faced Stink Bug/Donate a man-faced stink bug to the museum"
+                    },
+                    {
+                        "name": "Donate Ladybug - Donate a ladybug to the museum",
+                        "ref": "Donate Bugs/Donate Ladybug/Donate a ladybug to the museum"
+                    },
+                    {
+                        "name": "Donate Tiger Beetle - Donate a tiger beetle to the museum",
+                        "ref": "Donate Bugs/Donate Tiger Beetle/Donate a tiger beetle to the museum"
+                    },
+                    {
+                        "name": "Donate Jewel Beetle - Donate a jewel beetle to the museum",
+                        "ref": "Donate Bugs/Donate Jewel Beetle/Donate a jewel beetle to the museum"
+                    },
+                    {
+                        "name": "Donate Violin Beetle - Donate a violin beetle to the museum",
+                        "ref": "Donate Bugs/Donate Violin Beetle/Donate a violin beetle to the museum"
+                    },
+                    {
+                        "name": "Donate Citrus Long-Horned Beetle - Donate a citrus long-horned beetle to the museum",
+                        "ref": "Donate Bugs/Donate Citrus Long-Horned Beetle/Donate a citrus long-horned beetle to the museum"
+                    },
+                    {
+                        "name": "Donate Rosalia Batesi Beetle - Donate a rosalia batesi beetle to the museum",
+                        "ref": "Donate Bugs/Donate Rosalia Batesi Beetle/Donate a rosalia batesi beetle to the museum"
+                    },
+                    {
+                        "name": "Donate Blue Weevil Beetle - Donate a blue weevil beetle to the museum",
+                        "ref": "Donate Bugs/Donate Blue Weevil Beetle/Donate a blue weevil beetle to the museum"
+                    },
+                    {
+                        "name": "Donate Dung Beetle - Donate a dung beetle to the museum",
+                        "ref": "Donate Bugs/Donate Dung Beetle/Donate a dung beetle to the museum"
+                    },
+                    {
+                        "name": "Donate Earth-Boring Dung Beetle - Donate an earth-boring dung beetle to the museum",
+                        "ref": "Donate Bugs/Donate Earth-Boring Dung Beetle/Donate an earth-boring dung beetle to the museum"
+                    },
+                    {
+                        "name": "Donate Scarab Beetle - Donate a scarab beetle to the museum",
+                        "ref": "Donate Bugs/Donate Scarab Beetle/Donate a scarab beetle to the museum"
+                    },
+                    {
+                        "name": "Donate Drone Beetle - Donate a drone beetle to the museum",
+                        "ref": "Donate Bugs/Donate Drone Beetle/Donate a drone beetle to the museum"
+                    },
+                    {
+                        "name": "Donate Goliath Beetle - Donate a goliath beetle to the museum",
+                        "ref": "Donate Bugs/Donate Goliath Beetle/Donate a goliath beetle to the museum"
+                    },
+                    {
+                        "name": "Donate Saw Stag - Donate a saw stag to the museum",
+                        "ref": "Donate Bugs/Donate Saw Stag/Donate a saw stag to the museum"
+                    },
+                    {
+                        "name": "Donate Miyama Stag - Donate a miyama stag to the museum",
+                        "ref": "Donate Bugs/Donate Miyama Stag/Donate a miyama stag to the museum"
+                    },
+                    {
+                        "name": "Donate Giant Stag - Donate a giant stag to the museum",
+                        "ref": "Donate Bugs/Donate Giant Stag/Donate a giant stag to the museum"
+                    },
+                    {
+                        "name": "Donate Rainbow Stag - Donate a rainbow stag to the museum",
+                        "ref": "Donate Bugs/Donate Rainbow Stag/Donate a rainbow stag to the museum"
+                    },
+                    {
+                        "name": "Donate Cyclommatus Stag - Donate a cyclommatus stag to the museum",
+                        "ref": "Donate Bugs/Donate Cyclommatus Stag/Donate a cyclommatus stag to the museum"
+                    },
+                    {
+                        "name": "Donate Golden Stag - Donate a golden stag to the museum",
+                        "ref": "Donate Bugs/Donate Golden Stag/Donate a golden stag to the museum"
+                    },
+                    {
+                        "name": "Donate Giraffe Stag - Donate a giraffe stag to the museum",
+                        "ref": "Donate Bugs/Donate Giraffe Stag/Donate a giraffe stag to the museum"
+                    },
+                    {
+                        "name": "Donate Horned Dynastid - Donate a horned dynastid to the museum",
+                        "ref": "Donate Bugs/Donate Horned Dynastid/Donate a horned dynastid to the museum"
+                    },
+                    {
+                        "name": "Donate Horned Atlas - Donate a horned atlas to the museum",
+                        "ref": "Donate Bugs/Donate Horned Atlas/Donate a horned atlas to the museum"
+                    },
+                    {
+                        "name": "Donate Horned Elephant - Donate a horned elephant to the museum",
+                        "ref": "Donate Bugs/Donate Horned Elephant/Donate a horned elephant to the museum"
+                    },
+                    {
+                        "name": "Donate Horned Hercules - Donate a horned hercules to the museum",
+                        "ref": "Donate Bugs/Donate Horned Hercules/Donate a horned hercules to the museum"
+                    },
+                    {
+                        "name": "Donate Walking Stick - Donate a walking stick to the museum",
+                        "ref": "Donate Bugs/Donate Walking Stick/Donate a walking stick to the museum"
+                    },
+                    {
+                        "name": "Donate Walking Leaf - Donate a walking leaf to the museum",
+                        "ref": "Donate Bugs/Donate Walking Leaf/Donate a walking leaf to the museum"
+                    },
+                    {
+                        "name": "Donate Bagworm - Donate a bagworm to the museum",
+                        "ref": "Donate Bugs/Donate Bagworm/Donate a bagworm to the museum"
+                    },
+                    {
+                        "name": "Donate Ant - Donate an ant to the museum",
+                        "ref": "Donate Bugs/Donate Ant/Donate an ant to the museum"
+                    },
+                    {
+                        "name": "Donate Hermit Crab - Donate a hermit crab to the museum",
+                        "ref": "Donate Bugs/Donate Hermit Crab/Donate a hermit crab to the museum"
+                    },
+                    {
+                        "name": "Donate Wharf Roach - Donate a wharf roach to the museum",
+                        "ref": "Donate Bugs/Donate Wharf Roach/Donate a wharf roach to the museum"
+                    },
+                    {
+                        "name": "Donate Fly - Donate a fly to the museum",
+                        "ref": "Donate Bugs/Donate Fly/Donate a fly to the museum"
+                    },
+                    {
+                        "name": "Donate Mosquito - Donate a mosquito to the museum",
+                        "ref": "Donate Bugs/Donate Mosquito/Donate a mosquito to the museum"
+                    },
+                    {
+                        "name": "Donate Snail - Donate a snail to the museum",
+                        "ref": "Donate Bugs/Donate Snail/Donate a snail to the museum"
+                    },
+                    {
+                        "name": "Donate Pill Bug - Donate a pill bug to the museum",
+                        "ref": "Donate Bugs/Donate Pill Bug/Donate a pill bug to the museum"
+                    },
+                    {
+                        "name": "Donate Centipede - Donate a centipede to the museum",
+                        "ref": "Donate Bugs/Donate Centipede/Donate a centipede to the museum"
+                    },
+                    {
+                        "name": "Donate Spider - Donate a spider to the museum",
+                        "ref": "Donate Bugs/Donate Spider/Donate a spider to the museum"
+                    },
+                    {
+                        "name": "Donate Tarantula - Donate a tarantula to the museum",
+                        "ref": "Donate Bugs/Donate Tarantula/Donate a tarantula to the museum"
+                    },
+                    {
+                        "name": "Donate Scorpion - Donate a scorpion to the museum",
+                        "ref": "Donate Bugs/Donate Scorpion/Donate a scorpion to the museum"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 415,
+                        "y": 815,
+                        "size": 30
+                    }
+                ]
+            },
+            {
+                "name": "Donate Fish",
+                "chest_unopened_img": "/images/items/closeleaf.png",
+                "chest_opened_img": "/images/items/openleaf.png",
+                "overlay_background": "#000000",
+                "access_rules": [],
+                "sections": [
+                    {
+                        "name": "Donate Bitterling - Donate a bitterling to the museum",
+                        "ref": "Donate Fish/Donate Bitterling/Donate a bitterling to the museum"
+                    },
+                    {
+                        "name": "Donate Pale Chub - Donate a pale chub to the museum",
+                        "ref": "Donate Fish/Donate Pale Chub/Donate a pale chub to the museum"
+                    },
+                    {
+                        "name": "Donate Crucian Carp - Donate a crucian carp to the museum",
+                        "ref": "Donate Fish/Donate Crucian Carp/Donate a crucian carp to the museum"
+                    },
+                    {
+                        "name": "Donate Dace - Donate a dace to the museum",
+                        "ref": "Donate Fish/Donate Dace/Donate a dace to the museum"
+                    },
+                    {
+                        "name": "Donate Carp - Donate a carp to the museum",
+                        "ref": "Donate Fish/Donate Carp/Donate a carp to the museum"
+                    },
+                    {
+                        "name": "Donate Koi - Donate a koi to the museum",
+                        "ref": "Donate Fish/Donate Koi/Donate a koi to the museum"
+                    },
+                    {
+                        "name": "Donate Goldfish - Donate a goldfish to the museum",
+                        "ref": "Donate Fish/Donate Goldfish/Donate a goldfish to the museum"
+                    },
+                    {
+                        "name": "Donate Pop-Eyed Goldfish - Donate a pop-eyed goldfish to the museum",
+                        "ref": "Donate Fish/Donate Pop-Eyed Goldfish/Donate a pop-eyed goldfish to the museum"
+                    },
+                    {
+                        "name": "Donate Ranchu Goldfish - Donate a ranchu goldfish to the museum",
+                        "ref": "Donate Fish/Donate Ranchu Goldfish/Donate a ranchu goldfish to the museum"
+                    },
+                    {
+                        "name": "Donate Killifish - Donate a killifish to the museum",
+                        "ref": "Donate Fish/Donate Killifish/Donate a killifish to the museum"
+                    },
+                    {
+                        "name": "Donate Crawfish - Donate a crawfish to the museum",
+                        "ref": "Donate Fish/Donate Crawfish/Donate a crawfish to the museum"
+                    },
+                    {
+                        "name": "Donate Soft-Shelled Turtle - Donate a soft-shelled turtle to the museum",
+                        "ref": "Donate Fish/Donate Soft-Shelled Turtle/Donate a soft-shelled turtle to the museum"
+                    },
+                    {
+                        "name": "Donate Snapping Turtle - Donate a snapping turtle to the museum",
+                        "ref": "Donate Fish/Donate Snapping Turtle/Donate a snapping turtle to the museum"
+                    },
+                    {
+                        "name": "Donate Tadpole - Donate a tadpole to the museum",
+                        "ref": "Donate Fish/Donate Tadpole/Donate a tadpole to the museum"
+                    },
+                    {
+                        "name": "Donate Frog - Donate a frog to the museum",
+                        "ref": "Donate Fish/Donate Frog/Donate a frog to the museum"
+                    },
+                    {
+                        "name": "Donate Freshwater Goby - Donate a freshwater goby to the museum",
+                        "ref": "Donate Fish/Donate Freshwater Goby/Donate a freshwater goby to the museum"
+                    },
+                    {
+                        "name": "Donate Loach - Donate a loach to the museum",
+                        "ref": "Donate Fish/Donate Loach/Donate a loach to the museum"
+                    },
+                    {
+                        "name": "Donate Catfish - Donate a catfish to the museum",
+                        "ref": "Donate Fish/Donate Catfish/Donate a catfish to the museum"
+                    },
+                    {
+                        "name": "Donate Giant Snakehead - Donate a giant snakehead to the museum",
+                        "ref": "Donate Fish/Donate Giant Snakehead/Donate a giant snakehead to the museum"
+                    },
+                    {
+                        "name": "Donate Bluegill - Donate a bluegill to the museum",
+                        "ref": "Donate Fish/Donate Bluegill/Donate a bluegill to the museum"
+                    },
+                    {
+                        "name": "Donate Yellow Perch - Donate a yellow perch to the museum",
+                        "ref": "Donate Fish/Donate Yellow Perch/Donate a yellow perch to the museum"
+                    },
+                    {
+                        "name": "Donate Black Bass - Donate a black bass to the museum",
+                        "ref": "Donate Fish/Donate Black Bass/Donate a black bass to the museum"
+                    },
+                    {
+                        "name": "Donate Tilapia - Donate a tilapia to the museum",
+                        "ref": "Donate Fish/Donate Tilapia/Donate a tilapia to the museum"
+                    },
+                    {
+                        "name": "Donate Pike - Donate a pike to the museum",
+                        "ref": "Donate Fish/Donate Pike/Donate a pike to the museum"
+                    },
+                    {
+                        "name": "Donate Pond Smelt - Donate a pond smelt to the museum",
+                        "ref": "Donate Fish/Donate Pond Smelt/Donate a pond smelt to the museum"
+                    },
+                    {
+                        "name": "Donate Sweetfish - Donate a sweetfish to the museum",
+                        "ref": "Donate Fish/Donate Sweetfish/Donate a sweetfish to the museum"
+                    },
+                    {
+                        "name": "Donate Cherry Salmon - Donate a cherry salmon to the museum",
+                        "ref": "Donate Fish/Donate Cherry Salmon/Donate a cherry salmon to the museum"
+                    },
+                    {
+                        "name": "Donate Char - Donate a char to the museum",
+                        "ref": "Donate Fish/Donate Char/Donate a char to the museum"
+                    },
+                    {
+                        "name": "Donate Golden Trout - Donate a golden trout to the museum",
+                        "ref": "Donate Fish/Donate Golden Trout/Donate a golden trout to the museum"
+                    },
+                    {
+                        "name": "Donate Stringfish - Donate a stringfish to the museum",
+                        "ref": "Donate Fish/Donate Stringfish/Donate a stringfish to the museum"
+                    },
+                    {
+                        "name": "Donate Salmon - Donate a salmon to the museum",
+                        "ref": "Donate Fish/Donate Salmon/Donate a salmon to the museum"
+                    },
+                    {
+                        "name": "Donate King Salmon - Donate a king salmon to the museum",
+                        "ref": "Donate Fish/Donate King Salmon/Donate a king salmon to the museum"
+                    },
+                    {
+                        "name": "Donate Mitten Crab - Donate a mitten crab to the museum",
+                        "ref": "Donate Fish/Donate Mitten Crab/Donate a mitten crab to the museum"
+                    },
+                    {
+                        "name": "Donate Guppy - Donate a guppy to the museum",
+                        "ref": "Donate Fish/Donate Guppy/Donate a guppy to the museum"
+                    },
+                    {
+                        "name": "Donate Nibble Fish - Donate a nibble fish to the museum",
+                        "ref": "Donate Fish/Donate Nibble Fish/Donate a nibble fish to the museum"
+                    },
+                    {
+                        "name": "Donate Angelfish - Donate an angelfish to the museum",
+                        "ref": "Donate Fish/Donate Angelfish/Donate an angelfish to the museum"
+                    },
+                    {
+                        "name": "Donate Betta - Donate a betta to the museum",
+                        "ref": "Donate Fish/Donate Betta/Donate a betta to the museum"
+                    },
+                    {
+                        "name": "Donate Neon Tetra - Donate a neon tetra to the museum",
+                        "ref": "Donate Fish/Donate Neon Tetra/Donate a neon tetra to the museum"
+                    },
+                    {
+                        "name": "Donate Rainbowfish - Donate a rainbowfish to the museum",
+                        "ref": "Donate Fish/Donate Rainbowfish/Donate a rainbowfish to the museum"
+                    },
+                    {
+                        "name": "Donate Piranha - Donate a piranha to the museum",
+                        "ref": "Donate Fish/Donate Piranha/Donate a piranha to the museum"
+                    },
+                    {
+                        "name": "Donate Arowana - Donate an arowana to the museum",
+                        "ref": "Donate Fish/Donate Arowana/Donate an arowana to the museum"
+                    },
+                    {
+                        "name": "Donate Dorado - Donate a dorado to the museum",
+                        "ref": "Donate Fish/Donate Dorado/Donate a dorado to the museum"
+                    },
+                    {
+                        "name": "Donate Gar - Donate a gar to the museum",
+                        "ref": "Donate Fish/Donate Gar/Donate a gar to the museum"
+                    },
+                    {
+                        "name": "Donate Arapaima - Donate an arapaima to the museum",
+                        "ref": "Donate Fish/Donate Arapaima/Donate an arapaima to the museum"
+                    },
+                    {
+                        "name": "Donate Saddled Bichir - Donate a saddled bichir to the museum",
+                        "ref": "Donate Fish/Donate Saddled Bichir/Donate a saddled bichir to the museum"
+                    },
+                    {
+                        "name": "Donate Sturgeon - Donate a sturgeon to the museum",
+                        "ref": "Donate Fish/Donate Sturgeon/Donate a sturgeon to the museum"
+                    },
+                    {
+                        "name": "Donate Sea Butterfly - Donate a sea butterfly to the museum",
+                        "ref": "Donate Fish/Donate Sea Butterfly/Donate a sea butterfly to the museum"
+                    },
+                    {
+                        "name": "Donate Sea Horse - Donate a sea horse to the museum",
+                        "ref": "Donate Fish/Donate Sea Horse/Donate a sea horse to the museum"
+                    },
+                    {
+                        "name": "Donate Clown Fish - Donate a clown fish to the museum",
+                        "ref": "Donate Fish/Donate Clown Fish/Donate a clown fish to the museum"
+                    },
+                    {
+                        "name": "Donate Surgeonfish - Donate a surgeonfish to the museum",
+                        "ref": "Donate Fish/Donate Surgeonfish/Donate a surgeonfish to the museum"
+                    },
+                    {
+                        "name": "Donate Butterfly Fish - Donate a butterfly fish to the museum",
+                        "ref": "Donate Fish/Donate Butterfly Fish/Donate a butterfly fish to the museum"
+                    },
+                    {
+                        "name": "Donate Napoleonfish - Donate a Napoleonfish to the museum",
+                        "ref": "Donate Fish/Donate Napoleonfish/Donate a Napoleonfish to the museum"
+                    },
+                    {
+                        "name": "Donate Zebra Turkeyfish - Donate a zebra turkeyfish to the museum",
+                        "ref": "Donate Fish/Donate Zebra Turkeyfish/Donate a zebra turkeyfish to the museum"
+                    },
+                    {
+                        "name": "Donate Blowfish - Donate a blowfish to the museum",
+                        "ref": "Donate Fish/Donate Blowfish/Donate a blowfish to the museum"
+                    },
+                    {
+                        "name": "Donate Puffer Fish - Donate a puffer fish to the museum",
+                        "ref": "Donate Fish/Donate Puffer Fish/Donate a puffer fish to the museum"
+                    },
+                    {
+                        "name": "Donate Anchovy - Donate an anchovy to the museum",
+                        "ref": "Donate Fish/Donate Anchovy/Donate an anchovy to the museum"
+                    },
+                    {
+                        "name": "Donate Horse Mackerel - Donate a horse mackerel to the museum",
+                        "ref": "Donate Fish/Donate Horse Mackerel/Donate a horse mackerel to the museum"
+                    },
+                    {
+                        "name": "Donate Barred Knifejaw - Donate a barred knifejaw to the museum",
+                        "ref": "Donate Fish/Donate Barred Knifejaw/Donate a barred knifejaw to the museum"
+                    },
+                    {
+                        "name": "Donate Sea Bass - Donate a sea bass to the museum",
+                        "ref": "Donate Fish/Donate Sea Bass/Donate a sea bass to the museum"
+                    },
+                    {
+                        "name": "Donate Red Snapper - Donate a red snapper to the museum",
+                        "ref": "Donate Fish/Donate Red Snapper/Donate a red snapper to the museum"
+                    },
+                    {
+                        "name": "Donate Dab - Donate a dab to the museum",
+                        "ref": "Donate Fish/Donate Dab/Donate a dab to the museum"
+                    },
+                    {
+                        "name": "Donate Olive Flounder - Donate an olive flounder to the museum",
+                        "ref": "Donate Fish/Donate Olive Flounder/Donate an olive flounder to the museum"
+                    },
+                    {
+                        "name": "Donate Squid - Donate a squid to the museum",
+                        "ref": "Donate Fish/Donate Squid/Donate a squid to the museum"
+                    },
+                    {
+                        "name": "Donate Moray Eel - Donate a moray eel to the museum",
+                        "ref": "Donate Fish/Donate Moray Eel/Donate a moray eel to the museum"
+                    },
+                    {
+                        "name": "Donate Ribbon Eel - Donate a ribbon eel to the museum",
+                        "ref": "Donate Fish/Donate Ribbon Eel/Donate a ribbon eel to the museum"
+                    },
+                    {
+                        "name": "Donate Tuna - Donate a tuna to the museum",
+                        "ref": "Donate Fish/Donate Tuna/Donate a tuna to the museum"
+                    },
+                    {
+                        "name": "Donate Blue Marlin - Donate a blue marlin to the museum",
+                        "ref": "Donate Fish/Donate Blue Marlin/Donate a blue marlin to the museum"
+                    },
+                    {
+                        "name": "Donate Giant Trevally - Donate a giant trevally to the museum",
+                        "ref": "Donate Fish/Donate Giant Trevally/Donate a giant trevally to the museum"
+                    },
+                    {
+                        "name": "Donate Mahi-Mahi - Donate a mahi-mahi to the museum",
+                        "ref": "Donate Fish/Donate Mahi-Mahi/Donate a mahi-mahi to the museum"
+                    },
+                    {
+                        "name": "Donate Ocean Sunfish - Donate an ocean sunfish to the museum",
+                        "ref": "Donate Fish/Donate Ocean Sunfish/Donate an ocean sunfish to the museum"
+                    },
+                    {
+                        "name": "Donate Ray - Donate a ray to the museum",
+                        "ref": "Donate Fish/Donate Ray/Donate a ray to the museum"
+                    },
+                    {
+                        "name": "Donate Saw Shark - Donate a saw shark to the museum",
+                        "ref": "Donate Fish/Donate Saw Shark/Donate a saw shark to the museum"
+                    },
+                    {
+                        "name": "Donate Hammerhead Shark - Donate a hammerhead shark to the museum",
+                        "ref": "Donate Fish/Donate Hammerhead Shark/Donate a hammerhead shark to the museum"
+                    },
+                    {
+                        "name": "Donate Great White Shark - Donate a great white shark to the museum",
+                        "ref": "Donate Fish/Donate Great White Shark/Donate a great white shark to the museum"
+                    },
+                    {
+                        "name": "Donate Whale Shark - Donate a whale shark to the museum",
+                        "ref": "Donate Fish/Donate Whale Shark/Donate a whale shark to the museum"
+                    },
+                    {
+                        "name": "Donate Suckerfish - Donate a suckerfish to the museum",
+                        "ref": "Donate Fish/Donate Suckerfish/Donate a suckerfish to the museum"
+                    },
+                    {
+                        "name": "Donate Football Fish - Donate a football fish to the museum",
+                        "ref": "Donate Fish/Donate Football Fish/Donate a football fish to the museum"
+                    },
+                    {
+                        "name": "Donate Oarfish - Donate an oarfish to the museum",
+                        "ref": "Donate Fish/Donate Oarfish/Donate an oarfish to the museum"
+                    },
+                    {
+                        "name": "Donate Barreleye - Donate a barreleye to the museum",
+                        "ref": "Donate Fish/Donate Barreleye/Donate a barreleye to the museum"
+                    },
+                    {
+                        "name": "Donate Coelacanth - Donate a coelacanth to the museum",
+                        "ref": "Donate Fish/Donate Coelacanth/Donate a coelacanth to the museum"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 2066,
+                        "y": 2321,
+                        "size": 30
+                    }
+                ]
+            },
+            {
+                "name": "Donate Sea Creatures",
+                "chest_unopened_img": "/images/items/closeleaf.png",
+                "chest_opened_img": "/images/items/openleaf.png",
+                "overlay_background": "#000000",
+                "access_rules": [],
+                "sections": [
+                    {
+                        "name": "Donate Seaweed - Donate a seaweed to the museum",
+                        "ref": "Donate Sea Creatures/Donate Seaweed/Donate a seaweed to the museum"
+                    },
+                    {
+                        "name": "Donate Sea Grapes - Donate a sea grapes to the museum",
+                        "ref": "Donate Sea Creatures/Donate Sea Grapes/Donate a sea grapes to the museum"
+                    },
+                    {
+                        "name": "Donate Sea Cucumber - Donate a sea cucumber to the museum",
+                        "ref": "Donate Sea Creatures/Donate Sea Cucumber/Donate a sea cucumber to the museum"
+                    },
+                    {
+                        "name": "Donate Sea Pig - Donate a sea pig to the museum",
+                        "ref": "Donate Sea Creatures/Donate Sea Pig/Donate a sea pig to the museum"
+                    },
+                    {
+                        "name": "Donate Sea Star - Donate a sea star to the museum",
+                        "ref": "Donate Sea Creatures/Donate Sea Star/Donate a sea star to the museum"
+                    },
+                    {
+                        "name": "Donate Sea Urchin - Donate a sea urchin to the museum",
+                        "ref": "Donate Sea Creatures/Donate Sea Urchin/Donate a sea urchin to the museum"
+                    },
+                    {
+                        "name": "Donate Slate Pencil Urchin - Donate a slate pencil urchin to the museum",
+                        "ref": "Donate Sea Creatures/Donate Slate Pencil Urchin/Donate a slate pencil urchin to the museum"
+                    },
+                    {
+                        "name": "Donate Sea Anemone - Donate a sea anemone to the museum",
+                        "ref": "Donate Sea Creatures/Donate Sea Anemone/Donate a sea anemone to the museum"
+                    },
+                    {
+                        "name": "Donate Moon Jellyfish - Donate a moon jellyfish to the museum",
+                        "ref": "Donate Sea Creatures/Donate Moon Jellyfish/Donate a moon jellyfish to the museum"
+                    },
+                    {
+                        "name": "Donate Sea Slug - Donate a sea slug to the museum",
+                        "ref": "Donate Sea Creatures/Donate Sea Slug/Donate a sea slug to the museum"
+                    },
+                    {
+                        "name": "Donate Pearl Oyster - Donate a pearl oyster to the museum",
+                        "ref": "Donate Sea Creatures/Donate Pearl Oyster/Donate a pearl oyster to the museum"
+                    },
+                    {
+                        "name": "Donate Mussel - Donate a mussel to the museum",
+                        "ref": "Donate Sea Creatures/Donate Mussel/Donate a mussel to the museum"
+                    },
+                    {
+                        "name": "Donate Oyster - Donate an oyster to the museum",
+                        "ref": "Donate Sea Creatures/Donate Oyster/Donate an oyster to the museum"
+                    },
+                    {
+                        "name": "Donate Scallop - Donate a scallop to the museum",
+                        "ref": "Donate Sea Creatures/Donate Scallop/Donate a scallop to the museum"
+                    },
+                    {
+                        "name": "Donate Whelk - Donate a whelk to the museum",
+                        "ref": "Donate Sea Creatures/Donate Whelk/Donate a whelk to the museum"
+                    },
+                    {
+                        "name": "Donate Turban Shell - Donate a turban shell to the museum",
+                        "ref": "Donate Sea Creatures/Donate Turban Shell/Donate a turban shell to the museum"
+                    },
+                    {
+                        "name": "Donate Abalone - Donate an abalone to the museum",
+                        "ref": "Donate Sea Creatures/Donate Abalone/Donate an abalone to the museum"
+                    },
+                    {
+                        "name": "Donate Gigas Giant Clam - Donate a gigas giant clam to the museum",
+                        "ref": "Donate Sea Creatures/Donate Gigas Giant Clam/Donate a gigas giant clam to the museum"
+                    },
+                    {
+                        "name": "Donate Chambered Nautilus - Donate a chambered nautilus to the museum",
+                        "ref": "Donate Sea Creatures/Donate Chambered Nautilus/Donate a chambered nautilus to the museum"
+                    },
+                    {
+                        "name": "Donate Octopus - Donate an octopus to the museum",
+                        "ref": "Donate Sea Creatures/Donate Octopus/Donate an octopus to the museum"
+                    },
+                    {
+                        "name": "Donate Umbrella Octopus - Donate an umbrella octopus to the museum",
+                        "ref": "Donate Sea Creatures/Donate Umbrella Octopus/Donate an umbrella octopus to the museum"
+                    },
+                    {
+                        "name": "Donate Vampire Squid - Donate a vampire squid to the museum",
+                        "ref": "Donate Sea Creatures/Donate Vampire Squid/Donate a vampire squid to the museum"
+                    },
+                    {
+                        "name": "Donate Firefly Squid - Donate a firefly squid to the museum",
+                        "ref": "Donate Sea Creatures/Donate Firefly Squid/Donate a firefly squid to the museum"
+                    },
+                    {
+                        "name": "Donate Gazami Crab - Donate a gazami crab to the museum",
+                        "ref": "Donate Sea Creatures/Donate Gazami Crab/Donate a gazami crab to the museum"
+                    },
+                    {
+                        "name": "Donate Dungeness Crab - Donate a Dungeness crab to the museum",
+                        "ref": "Donate Sea Creatures/Donate Dungeness Crab/Donate a Dungeness crab to the museum"
+                    },
+                    {
+                        "name": "Donate Snow Crab - Donate a snow crab to the museum",
+                        "ref": "Donate Sea Creatures/Donate Snow Crab/Donate a snow crab to the museum"
+                    },
+                    {
+                        "name": "Donate Red King Crab - Donate a red king crab to the museum",
+                        "ref": "Donate Sea Creatures/Donate Red King Crab/Donate a red king crab to the museum"
+                    },
+                    {
+                        "name": "Donate Acorn Barnacle - Donate an acorn barnacle to the museum",
+                        "ref": "Donate Sea Creatures/Donate Acorn Barnacle/Donate an acorn barnacle to the museum"
+                    },
+                    {
+                        "name": "Donate Spider Crab - Donate a spider crab to the museum",
+                        "ref": "Donate Sea Creatures/Donate Spider Crab/Donate a spider crab to the museum"
+                    },
+                    {
+                        "name": "Donate Tiger Prawn - Donate a tiger prawn to the museum",
+                        "ref": "Donate Sea Creatures/Donate Tiger Prawn/Donate a tiger prawn to the museum"
+                    },
+                    {
+                        "name": "Donate Sweet Shrimp - Donate a sweet shrimp to the museum",
+                        "ref": "Donate Sea Creatures/Donate Sweet Shrimp/Donate a sweet shrimp to the museum"
+                    },
+                    {
+                        "name": "Donate Mantis Shrimp - Donate a mantis shrimp to the museum",
+                        "ref": "Donate Sea Creatures/Donate Mantis Shrimp/Donate a mantis shrimp to the museum"
+                    },
+                    {
+                        "name": "Donate Spiny Lobster - Donate a spiny lobster to the museum",
+                        "ref": "Donate Sea Creatures/Donate Spiny Lobster/Donate a spiny lobster to the museum"
+                    },
+                    {
+                        "name": "Donate Lobster - Donate a lobster to the museum",
+                        "ref": "Donate Sea Creatures/Donate Lobster/Donate a lobster to the museum"
+                    },
+                    {
+                        "name": "Donate Giant Isopod - Donate a giant isopod to the museum",
+                        "ref": "Donate Sea Creatures/Donate Giant Isopod/Donate a giant isopod to the museum"
+                    },
+                    {
+                        "name": "Donate Horseshoe Crab - Donate a horseshoe crab to the museum",
+                        "ref": "Donate Sea Creatures/Donate Horseshoe Crab/Donate a horseshoe crab to the museum"
+                    },
+                    {
+                        "name": "Donate Sea Pineapple - Donate a sea pineapple to the museum",
+                        "ref": "Donate Sea Creatures/Donate Sea Pineapple/Donate a sea pineapple to the museum"
+                    },
+                    {
+                        "name": "Donate Spotted Garden Eel - Donate a spotted garden eel to the museum",
+                        "ref": "Donate Sea Creatures/Donate Spotted Garden Eel/Donate a spotted garden eel to the museum"
+                    },
+                    {
+                        "name": "Donate Flatworm - Donate a flatworm to the museum",
+                        "ref": "Donate Sea Creatures/Donate Flatworm/Donate a flatworm to the museum"
+                    },
+                    {
+                        "name": "Donate Venus' Flower Basket - Donate a Venus' flower basket to the museum",
+                        "ref": "Donate Sea Creatures/Donate Venus' Flower Basket/Donate a Venus' flower basket to the museum"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 2122,
+                        "y": 1494,
+                        "size": 30
+                    }
+                ]
+            },
+            {
+                "name": "Museum",
+                "chest_unopened_img": "/images/items/closeleaf.png",
+                "chest_opened_img": "/images/items/openleaf.png",
+                "overlay_background": "#000000",
+                "access_rules": [],
+                "sections": [
+                    {
+                        "name": "Complete Museum - Donate all fish, bugs, sea creatures, and fossils to the museum and complete your goal!",
+                        "ref": "Museum/Complete Museum/Donate all fish, bugs, sea creatures, and fossils to the museum and complete your goal!"
+                    },
+                    {
+                        "name": "Complete Museum - Donate all fish, bugs, sea creatures, fossils, and works of art to the museum and complete your goal!",
+                        "ref": "Museum/Complete Museum/Donate all fish, bugs, sea creatures, fossils, and works of art to the museum and complete your goal!"
+                    },
+                    {
+                        "name": "Donations - Register 10 fish to your Critterpedia",
+                        "ref": "Museum/Donations/Register 10 fish to your Critterpedia"
+                    },
+                    {
+                        "name": "Donations - Register 10 bugs to your Critterpedia",
+                        "ref": "Museum/Donations/Register 10 bugs to your Critterpedia"
+                    },
+                    {
+                        "name": "Donations - Register 5 sea creatures to your Critterpedia",
+                        "ref": "Museum/Donations/Register 5 sea creatures to your Critterpedia"
+                    },
+                    {
+                        "name": "Scavenging - Find a fossil",
+                        "ref": "Museum/Scavenging/Find a fossil"
+                    },
+                    {
+                        "name": "Scavenging - Get 5 fossils assessed",
+                        "ref": "Museum/Scavenging/Get 5 fossils assessed"
+                    },
+                    {
+                        "name": "Scavenging - Find a gyroid",
+                        "ref": "Museum/Scavenging/Find a gyroid"
+                    },
+                    {
+                        "name": "Scavenging - Obtain 5 unique gyroids",
+                        "ref": "Museum/Scavenging/Obtain 5 unique gyroids"
+                    },
+                    {
+                        "name": "Scavenging - Fall for one of Redd's forgeries",
+                        "ref": "Museum/Scavenging/Fall for one of Redd's forgeries"
+                    },
+                    {
+                        "name": "Scavenging - Donate an actually real work of art from Redd",
+                        "ref": "Museum/Scavenging/Donate an actually real work of art from Redd"
+                    },
+                    {
+                        "name": "Scavenging - Enjoy a coffee at the Roost",
+                        "ref": "Museum/Scavenging/Enjoy a coffee at the Roost"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 374,
+                        "y": 1546,
+                        "size": 30
+                    }
+                ]
+            },
+            {
+                "name": "New Tent",
+                "chest_unopened_img": "/images/items/closeleaf.png",
+                "chest_opened_img": "/images/items/openleaf.png",
+                "overlay_background": "#000000",
+                "access_rules": [],
+                "sections": [
+                    {
+                        "name": "Let's Get Started! - Move to a new island and begin your island life!",
+                        "ref": "New Tent/Let's Get Started!/Move to a new island and begin your island life!"
+                    },
+                    {
+                        "name": "Let's Get Started! - Talk to all of your neighbours",
+                        "ref": "New Tent/Let's Get Started!/Talk to all of your neighbours"
+                    },
+                    {
+                        "name": "Let's Get Started! - Island Shutterbug",
+                        "ref": "New Tent/Let's Get Started!/Island Shutterbug"
+                    },
+                    {
+                        "name": "Let's Get Started! - Edit Credit",
+                        "ref": "New Tent/Let's Get Started!/Edit Credit"
+                    },
+                    {
+                        "name": "Let's Get Started! - NookPhone Life",
+                        "ref": "New Tent/Let's Get Started!/NookPhone Life"
+                    },
+                    {
+                        "name": "Let's Get Started! - Send 5 letters",
+                        "ref": "New Tent/Let's Get Started!/Send 5 letters"
+                    },
+                    {
+                        "name": "Let's Get Started! - Play on three different days",
+                        "ref": "New Tent/Let's Get Started!/Play on three different days"
+                    },
+                    {
+                        "name": "Out in the River - Catch 10 fish",
+                        "ref": "New Tent/Out in the River/Catch 10 fish"
+                    },
+                    {
+                        "name": "Out in the River - Fish up 3 pieces of trash",
+                        "ref": "New Tent/Out in the River/Fish up 3 pieces of trash"
+                    },
+                    {
+                        "name": "Out in the River - Catch 10 fish in a row",
+                        "ref": "New Tent/Out in the River/Catch 10 fish in a row"
+                    },
+                    {
+                        "name": "Out in the River - Pop a balloon and lose the present to the water",
+                        "ref": "New Tent/Out in the River/Pop a balloon and lose the present to the water"
+                    },
+                    {
+                        "name": "Out in Nature - Catch 10 bugs",
+                        "ref": "New Tent/Out in Nature/Catch 10 bugs"
+                    },
+                    {
+                        "name": "Out in Nature - Catch 5 wasps in a row",
+                        "ref": "New Tent/Out in Nature/Catch 5 wasps in a row"
+                    },
+                    {
+                        "name": "Out in Nature - Faint from a wasp sting",
+                        "ref": "New Tent/Out in Nature/Faint from a wasp sting"
+                    },
+                    {
+                        "name": "Out in Nature - Faint from a tarantula or scorpion attack",
+                        "ref": "New Tent/Out in Nature/Faint from a tarantula or scorpion attack"
+                    },
+                    {
+                        "name": "Out in Nature - Pop 5 balloons",
+                        "ref": "New Tent/Out in Nature/Pop 5 balloons"
+                    },
+                    {
+                        "name": "Out in Nature - Build a perfect snowperson",
+                        "ref": "New Tent/Out in Nature/Build a perfect snowperson"
+                    },
+                    {
+                        "name": "Out in Nature - Wish upon a shooting star",
+                        "ref": "New Tent/Out in Nature/Wish upon a shooting star"
+                    },
+                    {
+                        "name": "Out in Nature - Help Wisp get his spirit pieces back",
+                        "ref": "New Tent/Out in Nature/Help Wisp get his spirit pieces back"
+                    },
+                    {
+                        "name": "Out in Nature - Dig up some buried bells",
+                        "ref": "New Tent/Out in Nature/Dig up some buried bells"
+                    },
+                    {
+                        "name": "Out in Nature - Shake a piece of furniture from a tree",
+                        "ref": "New Tent/Out in Nature/Shake a piece of furniture from a tree"
+                    },
+                    {
+                        "name": "Crafting - Learn 10 DIY recipes",
+                        "ref": "New Tent/Crafting/Learn 10 DIY recipes"
+                    },
+                    {
+                        "name": "Crafting - Craft 5 furniture",
+                        "ref": "New Tent/Crafting/Craft 5 furniture"
+                    },
+                    {
+                        "name": "Crafting - Craft a simple DIY workbench",
+                        "ref": "New Tent/Crafting/Craft a simple DIY workbench"
+                    },
+                    {
+                        "name": "Crafting - Craft a campfire",
+                        "ref": "New Tent/Crafting/Craft a campfire"
+                    },
+                    {
+                        "name": "Crafting - Craft some medicine",
+                        "ref": "New Tent/Crafting/Craft some medicine"
+                    },
+                    {
+                        "name": "Crafting - Craft a leaf umbrella",
+                        "ref": "New Tent/Crafting/Craft a leaf umbrella"
+                    },
+                    {
+                        "name": "Resources - Chop 20 pieces of wood from trees",
+                        "ref": "New Tent/Resources/Chop 20 pieces of wood from trees"
+                    },
+                    {
+                        "name": "Resources - Hit one rock 8 times",
+                        "ref": "New Tent/Resources/Hit one rock 8 times"
+                    },
+                    {
+                        "name": "Tender Loving Care - Plant 10 flowers",
+                        "ref": "New Tent/Tender Loving Care/Plant 10 flowers"
+                    },
+                    {
+                        "name": "Tender Loving Care - Water 10 flowers",
+                        "ref": "New Tent/Tender Loving Care/Water 10 flowers"
+                    },
+                    {
+                        "name": "Tender Loving Care - Plant 5 trees",
+                        "ref": "New Tent/Tender Loving Care/Plant 5 trees"
+                    },
+                    {
+                        "name": "Tender Loving Care - Plant a fruit tree",
+                        "ref": "New Tent/Tender Loving Care/Plant a fruit tree"
+                    },
+                    {
+                        "name": "Tender Loving Care - Fulfill a request from a villager",
+                        "ref": "New Tent/Tender Loving Care/Fulfill a request from a villager"
+                    },
+                    {
+                        "name": "Tender Loving Care - Learn a reaction",
+                        "ref": "New Tent/Tender Loving Care/Learn a reaction"
+                    },
+                    {
+                        "name": "Tender Loving Care - Build 20 fences",
+                        "ref": "New Tent/Tender Loving Care/Build 20 fences"
+                    },
+                    {
+                        "name": "Tender Loving Care - Place a piece of furniture outside",
+                        "ref": "New Tent/Tender Loving Care/Place a piece of furniture outside"
+                    },
+                    {
+                        "name": "Tender Loving Care - Become best friends with a villager",
+                        "ref": "New Tent/Tender Loving Care/Become best friends with a villager"
+                    },
+                    {
+                        "name": "Tender Loving Care - Visit a villager on their birthday",
+                        "ref": "New Tent/Tender Loving Care/Visit a villager on their birthday"
+                    },
+                    {
+                        "name": "Tender Loving Care - And have a happy birthday of your own!",
+                        "ref": "New Tent/Tender Loving Care/And have a happy birthday of your own!"
+                    },
+                    {
+                        "name": "Tender Loving Care - Create your first custom design",
+                        "ref": "New Tent/Tender Loving Care/Create your first custom design"
+                    },
+                    {
+                        "name": "Tender Loving Care - Create a pro custom design",
+                        "ref": "New Tent/Tender Loving Care/Create a pro custom design"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 1651,
+                        "y": 2326,
+                        "size": 30
+                    }
+                ]
+            },
+            {
+                "name": "Nook's Cranny",
+                "chest_unopened_img": "/images/items/closeleaf.png",
+                "chest_opened_img": "/images/items/openleaf.png",
+                "overlay_background": "#000000",
+                "access_rules": [],
+                "sections": [
+                    {
+                        "name": "Bells, Bells, Bells - Sell 50 clumps of weeds",
+                        "ref": "Nook's Cranny/Bells, Bells, Bells/Sell 50 clumps of weeds"
+                    },
+                    {
+                        "name": "Bells, Bells, Bells - Sell 20 fruit",
+                        "ref": "Nook's Cranny/Bells, Bells, Bells/Sell 20 fruit"
+                    },
+                    {
+                        "name": "Bells, Bells, Bells - Sell 10 seashells",
+                        "ref": "Nook's Cranny/Bells, Bells, Bells/Sell 10 seashells"
+                    },
+                    {
+                        "name": "Bells, Bells, Bells - Buy something for the first time",
+                        "ref": "Nook's Cranny/Bells, Bells, Bells/Buy something for the first time"
+                    },
+                    {
+                        "name": "Bells, Bells, Bells - Sell something for the first time",
+                        "ref": "Nook's Cranny/Bells, Bells, Bells/Sell something for the first time"
+                    },
+                    {
+                        "name": "Bells, Bells, Bells - Spend 5,000 bells",
+                        "ref": "Nook's Cranny/Bells, Bells, Bells/Spend 5,000 bells"
+                    },
+                    {
+                        "name": "Bells, Bells, Bells - Buy turnips from Daisy Mae",
+                        "ref": "Nook's Cranny/Bells, Bells, Bells/Buy turnips from Daisy Mae"
+                    },
+                    {
+                        "name": "Bells, Bells, Bells - Make 1,000 bells on the Stalk Market",
+                        "ref": "Nook's Cranny/Bells, Bells, Bells/Make 1,000 bells on the Stalk Market"
+                    },
+                    {
+                        "name": "The Cabinet - Bury a pitfall seed",
+                        "ref": "Nook's Cranny/The Cabinet/Bury a pitfall seed"
+                    },
+                    {
+                        "name": "The Cabinet - Fall into the hole created by said pitfall seed",
+                        "ref": "Nook's Cranny/The Cabinet/Fall into the hole created by said pitfall seed"
+                    },
+                    {
+                        "name": "The Cabinet - Craft a wooden ladder set-up kit",
+                        "ref": "Nook's Cranny/The Cabinet/Craft a wooden ladder set-up kit"
+                    },
+                    {
+                        "name": "The Cabinet - Craft a pitfall seed",
+                        "ref": "Nook's Cranny/The Cabinet/Craft a pitfall seed"
+                    },
+                    {
+                        "name": "DIY for Beginners - Craft an ocarina",
+                        "ref": "Nook's Cranny/DIY for Beginners/Craft an ocarina"
+                    },
+                    {
+                        "name": "DIY for Beginners - Craft an old-fashioned washtub",
+                        "ref": "Nook's Cranny/DIY for Beginners/Craft an old-fashioned washtub"
+                    },
+                    {
+                        "name": "DIY for Beginners - Craft a stone stool",
+                        "ref": "Nook's Cranny/DIY for Beginners/Craft a stone stool"
+                    },
+                    {
+                        "name": "DIY for Beginners - Craft a frying pan",
+                        "ref": "Nook's Cranny/DIY for Beginners/Craft a frying pan"
+                    },
+                    {
+                        "name": "DIY for Beginners - Craft a hay bed",
+                        "ref": "Nook's Cranny/DIY for Beginners/Craft a hay bed"
+                    },
+                    {
+                        "name": "Test Your DIY Skills - Craft a mini DIY workbench",
+                        "ref": "Nook's Cranny/Test Your DIY Skills/Craft a mini DIY workbench"
+                    },
+                    {
+                        "name": "Test Your DIY Skills - Craft a wooden-block chair",
+                        "ref": "Nook's Cranny/Test Your DIY Skills/Craft a wooden-block chair"
+                    },
+                    {
+                        "name": "Test Your DIY Skills - Craft a wooden-block bookshelf",
+                        "ref": "Nook's Cranny/Test Your DIY Skills/Craft a wooden-block bookshelf"
+                    },
+                    {
+                        "name": "Test Your DIY Skills - Craft a rocking chair",
+                        "ref": "Nook's Cranny/Test Your DIY Skills/Craft a rocking chair"
+                    },
+                    {
+                        "name": "Test Your DIY Skills - Craft a ringtoss",
+                        "ref": "Nook's Cranny/Test Your DIY Skills/Craft a ringtoss"
+                    },
+                    {
+                        "name": "Test Your DIY Skills - Craft a swinging bench",
+                        "ref": "Nook's Cranny/Test Your DIY Skills/Craft a swinging bench"
+                    },
+                    {
+                        "name": "Test Your DIY Skills - Craft a potted ivy",
+                        "ref": "Nook's Cranny/Test Your DIY Skills/Craft a potted ivy"
+                    },
+                    {
+                        "name": "Wildest Dreams DIY - Craft a plain sink",
+                        "ref": "Nook's Cranny/Wildest Dreams DIY/Craft a plain sink"
+                    },
+                    {
+                        "name": "Wildest Dreams DIY - Craft a wooden fish",
+                        "ref": "Nook's Cranny/Wildest Dreams DIY/Craft a wooden fish"
+                    },
+                    {
+                        "name": "Wildest Dreams DIY - Craft a brick oven",
+                        "ref": "Nook's Cranny/Wildest Dreams DIY/Craft a brick oven"
+                    },
+                    {
+                        "name": "Wildest Dreams DIY - Craft an iron wall lamp",
+                        "ref": "Nook's Cranny/Wildest Dreams DIY/Craft an iron wall lamp"
+                    },
+                    {
+                        "name": "Wildest Dreams DIY - Craft a hearth",
+                        "ref": "Nook's Cranny/Wildest Dreams DIY/Craft a hearth"
+                    },
+                    {
+                        "name": "Basic Cooking Recipes - Cook some whole wheat flour",
+                        "ref": "Nook's Cranny/Basic Cooking Recipes/Cook some whole wheat flour"
+                    },
+                    {
+                        "name": "Basic Cooking Recipes - Cook some brown sugar",
+                        "ref": "Nook's Cranny/Basic Cooking Recipes/Cook some brown sugar"
+                    },
+                    {
+                        "name": "Basic Cooking Recipes - Cook some seaweed soup",
+                        "ref": "Nook's Cranny/Basic Cooking Recipes/Cook some seaweed soup"
+                    },
+                    {
+                        "name": "Basic Cooking Recipes - Cook some organic bread",
+                        "ref": "Nook's Cranny/Basic Cooking Recipes/Cook some organic bread"
+                    },
+                    {
+                        "name": "Basic Cooking Recipes - Cook some gnocchi di patate",
+                        "ref": "Nook's Cranny/Basic Cooking Recipes/Cook some gnocchi di patate"
+                    },
+                    {
+                        "name": "Basic Cooking Recipes - Cook some tomato puree",
+                        "ref": "Nook's Cranny/Basic Cooking Recipes/Cook some tomato puree"
+                    },
+                    {
+                        "name": "Basic Cooking Recipes - Cook some brown-sugar cupcakes",
+                        "ref": "Nook's Cranny/Basic Cooking Recipes/Cook some brown-sugar cupcakes"
+                    },
+                    {
+                        "name": "Basic Cooking Recipes - Cook some carrot cake",
+                        "ref": "Nook's Cranny/Basic Cooking Recipes/Cook some carrot cake"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 1041,
+                        "y": 90,
+                        "size": 30
+                    }
+                ]
+            },
+            {
+                "name": "Plaza",
+                "chest_unopened_img": "/images/items/closeleaf.png",
+                "chest_opened_img": "/images/items/openleaf.png",
+                "overlay_background": "#000000",
+                "access_rules": [],
+                "sections": [
+                    {
+                        "name": "K.K. Slider - Watch K.K. perform at the plaza for the first time and complete your goal!",
+                        "ref": "Plaza/K.K. Slider/Watch K.K. perform at the plaza for the first time and complete your goal!"
+                    },
+                    {
+                        "name": "K.K. Slider - Watch K.K. Slider perform for the first time",
+                        "ref": "Plaza/K.K. Slider/Watch K.K. Slider perform for the first time"
+                    },
+                    {
+                        "name": "Leif - Plant a shrub",
+                        "ref": "Plaza/Leif/Plant a shrub"
+                    },
+                    {
+                        "name": "Leif - Plant 5 produce crops",
+                        "ref": "Plaza/Leif/Plant 5 produce crops"
+                    },
+                    {
+                        "name": "Leif - Harvest 10 produce",
+                        "ref": "Plaza/Leif/Harvest 10 produce"
+                    },
+                    {
+                        "name": "Leif - Craft a hedge",
+                        "ref": "Plaza/Leif/Craft a hedge"
+                    },
+                    {
+                        "name": "Leif - Craft a veggie basket",
+                        "ref": "Plaza/Leif/Craft a veggie basket"
+                    },
+                    {
+                        "name": "Bulletin-Board Benefit - Post to the bulletin board",
+                        "ref": "Plaza/Bulletin-Board Benefit/Post to the bulletin board"
+                    },
+                    {
+                        "name": "Do Your Stretches Today! - Join in a group stretching session",
+                        "ref": "Plaza/Do Your Stretches Today!/Join in a group stretching session"
+                    },
+                    {
+                        "name": "Three, Two, One, GO! - Participate in a Fishing Tourney",
+                        "ref": "Plaza/Three, Two, One, GO!/Participate in a Fishing Tourney"
+                    },
+                    {
+                        "name": "Three, Two, One, GO! - Participate in a Bug-Off",
+                        "ref": "Plaza/Three, Two, One, GO!/Participate in a Bug-Off"
+                    },
+                    {
+                        "name": "Happy New Year! - Attend the Countdown event",
+                        "ref": "Plaza/Happy New Year!/Attend the Countdown event"
+                    },
+                    {
+                        "name": "Halloween - Craft a spooky carriage",
+                        "ref": "Plaza/Halloween/Craft a spooky carriage"
+                    },
+                    {
+                        "name": "Turkey Day - Craft a Turkey Day chair",
+                        "ref": "Plaza/Turkey Day/Craft a Turkey Day chair"
+                    },
+                    {
+                        "name": "Turkey Day - Craft a Turkey Day table",
+                        "ref": "Plaza/Turkey Day/Craft a Turkey Day table"
+                    },
+                    {
+                        "name": "Turkey Day - Craft a Turkey Day garden stand",
+                        "ref": "Plaza/Turkey Day/Craft a Turkey Day garden stand"
+                    },
+                    {
+                        "name": "Turkey Day - Craft a Turkey Day hearth",
+                        "ref": "Plaza/Turkey Day/Craft a Turkey Day hearth"
+                    },
+                    {
+                        "name": "Turkey Day - Craft a Turkey Day casserole",
+                        "ref": "Plaza/Turkey Day/Craft a Turkey Day casserole"
+                    },
+                    {
+                        "name": "Turkey Day - Craft a Turkey Day table setting",
+                        "ref": "Plaza/Turkey Day/Craft a Turkey Day table setting"
+                    },
+                    {
+                        "name": "Turkey Day - Craft some Turkey Day wheat decor",
+                        "ref": "Plaza/Turkey Day/Craft some Turkey Day wheat decor"
+                    },
+                    {
+                        "name": "Turkey Day - Craft some Turkey Day decorations",
+                        "ref": "Plaza/Turkey Day/Craft some Turkey Day decorations"
+                    },
+                    {
+                        "name": "Turkey Day - Cook some clam chowder",
+                        "ref": "Plaza/Turkey Day/Cook some clam chowder"
+                    },
+                    {
+                        "name": "Turkey Day - Cook some pumpkin pie",
+                        "ref": "Plaza/Turkey Day/Cook some pumpkin pie"
+                    },
+                    {
+                        "name": "Turkey Day - Cook some gratin",
+                        "ref": "Plaza/Turkey Day/Cook some gratin"
+                    },
+                    {
+                        "name": "Turkey Day - Cook some olive-flounder meunière",
+                        "ref": "Plaza/Turkey Day/Cook some olive-flounder meunière"
+                    },
+                    {
+                        "name": "Toy Day - Craft a gift pile",
+                        "ref": "Plaza/Toy Day/Craft a gift pile"
+                    },
+                    {
+                        "name": "Toy Day - Craft some festive wrapping paper",
+                        "ref": "Plaza/Toy Day/Craft some festive wrapping paper"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 2097,
+                        "y": 635,
+                        "size": 30
+                    }
+                ]
+            },
+            {
+                "name": "Resident Services Building",
+                "chest_unopened_img": "/images/items/closeleaf.png",
+                "chest_opened_img": "/images/items/openleaf.png",
+                "overlay_background": "#000000",
+                "access_rules": [],
+                "sections": [
+                    {
+                        "name": "Pay Off Your Loans! - Pay off all of your loans and complete your goal!",
+                        "ref": "Resident Services Building/Pay Off Your Loans!/Pay off all of your loans and complete your goal!"
+                    },
+                    {
+                        "name": "Customization - Customize 5 furniture items",
+                        "ref": "Resident Services Building/Customization/Customize 5 furniture items"
+                    },
+                    {
+                        "name": "Customization - Change up your look at a wardrobe",
+                        "ref": "Resident Services Building/Customization/Change up your look at a wardrobe"
+                    },
+                    {
+                        "name": "Customization - Craft a wooden wardrobe",
+                        "ref": "Resident Services Building/Customization/Craft a wooden wardrobe"
+                    },
+                    {
+                        "name": "Making The Island Your Own - Change your island's flag or tune",
+                        "ref": "Resident Services Building/Making The Island Your Own/Change your island's flag or tune"
+                    },
+                    {
+                        "name": "Making The Island Your Own - Use the Island Designer app",
+                        "ref": "Resident Services Building/Making The Island Your Own/Use the Island Designer app"
+                    },
+                    {
+                        "name": "Making The Island Your Own - Craft a bamboo noodle slide",
+                        "ref": "Resident Services Building/Making The Island Your Own/Craft a bamboo noodle slide"
+                    },
+                    {
+                        "name": "Making The Island Your Own - Craft a mushroom wreath",
+                        "ref": "Resident Services Building/Making The Island Your Own/Craft a mushroom wreath"
+                    },
+                    {
+                        "name": "Making The Island Your Own - Craft an ornament wreath",
+                        "ref": "Resident Services Building/Making The Island Your Own/Craft an ornament wreath"
+                    },
+                    {
+                        "name": "Making The Island Your Own - Craft an outdoor picnic set",
+                        "ref": "Resident Services Building/Making The Island Your Own/Craft an outdoor picnic set"
+                    },
+                    {
+                        "name": "Making The Island Your Own - Craft a red-leaf pile",
+                        "ref": "Resident Services Building/Making The Island Your Own/Craft a red-leaf pile"
+                    },
+                    {
+                        "name": "Making The Island Your Own - Craft a shell wreath",
+                        "ref": "Resident Services Building/Making The Island Your Own/Craft a shell wreath"
+                    },
+                    {
+                        "name": "Making The Island Your Own - Craft a snowflake wreath",
+                        "ref": "Resident Services Building/Making The Island Your Own/Craft a snowflake wreath"
+                    },
+                    {
+                        "name": "Making The Island Your Own - Craft a tree's bounty little tree",
+                        "ref": "Resident Services Building/Making The Island Your Own/Craft a tree's bounty little tree"
+                    },
+                    {
+                        "name": "Start Project K! - Craft the campsite construction kit",
+                        "ref": "Resident Services Building/Start Project K!/Craft the campsite construction kit"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 2295,
+                        "y": 1296,
+                        "size": 30
+                    }
+                ]
+            },
+            {
+                "name": "Resident Services Tent",
+                "chest_unopened_img": "/images/items/closeleaf.png",
+                "chest_opened_img": "/images/items/openleaf.png",
+                "overlay_background": "#000000",
+                "access_rules": [],
+                "sections": [
+                    {
+                        "name": "Tools - Craft 5 tools",
+                        "ref": "Resident Services Tent/Tools/Craft 5 tools"
+                    },
+                    {
+                        "name": "Tools - Break a tool",
+                        "ref": "Resident Services Tent/Tools/Break a tool"
+                    },
+                    {
+                        "name": "Tools - Craft a flimsy net",
+                        "ref": "Resident Services Tent/Tools/Craft a flimsy net"
+                    },
+                    {
+                        "name": "Tools - Craft a net",
+                        "ref": "Resident Services Tent/Tools/Craft a net"
+                    },
+                    {
+                        "name": "Tools - Craft a flimsy fishing rod",
+                        "ref": "Resident Services Tent/Tools/Craft a flimsy fishing rod"
+                    },
+                    {
+                        "name": "Tools - Craft a fishing rod",
+                        "ref": "Resident Services Tent/Tools/Craft a fishing rod"
+                    },
+                    {
+                        "name": "Tools - Craft a flimsy shovel",
+                        "ref": "Resident Services Tent/Tools/Craft a flimsy shovel"
+                    },
+                    {
+                        "name": "Tools - Craft a shovel",
+                        "ref": "Resident Services Tent/Tools/Craft a shovel"
+                    },
+                    {
+                        "name": "Tools - Craft a flimsy axe",
+                        "ref": "Resident Services Tent/Tools/Craft a flimsy axe"
+                    },
+                    {
+                        "name": "Tools - Craft a stone axe",
+                        "ref": "Resident Services Tent/Tools/Craft a stone axe"
+                    },
+                    {
+                        "name": "Tools - Craft an axe",
+                        "ref": "Resident Services Tent/Tools/Craft an axe"
+                    },
+                    {
+                        "name": "Tools - Craft a flimsy watering can",
+                        "ref": "Resident Services Tent/Tools/Craft a flimsy watering can"
+                    },
+                    {
+                        "name": "Tools - Craft a watering can",
+                        "ref": "Resident Services Tent/Tools/Craft a watering can"
+                    },
+                    {
+                        "name": "Tools - Craft a slingshot",
+                        "ref": "Resident Services Tent/Tools/Craft a slingshot"
+                    },
+                    {
+                        "name": "Tools - Craft a vaulting pole",
+                        "ref": "Resident Services Tent/Tools/Craft a vaulting pole"
+                    },
+                    {
+                        "name": "Tools - Craft a ladder",
+                        "ref": "Resident Services Tent/Tools/Craft a ladder"
+                    },
+                    {
+                        "name": "Dream Home - Upgrade from a tent to a house!",
+                        "ref": "Resident Services Tent/Dream Home/Upgrade from a tent to a house!"
+                    },
+                    {
+                        "name": "Dream Home - Pay off your moving fees!",
+                        "ref": "Resident Services Tent/Dream Home/Pay off your moving fees!"
+                    },
+                    {
+                        "name": "Dream Home - Pay off your first home loan",
+                        "ref": "Resident Services Tent/Dream Home/Pay off your first home loan"
+                    },
+                    {
+                        "name": "Nook Stop - Purchase something from Nook Shopping",
+                        "ref": "Resident Services Tent/Nook Stop/Purchase something from Nook Shopping"
+                    },
+                    {
+                        "name": "Nook Stop - Catalog 100 items to Nook Shopping",
+                        "ref": "Resident Services Tent/Nook Stop/Catalog 100 items to Nook Shopping"
+                    },
+                    {
+                        "name": "Nook Stop - Complete 5 Nook Miles+ tasks",
+                        "ref": "Resident Services Tent/Nook Stop/Complete 5 Nook Miles+ tasks"
+                    },
+                    {
+                        "name": "Nook Stop - Craft a stall",
+                        "ref": "Resident Services Tent/Nook Stop/Craft a stall"
+                    },
+                    {
+                        "name": "Nook Stop - Craft a destinations signpost",
+                        "ref": "Resident Services Tent/Nook Stop/Craft a destinations signpost"
+                    },
+                    {
+                        "name": "Nook Stop - Craft a donation box",
+                        "ref": "Resident Services Tent/Nook Stop/Craft a donation box"
+                    },
+                    {
+                        "name": "Nook Stop - Craft a brick well",
+                        "ref": "Resident Services Tent/Nook Stop/Craft a brick well"
+                    },
+                    {
+                        "name": "Nook Stop - Craft a silo",
+                        "ref": "Resident Services Tent/Nook Stop/Craft a silo"
+                    },
+                    {
+                        "name": "Nook Stop - Craft a drinking fountain",
+                        "ref": "Resident Services Tent/Nook Stop/Craft a drinking fountain"
+                    },
+                    {
+                        "name": "Nook Stop - Craft a stone arch",
+                        "ref": "Resident Services Tent/Nook Stop/Craft a stone arch"
+                    },
+                    {
+                        "name": "Nook Stop - Craft a simple well",
+                        "ref": "Resident Services Tent/Nook Stop/Craft a simple well"
+                    },
+                    {
+                        "name": "Nook Stop - Craft an outdoor bath",
+                        "ref": "Resident Services Tent/Nook Stop/Craft an outdoor bath"
+                    },
+                    {
+                        "name": "Nook Stop - Craft a wave breaker",
+                        "ref": "Resident Services Tent/Nook Stop/Craft a wave breaker"
+                    },
+                    {
+                        "name": "Nook Stop - Craft a stone tablet",
+                        "ref": "Resident Services Tent/Nook Stop/Craft a stone tablet"
+                    },
+                    {
+                        "name": "Nook Stop - Craft a manhole cover",
+                        "ref": "Resident Services Tent/Nook Stop/Craft a manhole cover"
+                    },
+                    {
+                        "name": "Nook Stop - Craft a fountain",
+                        "ref": "Resident Services Tent/Nook Stop/Craft a fountain"
+                    },
+                    {
+                        "name": "Preparing Three Homes - Craft a wooden-block toy",
+                        "ref": "Resident Services Tent/Preparing Three Homes/Craft a wooden-block toy"
+                    },
+                    {
+                        "name": "Preparing Three Homes - Craft a wooden chair",
+                        "ref": "Resident Services Tent/Preparing Three Homes/Craft a wooden chair"
+                    },
+                    {
+                        "name": "Preparing Three Homes - Craft a wooden simple bed",
+                        "ref": "Resident Services Tent/Preparing Three Homes/Craft a wooden simple bed"
+                    },
+                    {
+                        "name": "Preparing Three Homes - Craft a wooden-block table",
+                        "ref": "Resident Services Tent/Preparing Three Homes/Craft a wooden-block table"
+                    },
+                    {
+                        "name": "Preparing Three Homes - Craft a wooden-block stereo",
+                        "ref": "Resident Services Tent/Preparing Three Homes/Craft a wooden-block stereo"
+                    },
+                    {
+                        "name": "Preparing Three Homes - Craft a classic pitcher",
+                        "ref": "Resident Services Tent/Preparing Three Homes/Craft a classic pitcher"
+                    },
+                    {
+                        "name": "Preparing Three Homes - Craft a pot",
+                        "ref": "Resident Services Tent/Preparing Three Homes/Craft a pot"
+                    },
+                    {
+                        "name": "Preparing Three Homes - Craft a piece of furniture using your island's native fruit",
+                        "ref": "Resident Services Tent/Preparing Three Homes/Craft a piece of furniture using your island's native fruit"
+                    },
+                    {
+                        "name": "Preparing Three Homes - Craft another piece of furniture using your island's native fruit",
+                        "ref": "Resident Services Tent/Preparing Three Homes/Craft another piece of furniture using your island's native fruit"
+                    },
+                    {
+                        "name": "Preparing Three Homes - Craft a wreath using your island's native flower",
+                        "ref": "Resident Services Tent/Preparing Three Homes/Craft a wreath using your island's native flower"
+                    },
+                    {
+                        "name": "Bridging a Gap - Craft the bridge construction kit",
+                        "ref": "Resident Services Tent/Bridging a Gap/Craft the bridge construction kit"
+                    },
+                    {
+                        "name": "Some Axe Recipes For You - Craft a bonfire",
+                        "ref": "Resident Services Tent/Some Axe Recipes For You/Craft a bonfire"
+                    },
+                    {
+                        "name": "Some Axe Recipes For You - Craft a tiki torch",
+                        "ref": "Resident Services Tent/Some Axe Recipes For You/Craft a tiki torch"
+                    },
+                    {
+                        "name": "Some Axe Recipes For You - Craft some log stakes",
+                        "ref": "Resident Services Tent/Some Axe Recipes For You/Craft some log stakes"
+                    },
+                    {
+                        "name": "Some Axe Recipes For You - Craft a birdhouse",
+                        "ref": "Resident Services Tent/Some Axe Recipes For You/Craft a birdhouse"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 2013,
+                        "y": 1879,
+                        "size": 30
+                    }
+                ]
+            },
+            {
+                "name": "The Beach",
+                "chest_unopened_img": "/images/items/closeleaf.png",
+                "chest_opened_img": "/images/items/openleaf.png",
+                "overlay_background": "#000000",
+                "access_rules": [],
+                "sections": [
+                    {
+                        "name": "The Ocean - Catch 5 sea creatures",
+                        "ref": "The Beach/The Ocean/Catch 5 sea creatures"
+                    },
+                    {
+                        "name": "The Ocean - Give Pascal a scallop",
+                        "ref": "The Beach/The Ocean/Give Pascal a scallop"
+                    },
+                    {
+                        "name": "Finding Stuff in the Sand - Find 5 manila clams",
+                        "ref": "The Beach/Finding Stuff in the Sand/Find 5 manila clams"
+                    },
+                    {
+                        "name": "Finding Stuff in the Sand - Help Gulliver or Gullivarrr",
+                        "ref": "The Beach/Finding Stuff in the Sand/Help Gulliver or Gullivarrr"
+                    },
+                    {
+                        "name": "Finding Stuff in the Sand - Craft some fish bait",
+                        "ref": "The Beach/Finding Stuff in the Sand/Craft some fish bait"
+                    },
+                    {
+                        "name": "The Pier - Accompany Kapp'n on a boat tour",
+                        "ref": "The Beach/The Pier/Accompany Kapp'n on a boat tour"
+                    },
+                    {
+                        "name": "The Pier - Decorate a hotel room",
+                        "ref": "The Beach/The Pier/Decorate a hotel room"
+                    },
+                    {
+                        "name": "The Pier - Show a lost tourist to the hotel",
+                        "ref": "The Beach/The Pier/Show a lost tourist to the hotel"
+                    },
+                    {
+                        "name": "The Pier - Fulfill 5 DIY requests from the hotel",
+                        "ref": "The Beach/The Pier/Fulfill 5 DIY requests from the hotel"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 2427,
+                        "y": 709,
+                        "size": 30
+                    }
+                ]
+            },
+            {
+                "name": "The Great Indoors",
+                "chest_unopened_img": "/images/items/closeleaf.png",
+                "chest_opened_img": "/images/items/openleaf.png",
+                "overlay_background": "#000000",
+                "access_rules": [],
+                "sections": [
+                    {
+                        "name": "The Kitchen - Learn 20 cooking recipes",
+                        "ref": "The Great Indoors/The Kitchen/Learn 20 cooking recipes"
+                    },
+                    {
+                        "name": "The Kitchen - Cook 5 food items",
+                        "ref": "The Great Indoors/The Kitchen/Cook 5 food items"
+                    },
+                    {
+                        "name": "The Kitchen - Cook some flour",
+                        "ref": "The Great Indoors/The Kitchen/Cook some flour"
+                    },
+                    {
+                        "name": "The Kitchen - Cook some sugar",
+                        "ref": "The Great Indoors/The Kitchen/Cook some sugar"
+                    },
+                    {
+                        "name": "The Kitchen - Cook some carrot potage",
+                        "ref": "The Great Indoors/The Kitchen/Cook some carrot potage"
+                    },
+                    {
+                        "name": "The Kitchen - Cook a pumpkin bagel sandwich",
+                        "ref": "The Great Indoors/The Kitchen/Cook a pumpkin bagel sandwich"
+                    },
+                    {
+                        "name": "The Kitchen - Cook some tomato curry",
+                        "ref": "The Great Indoors/The Kitchen/Cook some tomato curry"
+                    },
+                    {
+                        "name": "The Kitchen - Cook a grilled sea bass with herbs",
+                        "ref": "The Great Indoors/The Kitchen/Cook a grilled sea bass with herbs"
+                    },
+                    {
+                        "name": "The Kitchen - Cook some pancakes",
+                        "ref": "The Great Indoors/The Kitchen/Cook some pancakes"
+                    },
+                    {
+                        "name": "The Kitchen - Cook a smoothie with your island's native fruit",
+                        "ref": "The Great Indoors/The Kitchen/Cook a smoothie with your island's native fruit"
+                    },
+                    {
+                        "name": "Get Decorating! - Obtain an S-rank from the Happy Home Academy",
+                        "ref": "The Great Indoors/Get Decorating!/Obtain an S-rank from the Happy Home Academy"
+                    },
+                    {
+                        "name": "Get Decorating! - Place 5 furniture items in your home",
+                        "ref": "The Great Indoors/Get Decorating!/Place 5 furniture items in your home"
+                    },
+                    {
+                        "name": "Get Decorating! - Put 20 items in storage",
+                        "ref": "The Great Indoors/Get Decorating!/Put 20 items in storage"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 1541,
+                        "y": 2118,
+                        "size": 30
+                    }
+                ]
+            },
+            {
+                "name": "Villager Photos",
+                "chest_unopened_img": "/images/items/closeleaf.png",
+                "chest_opened_img": "/images/items/openleaf.png",
+                "overlay_background": "#000000",
+                "access_rules": [],
+                "sections": [
+                    {
+                        "name": "Villager Photo #1 - Obtain a photo from a villager",
+                        "ref": "Villager Photos/Villager Photo #1/Obtain a photo from a villager"
+                    },
+                    {
+                        "name": "Villager Photo #2 - Obtain a photo from a villager",
+                        "ref": "Villager Photos/Villager Photo #2/Obtain a photo from a villager"
+                    },
+                    {
+                        "name": "Villager Photo #3 - Obtain a photo from a villager",
+                        "ref": "Villager Photos/Villager Photo #3/Obtain a photo from a villager"
+                    },
+                    {
+                        "name": "Villager Photo #4 - Obtain a photo from a villager",
+                        "ref": "Villager Photos/Villager Photo #4/Obtain a photo from a villager"
+                    },
+                    {
+                        "name": "Villager Photo #5 - Obtain a photo from a villager",
+                        "ref": "Villager Photos/Villager Photo #5/Obtain a photo from a villager"
+                    },
+                    {
+                        "name": "Villager Photo #6 - Obtain a photo from a villager",
+                        "ref": "Villager Photos/Villager Photo #6/Obtain a photo from a villager"
+                    },
+                    {
+                        "name": "Villager Photo #7 - Obtain a photo from a villager",
+                        "ref": "Villager Photos/Villager Photo #7/Obtain a photo from a villager"
+                    },
+                    {
+                        "name": "Villager Photo #8 - Obtain a photo from a villager",
+                        "ref": "Villager Photos/Villager Photo #8/Obtain a photo from a villager"
+                    },
+                    {
+                        "name": "Villager Photo #9 - Obtain a photo from a villager",
+                        "ref": "Villager Photos/Villager Photo #9/Obtain a photo from a villager"
+                    },
+                    {
+                        "name": "Villager Photo #10 - Obtain a photo from a villager",
+                        "ref": "Villager Photos/Villager Photo #10/Obtain a photo from a villager"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 1459,
+                        "y": 1216,
+                        "size": 30
+                    }
+                ]
+            }
+        ]
+    }
+]

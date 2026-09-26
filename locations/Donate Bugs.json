@@ -1,0 +1,2171 @@
+[
+    {
+        "name": "Donate Bugs",
+        "chest_unopened_img": "/images/items/closebug.png",
+        "chest_opened_img": "/images/items/openbug.png",
+        "overlay_background": "#000000",
+        "access_rules": [],
+        "children": [
+            {
+                "name": "Donate Flea",
+                "chest_unopened_img": "/images/items/closebug.png",
+                "chest_opened_img": "/images/items/openbug.png",
+                "overlay_background": "#000000",
+                "access_rules": [],
+                "sections": [
+                    {
+                        "name": "Donate a flea to the museum",
+                        "access_rules": [
+                            "$Rule|349"
+                        ],
+                        "visibility_rules": [
+                            "$Vis|349"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Donate Bugs",
+                        "x": 2563,
+                        "y": 723,
+                        "size": 30
+                    }
+                ]
+            },
+            {
+                "name": "Donate Cicada Shell",
+                "chest_unopened_img": "/images/items/closebug.png",
+                "chest_opened_img": "/images/items/openbug.png",
+                "overlay_background": "#000000",
+                "access_rules": [],
+                "sections": [
+                    {
+                        "name": "Donate a cicada shell to the museum",
+                        "access_rules": [
+                            "$Rule|306"
+                        ],
+                        "visibility_rules": [
+                            "$Vis|306"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Donate Bugs",
+                        "x": 1212,
+                        "y": 300,
+                        "size": 30
+                    }
+                ]
+            },
+            {
+                "name": "Donate Common Butterfly",
+                "chest_unopened_img": "/images/items/closebug.png",
+                "chest_opened_img": "/images/items/openbug.png",
+                "overlay_background": "#000000",
+                "access_rules": [],
+                "sections": [
+                    {
+                        "name": "Donate a common butterfly to the museum",
+                        "access_rules": [
+                            "$Rule|276"
+                        ],
+                        "visibility_rules": [
+                            "$Vis|276"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Donate Bugs",
+                        "x": 197,
+                        "y": 300,
+                        "size": 30
+                    }
+                ]
+            },
+            {
+                "name": "Donate Yellow Butterfly",
+                "chest_unopened_img": "/images/items/closebug.png",
+                "chest_opened_img": "/images/items/openbug.png",
+                "overlay_background": "#000000",
+                "access_rules": [],
+                "sections": [
+                    {
+                        "name": "Donate a yellow butterfly to the museum",
+                        "access_rules": [
+                            "$Rule|277"
+                        ],
+                        "visibility_rules": [
+                            "$Vis|277"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Donate Bugs",
+                        "x": 197,
+                        "y": 444,
+                        "size": 30
+                    }
+                ]
+            },
+            {
+                "name": "Donate Tiger Butterfly",
+                "chest_unopened_img": "/images/items/closebug.png",
+                "chest_opened_img": "/images/items/openbug.png",
+                "overlay_background": "#000000",
+                "access_rules": [],
+                "sections": [
+                    {
+                        "name": "Donate a tiger butterfly to the museum",
+                        "access_rules": [
+                            "$Rule|278"
+                        ],
+                        "visibility_rules": [
+                            "$Vis|278"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Donate Bugs",
+                        "x": 197,
+                        "y": 580,
+                        "size": 30
+                    }
+                ]
+            },
+            {
+                "name": "Donate Peacock Butterfly",
+                "chest_unopened_img": "/images/items/closebug.png",
+                "chest_opened_img": "/images/items/openbug.png",
+                "overlay_background": "#000000",
+                "access_rules": [],
+                "sections": [
+                    {
+                        "name": "Donate a peacock butterfly to the museum",
+                        "access_rules": [
+                            "$Rule|279"
+                        ],
+                        "visibility_rules": [
+                            "$Vis|279"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Donate Bugs",
+                        "x": 197,
+                        "y": 723,
+                        "size": 30
+                    }
+                ]
+            },
+            {
+                "name": "Donate Common Bluebottle",
+                "chest_unopened_img": "/images/items/closebug.png",
+                "chest_opened_img": "/images/items/openbug.png",
+                "overlay_background": "#000000",
+                "access_rules": [],
+                "sections": [
+                    {
+                        "name": "Donate a common bluebottle to the museum",
+                        "access_rules": [
+                            "$Rule|280"
+                        ],
+                        "visibility_rules": [
+                            "$Vis|280"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Donate Bugs",
+                        "x": 197,
+                        "y": 866,
+                        "size": 30
+                    }
+                ]
+            },
+            {
+                "name": "Donate Paper Kite Butterfly",
+                "chest_unopened_img": "/images/items/closebug.png",
+                "chest_opened_img": "/images/items/openbug.png",
+                "overlay_background": "#000000",
+                "access_rules": [],
+                "sections": [
+                    {
+                        "name": "Donate a paper kite butterfly to the museum",
+                        "access_rules": [
+                            "$Rule|281"
+                        ],
+                        "visibility_rules": [
+                            "$Vis|281"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Donate Bugs",
+                        "x": 362,
+                        "y": 300,
+                        "size": 30
+                    }
+                ]
+            },
+            {
+                "name": "Donate Great Purple Emperor",
+                "chest_unopened_img": "/images/items/closebug.png",
+                "chest_opened_img": "/images/items/openbug.png",
+                "overlay_background": "#000000",
+                "access_rules": [],
+                "sections": [
+                    {
+                        "name": "Donate a great purple emperor to the museum",
+                        "access_rules": [
+                            "$Rule|282"
+                        ],
+                        "visibility_rules": [
+                            "$Vis|282"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Donate Bugs",
+                        "x": 362,
+                        "y": 444,
+                        "size": 30
+                    }
+                ]
+            },
+            {
+                "name": "Donate Monarch Butterfly",
+                "chest_unopened_img": "/images/items/closebug.png",
+                "chest_opened_img": "/images/items/openbug.png",
+                "overlay_background": "#000000",
+                "access_rules": [],
+                "sections": [
+                    {
+                        "name": "Donate a monarch butterfly to the museum",
+                        "access_rules": [
+                            "$Rule|283"
+                        ],
+                        "visibility_rules": [
+                            "$Vis|283"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Donate Bugs",
+                        "x": 362,
+                        "y": 580,
+                        "size": 30
+                    }
+                ]
+            },
+            {
+                "name": "Donate Emperor Butterfly",
+                "chest_unopened_img": "/images/items/closebug.png",
+                "chest_opened_img": "/images/items/openbug.png",
+                "overlay_background": "#000000",
+                "access_rules": [],
+                "sections": [
+                    {
+                        "name": "Donate an emperor butterfly to the museum",
+                        "access_rules": [
+                            "$Rule|284"
+                        ],
+                        "visibility_rules": [
+                            "$Vis|284"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Donate Bugs",
+                        "x": 362,
+                        "y": 723,
+                        "size": 30
+                    }
+                ]
+            },
+            {
+                "name": "Donate Agrias Butterfly",
+                "chest_unopened_img": "/images/items/closebug.png",
+                "chest_opened_img": "/images/items/openbug.png",
+                "overlay_background": "#000000",
+                "access_rules": [],
+                "sections": [
+                    {
+                        "name": "Donate an agrias butterfly to the museum",
+                        "access_rules": [
+                            "$Rule|285"
+                        ],
+                        "visibility_rules": [
+                            "$Vis|285"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Donate Bugs",
+                        "x": 362,
+                        "y": 866,
+                        "size": 30
+                    }
+                ]
+            },
+            {
+                "name": "Donate Rajah Brooke's Birdwing",
+                "chest_unopened_img": "/images/items/closebug.png",
+                "chest_opened_img": "/images/items/openbug.png",
+                "overlay_background": "#000000",
+                "access_rules": [],
+                "sections": [
+                    {
+                        "name": "Donate a Rajah Brooke's birdwing to the museum",
+                        "access_rules": [
+                            "$Rule|286"
+                        ],
+                        "visibility_rules": [
+                            "$Vis|286"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Donate Bugs",
+                        "x": 534,
+                        "y": 300,
+                        "size": 30
+                    }
+                ]
+            },
+            {
+                "name": "Donate Queen Alexandra's Birdwing",
+                "chest_unopened_img": "/images/items/closebug.png",
+                "chest_opened_img": "/images/items/openbug.png",
+                "overlay_background": "#000000",
+                "access_rules": [],
+                "sections": [
+                    {
+                        "name": "Donate a Queen Alexandra's birdwing to the museum",
+                        "access_rules": [
+                            "$Rule|287"
+                        ],
+                        "visibility_rules": [
+                            "$Vis|287"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Donate Bugs",
+                        "x": 534,
+                        "y": 444,
+                        "size": 30
+                    }
+                ]
+            },
+            {
+                "name": "Donate Moth",
+                "chest_unopened_img": "/images/items/closebug.png",
+                "chest_opened_img": "/images/items/openbug.png",
+                "overlay_background": "#000000",
+                "access_rules": [],
+                "sections": [
+                    {
+                        "name": "Donate a moth to the museum",
+                        "access_rules": [
+                            "$Rule|288"
+                        ],
+                        "visibility_rules": [
+                            "$Vis|288"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Donate Bugs",
+                        "x": 534,
+                        "y": 580,
+                        "size": 30
+                    }
+                ]
+            },
+            {
+                "name": "Donate Atlas Moth",
+                "chest_unopened_img": "/images/items/closebug.png",
+                "chest_opened_img": "/images/items/openbug.png",
+                "overlay_background": "#000000",
+                "access_rules": [],
+                "sections": [
+                    {
+                        "name": "Donate an Atlas moth to the museum",
+                        "access_rules": [
+                            "$Rule|289"
+                        ],
+                        "visibility_rules": [
+                            "$Vis|289"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Donate Bugs",
+                        "x": 534,
+                        "y": 723,
+                        "size": 30
+                    }
+                ]
+            },
+            {
+                "name": "Donate Madagascan Sunset Moth",
+                "chest_unopened_img": "/images/items/closebug.png",
+                "chest_opened_img": "/images/items/openbug.png",
+                "overlay_background": "#000000",
+                "access_rules": [],
+                "sections": [
+                    {
+                        "name": "Donate a Madagascan sunset moth to the museum",
+                        "access_rules": [
+                            "$Rule|290"
+                        ],
+                        "visibility_rules": [
+                            "$Vis|290"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Donate Bugs",
+                        "x": 534,
+                        "y": 866,
+                        "size": 30
+                    }
+                ]
+            },
+            {
+                "name": "Donate Long Locust",
+                "chest_unopened_img": "/images/items/closebug.png",
+                "chest_opened_img": "/images/items/openbug.png",
+                "overlay_background": "#000000",
+                "access_rules": [],
+                "sections": [
+                    {
+                        "name": "Donate a long locust to the museum",
+                        "access_rules": [
+                            "$Rule|291"
+                        ],
+                        "visibility_rules": [
+                            "$Vis|291"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Donate Bugs",
+                        "x": 703,
+                        "y": 300,
+                        "size": 30
+                    }
+                ]
+            },
+            {
+                "name": "Donate Migratory Locust",
+                "chest_unopened_img": "/images/items/closebug.png",
+                "chest_opened_img": "/images/items/openbug.png",
+                "overlay_background": "#000000",
+                "access_rules": [],
+                "sections": [
+                    {
+                        "name": "Donate a migratory locust to the museum",
+                        "access_rules": [
+                            "$Rule|292"
+                        ],
+                        "visibility_rules": [
+                            "$Vis|292"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Donate Bugs",
+                        "x": 703,
+                        "y": 444,
+                        "size": 30
+                    }
+                ]
+            },
+            {
+                "name": "Donate Rice Grasshopper",
+                "chest_unopened_img": "/images/items/closebug.png",
+                "chest_opened_img": "/images/items/openbug.png",
+                "overlay_background": "#000000",
+                "access_rules": [],
+                "sections": [
+                    {
+                        "name": "Donate a rice grasshopper to the museum",
+                        "access_rules": [
+                            "$Rule|293"
+                        ],
+                        "visibility_rules": [
+                            "$Vis|293"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Donate Bugs",
+                        "x": 703,
+                        "y": 580,
+                        "size": 30
+                    }
+                ]
+            },
+            {
+                "name": "Donate Grasshopper",
+                "chest_unopened_img": "/images/items/closebug.png",
+                "chest_opened_img": "/images/items/openbug.png",
+                "overlay_background": "#000000",
+                "access_rules": [],
+                "sections": [
+                    {
+                        "name": "Donate a grasshopper to the museum",
+                        "access_rules": [
+                            "$Rule|294"
+                        ],
+                        "visibility_rules": [
+                            "$Vis|294"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Donate Bugs",
+                        "x": 703,
+                        "y": 723,
+                        "size": 30
+                    }
+                ]
+            },
+            {
+                "name": "Donate Cricket",
+                "chest_unopened_img": "/images/items/closebug.png",
+                "chest_opened_img": "/images/items/openbug.png",
+                "overlay_background": "#000000",
+                "access_rules": [],
+                "sections": [
+                    {
+                        "name": "Donate a cricket to the museum",
+                        "access_rules": [
+                            "$Rule|295"
+                        ],
+                        "visibility_rules": [
+                            "$Vis|295"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Donate Bugs",
+                        "x": 703,
+                        "y": 866,
+                        "size": 30
+                    }
+                ]
+            },
+            {
+                "name": "Donate Bell Cricket",
+                "chest_unopened_img": "/images/items/closebug.png",
+                "chest_opened_img": "/images/items/openbug.png",
+                "overlay_background": "#000000",
+                "access_rules": [],
+                "sections": [
+                    {
+                        "name": "Donate a bell cricket to the museum",
+                        "access_rules": [
+                            "$Rule|296"
+                        ],
+                        "visibility_rules": [
+                            "$Vis|296"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Donate Bugs",
+                        "x": 866,
+                        "y": 300,
+                        "size": 30
+                    }
+                ]
+            },
+            {
+                "name": "Donate Mantis",
+                "chest_unopened_img": "/images/items/closebug.png",
+                "chest_opened_img": "/images/items/openbug.png",
+                "overlay_background": "#000000",
+                "access_rules": [],
+                "sections": [
+                    {
+                        "name": "Donate a mantis to the museum",
+                        "access_rules": [
+                            "$Rule|297"
+                        ],
+                        "visibility_rules": [
+                            "$Vis|297"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Donate Bugs",
+                        "x": 866,
+                        "y": 444,
+                        "size": 30
+                    }
+                ]
+            },
+            {
+                "name": "Donate Orchis Mantis",
+                "chest_unopened_img": "/images/items/closebug.png",
+                "chest_opened_img": "/images/items/openbug.png",
+                "overlay_background": "#000000",
+                "access_rules": [],
+                "sections": [
+                    {
+                        "name": "Donate an orchis mantis to the museum",
+                        "access_rules": [
+                            "$Rule|298"
+                        ],
+                        "visibility_rules": [
+                            "$Vis|298"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Donate Bugs",
+                        "x": 866,
+                        "y": 580,
+                        "size": 30
+                    }
+                ]
+            },
+            {
+                "name": "Donate Honeybee",
+                "chest_unopened_img": "/images/items/closebug.png",
+                "chest_opened_img": "/images/items/openbug.png",
+                "overlay_background": "#000000",
+                "access_rules": [],
+                "sections": [
+                    {
+                        "name": "Donate a honeybee to the museum",
+                        "access_rules": [
+                            "$Rule|299"
+                        ],
+                        "visibility_rules": [
+                            "$Vis|299"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Donate Bugs",
+                        "x": 866,
+                        "y": 723,
+                        "size": 30
+                    }
+                ]
+            },
+            {
+                "name": "Donate Wasp",
+                "chest_unopened_img": "/images/items/closebug.png",
+                "chest_opened_img": "/images/items/openbug.png",
+                "overlay_background": "#000000",
+                "access_rules": [],
+                "sections": [
+                    {
+                        "name": "Donate a wasp to the museum",
+                        "access_rules": [
+                            "$Rule|300"
+                        ],
+                        "visibility_rules": [
+                            "$Vis|300"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Donate Bugs",
+                        "x": 866,
+                        "y": 866,
+                        "size": 30
+                    }
+                ]
+            },
+            {
+                "name": "Donate Brown Cicada",
+                "chest_unopened_img": "/images/items/closebug.png",
+                "chest_opened_img": "/images/items/openbug.png",
+                "overlay_background": "#000000",
+                "access_rules": [],
+                "sections": [
+                    {
+                        "name": "Donate a brown cicada to the museum",
+                        "access_rules": [
+                            "$Rule|301"
+                        ],
+                        "visibility_rules": [
+                            "$Vis|301"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Donate Bugs",
+                        "x": 1035,
+                        "y": 300,
+                        "size": 30
+                    }
+                ]
+            },
+            {
+                "name": "Donate Robust Cicada",
+                "chest_unopened_img": "/images/items/closebug.png",
+                "chest_opened_img": "/images/items/openbug.png",
+                "overlay_background": "#000000",
+                "access_rules": [],
+                "sections": [
+                    {
+                        "name": "Donate a robust cicada to the museum",
+                        "access_rules": [
+                            "$Rule|302"
+                        ],
+                        "visibility_rules": [
+                            "$Vis|302"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Donate Bugs",
+                        "x": 1035,
+                        "y": 444,
+                        "size": 30
+                    }
+                ]
+            },
+            {
+                "name": "Donate Giant Cicada",
+                "chest_unopened_img": "/images/items/closebug.png",
+                "chest_opened_img": "/images/items/openbug.png",
+                "overlay_background": "#000000",
+                "access_rules": [],
+                "sections": [
+                    {
+                        "name": "Donate a giant cicada to the museum",
+                        "access_rules": [
+                            "$Rule|303"
+                        ],
+                        "visibility_rules": [
+                            "$Vis|303"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Donate Bugs",
+                        "x": 1035,
+                        "y": 580,
+                        "size": 30
+                    }
+                ]
+            },
+            {
+                "name": "Donate Walker Cicada",
+                "chest_unopened_img": "/images/items/closebug.png",
+                "chest_opened_img": "/images/items/openbug.png",
+                "overlay_background": "#000000",
+                "access_rules": [],
+                "sections": [
+                    {
+                        "name": "Donate a walker cicada to the museum",
+                        "access_rules": [
+                            "$Rule|304"
+                        ],
+                        "visibility_rules": [
+                            "$Vis|304"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Donate Bugs",
+                        "x": 1035,
+                        "y": 723,
+                        "size": 30
+                    }
+                ]
+            },
+            {
+                "name": "Donate Evening Cicada",
+                "chest_unopened_img": "/images/items/closebug.png",
+                "chest_opened_img": "/images/items/openbug.png",
+                "overlay_background": "#000000",
+                "access_rules": [],
+                "sections": [
+                    {
+                        "name": "Donate an evening cicada to the museum",
+                        "access_rules": [
+                            "$Rule|305"
+                        ],
+                        "visibility_rules": [
+                            "$Vis|305"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Donate Bugs",
+                        "x": 1035,
+                        "y": 866,
+                        "size": 30
+                    }
+                ]
+            },
+            {
+                "name": "Donate Red Dragonfly",
+                "chest_unopened_img": "/images/items/closebug.png",
+                "chest_opened_img": "/images/items/openbug.png",
+                "overlay_background": "#000000",
+                "access_rules": [],
+                "sections": [
+                    {
+                        "name": "Donate a red dragonfly to the museum",
+                        "access_rules": [
+                            "$Rule|307"
+                        ],
+                        "visibility_rules": [
+                            "$Vis|307"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Donate Bugs",
+                        "x": 1212,
+                        "y": 444,
+                        "size": 30
+                    }
+                ]
+            },
+            {
+                "name": "Donate Darner Dragonfly",
+                "chest_unopened_img": "/images/items/closebug.png",
+                "chest_opened_img": "/images/items/openbug.png",
+                "overlay_background": "#000000",
+                "access_rules": [],
+                "sections": [
+                    {
+                        "name": "Donate a darner dragonfly to the museum",
+                        "access_rules": [
+                            "$Rule|308"
+                        ],
+                        "visibility_rules": [
+                            "$Vis|308"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Donate Bugs",
+                        "x": 1212,
+                        "y": 580,
+                        "size": 30
+                    }
+                ]
+            },
+            {
+                "name": "Donate Banded Dragonfly",
+                "chest_unopened_img": "/images/items/closebug.png",
+                "chest_opened_img": "/images/items/openbug.png",
+                "overlay_background": "#000000",
+                "access_rules": [],
+                "sections": [
+                    {
+                        "name": "Donate a banded dragonfly to the museum",
+                        "access_rules": [
+                            "$Rule|309"
+                        ],
+                        "visibility_rules": [
+                            "$Vis|309"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Donate Bugs",
+                        "x": 1212,
+                        "y": 723,
+                        "size": 30
+                    }
+                ]
+            },
+            {
+                "name": "Donate Damselfly",
+                "chest_unopened_img": "/images/items/closebug.png",
+                "chest_opened_img": "/images/items/openbug.png",
+                "overlay_background": "#000000",
+                "access_rules": [],
+                "sections": [
+                    {
+                        "name": "Donate a damselfly to the museum",
+                        "access_rules": [
+                            "$Rule|310"
+                        ],
+                        "visibility_rules": [
+                            "$Vis|310"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Donate Bugs",
+                        "x": 1212,
+                        "y": 866,
+                        "size": 30
+                    }
+                ]
+            },
+            {
+                "name": "Donate Firefly",
+                "chest_unopened_img": "/images/items/closebug.png",
+                "chest_opened_img": "/images/items/openbug.png",
+                "overlay_background": "#000000",
+                "access_rules": [],
+                "sections": [
+                    {
+                        "name": "Donate a firefly to the museum",
+                        "access_rules": [
+                            "$Rule|311"
+                        ],
+                        "visibility_rules": [
+                            "$Vis|311"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Donate Bugs",
+                        "x": 1382,
+                        "y": 300,
+                        "size": 30
+                    }
+                ]
+            },
+            {
+                "name": "Donate Mole Cricket",
+                "chest_unopened_img": "/images/items/closebug.png",
+                "chest_opened_img": "/images/items/openbug.png",
+                "overlay_background": "#000000",
+                "access_rules": [],
+                "sections": [
+                    {
+                        "name": "Donate a mole cricket to the museum",
+                        "access_rules": [
+                            "$Rule|312"
+                        ],
+                        "visibility_rules": [
+                            "$Vis|312"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Donate Bugs",
+                        "x": 1382,
+                        "y": 444,
+                        "size": 30
+                    }
+                ]
+            },
+            {
+                "name": "Donate Pondskater",
+                "chest_unopened_img": "/images/items/closebug.png",
+                "chest_opened_img": "/images/items/openbug.png",
+                "overlay_background": "#000000",
+                "access_rules": [],
+                "sections": [
+                    {
+                        "name": "Donate a pondskater to the museum",
+                        "access_rules": [
+                            "$Rule|313"
+                        ],
+                        "visibility_rules": [
+                            "$Vis|313"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Donate Bugs",
+                        "x": 1382,
+                        "y": 580,
+                        "size": 30
+                    }
+                ]
+            },
+            {
+                "name": "Donate Diving Beetle",
+                "chest_unopened_img": "/images/items/closebug.png",
+                "chest_opened_img": "/images/items/openbug.png",
+                "overlay_background": "#000000",
+                "access_rules": [],
+                "sections": [
+                    {
+                        "name": "Donate a diving beetle to the museum",
+                        "access_rules": [
+                            "$Rule|314"
+                        ],
+                        "visibility_rules": [
+                            "$Vis|314"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Donate Bugs",
+                        "x": 1382,
+                        "y": 723,
+                        "size": 30
+                    }
+                ]
+            },
+            {
+                "name": "Donate Giant Water Bug",
+                "chest_unopened_img": "/images/items/closebug.png",
+                "chest_opened_img": "/images/items/openbug.png",
+                "overlay_background": "#000000",
+                "access_rules": [],
+                "sections": [
+                    {
+                        "name": "Donate a giant water bug to the museum",
+                        "access_rules": [
+                            "$Rule|315"
+                        ],
+                        "visibility_rules": [
+                            "$Vis|315"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Donate Bugs",
+                        "x": 1382,
+                        "y": 866,
+                        "size": 30
+                    }
+                ]
+            },
+            {
+                "name": "Donate Stinkbug",
+                "chest_unopened_img": "/images/items/closebug.png",
+                "chest_opened_img": "/images/items/openbug.png",
+                "overlay_background": "#000000",
+                "access_rules": [],
+                "sections": [
+                    {
+                        "name": "Donate a stinkbug to the museum",
+                        "access_rules": [
+                            "$Rule|316"
+                        ],
+                        "visibility_rules": [
+                            "$Vis|316"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Donate Bugs",
+                        "x": 1546,
+                        "y": 300,
+                        "size": 30
+                    }
+                ]
+            },
+            {
+                "name": "Donate Man-Faced Stink Bug",
+                "chest_unopened_img": "/images/items/closebug.png",
+                "chest_opened_img": "/images/items/openbug.png",
+                "overlay_background": "#000000",
+                "access_rules": [],
+                "sections": [
+                    {
+                        "name": "Donate a man-faced stink bug to the museum",
+                        "access_rules": [
+                            "$Rule|317"
+                        ],
+                        "visibility_rules": [
+                            "$Vis|317"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Donate Bugs",
+                        "x": 1546,
+                        "y": 444,
+                        "size": 30
+                    }
+                ]
+            },
+            {
+                "name": "Donate Ladybug",
+                "chest_unopened_img": "/images/items/closebug.png",
+                "chest_opened_img": "/images/items/openbug.png",
+                "overlay_background": "#000000",
+                "access_rules": [],
+                "sections": [
+                    {
+                        "name": "Donate a ladybug to the museum",
+                        "access_rules": [
+                            "$Rule|318"
+                        ],
+                        "visibility_rules": [
+                            "$Vis|318"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Donate Bugs",
+                        "x": 1546,
+                        "y": 580,
+                        "size": 30
+                    }
+                ]
+            },
+            {
+                "name": "Donate Tiger Beetle",
+                "chest_unopened_img": "/images/items/closebug.png",
+                "chest_opened_img": "/images/items/openbug.png",
+                "overlay_background": "#000000",
+                "access_rules": [],
+                "sections": [
+                    {
+                        "name": "Donate a tiger beetle to the museum",
+                        "access_rules": [
+                            "$Rule|319"
+                        ],
+                        "visibility_rules": [
+                            "$Vis|319"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Donate Bugs",
+                        "x": 1546,
+                        "y": 723,
+                        "size": 30
+                    }
+                ]
+            },
+            {
+                "name": "Donate Jewel Beetle",
+                "chest_unopened_img": "/images/items/closebug.png",
+                "chest_opened_img": "/images/items/openbug.png",
+                "overlay_background": "#000000",
+                "access_rules": [],
+                "sections": [
+                    {
+                        "name": "Donate a jewel beetle to the museum",
+                        "access_rules": [
+                            "$Rule|320"
+                        ],
+                        "visibility_rules": [
+                            "$Vis|320"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Donate Bugs",
+                        "x": 1546,
+                        "y": 866,
+                        "size": 30
+                    }
+                ]
+            },
+            {
+                "name": "Donate Violin Beetle",
+                "chest_unopened_img": "/images/items/closebug.png",
+                "chest_opened_img": "/images/items/openbug.png",
+                "overlay_background": "#000000",
+                "access_rules": [],
+                "sections": [
+                    {
+                        "name": "Donate a violin beetle to the museum",
+                        "access_rules": [
+                            "$Rule|321"
+                        ],
+                        "visibility_rules": [
+                            "$Vis|321"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Donate Bugs",
+                        "x": 1712,
+                        "y": 300,
+                        "size": 30
+                    }
+                ]
+            },
+            {
+                "name": "Donate Citrus Long-Horned Beetle",
+                "chest_unopened_img": "/images/items/closebug.png",
+                "chest_opened_img": "/images/items/openbug.png",
+                "overlay_background": "#000000",
+                "access_rules": [],
+                "sections": [
+                    {
+                        "name": "Donate a citrus long-horned beetle to the museum",
+                        "access_rules": [
+                            "$Rule|322"
+                        ],
+                        "visibility_rules": [
+                            "$Vis|322"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Donate Bugs",
+                        "x": 1712,
+                        "y": 444,
+                        "size": 30
+                    }
+                ]
+            },
+            {
+                "name": "Donate Rosalia Batesi Beetle",
+                "chest_unopened_img": "/images/items/closebug.png",
+                "chest_opened_img": "/images/items/openbug.png",
+                "overlay_background": "#000000",
+                "access_rules": [],
+                "sections": [
+                    {
+                        "name": "Donate a rosalia batesi beetle to the museum",
+                        "access_rules": [
+                            "$Rule|323"
+                        ],
+                        "visibility_rules": [
+                            "$Vis|323"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Donate Bugs",
+                        "x": 1712,
+                        "y": 580,
+                        "size": 30
+                    }
+                ]
+            },
+            {
+                "name": "Donate Blue Weevil Beetle",
+                "chest_unopened_img": "/images/items/closebug.png",
+                "chest_opened_img": "/images/items/openbug.png",
+                "overlay_background": "#000000",
+                "access_rules": [],
+                "sections": [
+                    {
+                        "name": "Donate a blue weevil beetle to the museum",
+                        "access_rules": [
+                            "$Rule|324"
+                        ],
+                        "visibility_rules": [
+                            "$Vis|324"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Donate Bugs",
+                        "x": 1712,
+                        "y": 723,
+                        "size": 30
+                    }
+                ]
+            },
+            {
+                "name": "Donate Dung Beetle",
+                "chest_unopened_img": "/images/items/closebug.png",
+                "chest_opened_img": "/images/items/openbug.png",
+                "overlay_background": "#000000",
+                "access_rules": [],
+                "sections": [
+                    {
+                        "name": "Donate a dung beetle to the museum",
+                        "access_rules": [
+                            "$Rule|325"
+                        ],
+                        "visibility_rules": [
+                            "$Vis|325"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Donate Bugs",
+                        "x": 1712,
+                        "y": 866,
+                        "size": 30
+                    }
+                ]
+            },
+            {
+                "name": "Donate Earth-Boring Dung Beetle",
+                "chest_unopened_img": "/images/items/closebug.png",
+                "chest_opened_img": "/images/items/openbug.png",
+                "overlay_background": "#000000",
+                "access_rules": [],
+                "sections": [
+                    {
+                        "name": "Donate an earth-boring dung beetle to the museum",
+                        "access_rules": [
+                            "$Rule|326"
+                        ],
+                        "visibility_rules": [
+                            "$Vis|326"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Donate Bugs",
+                        "x": 1888,
+                        "y": 300,
+                        "size": 30
+                    }
+                ]
+            },
+            {
+                "name": "Donate Scarab Beetle",
+                "chest_unopened_img": "/images/items/closebug.png",
+                "chest_opened_img": "/images/items/openbug.png",
+                "overlay_background": "#000000",
+                "access_rules": [],
+                "sections": [
+                    {
+                        "name": "Donate a scarab beetle to the museum",
+                        "access_rules": [
+                            "$Rule|327"
+                        ],
+                        "visibility_rules": [
+                            "$Vis|327"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Donate Bugs",
+                        "x": 1888,
+                        "y": 444,
+                        "size": 30
+                    }
+                ]
+            },
+            {
+                "name": "Donate Drone Beetle",
+                "chest_unopened_img": "/images/items/closebug.png",
+                "chest_opened_img": "/images/items/openbug.png",
+                "overlay_background": "#000000",
+                "access_rules": [],
+                "sections": [
+                    {
+                        "name": "Donate a drone beetle to the museum",
+                        "access_rules": [
+                            "$Rule|328"
+                        ],
+                        "visibility_rules": [
+                            "$Vis|328"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Donate Bugs",
+                        "x": 1888,
+                        "y": 580,
+                        "size": 30
+                    }
+                ]
+            },
+            {
+                "name": "Donate Goliath Beetle",
+                "chest_unopened_img": "/images/items/closebug.png",
+                "chest_opened_img": "/images/items/openbug.png",
+                "overlay_background": "#000000",
+                "access_rules": [],
+                "sections": [
+                    {
+                        "name": "Donate a goliath beetle to the museum",
+                        "access_rules": [
+                            "$Rule|329"
+                        ],
+                        "visibility_rules": [
+                            "$Vis|329"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Donate Bugs",
+                        "x": 1888,
+                        "y": 723,
+                        "size": 30
+                    }
+                ]
+            },
+            {
+                "name": "Donate Saw Stag",
+                "chest_unopened_img": "/images/items/closebug.png",
+                "chest_opened_img": "/images/items/openbug.png",
+                "overlay_background": "#000000",
+                "access_rules": [],
+                "sections": [
+                    {
+                        "name": "Donate a saw stag to the museum",
+                        "access_rules": [
+                            "$Rule|330"
+                        ],
+                        "visibility_rules": [
+                            "$Vis|330"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Donate Bugs",
+                        "x": 1888,
+                        "y": 866,
+                        "size": 30
+                    }
+                ]
+            },
+            {
+                "name": "Donate Miyama Stag",
+                "chest_unopened_img": "/images/items/closebug.png",
+                "chest_opened_img": "/images/items/openbug.png",
+                "overlay_background": "#000000",
+                "access_rules": [],
+                "sections": [
+                    {
+                        "name": "Donate a miyama stag to the museum",
+                        "access_rules": [
+                            "$Rule|331"
+                        ],
+                        "visibility_rules": [
+                            "$Vis|331"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Donate Bugs",
+                        "x": 2052,
+                        "y": 300,
+                        "size": 30
+                    }
+                ]
+            },
+            {
+                "name": "Donate Giant Stag",
+                "chest_unopened_img": "/images/items/closebug.png",
+                "chest_opened_img": "/images/items/openbug.png",
+                "overlay_background": "#000000",
+                "access_rules": [],
+                "sections": [
+                    {
+                        "name": "Donate a giant stag to the museum",
+                        "access_rules": [
+                            "$Rule|332"
+                        ],
+                        "visibility_rules": [
+                            "$Vis|332"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Donate Bugs",
+                        "x": 2052,
+                        "y": 444,
+                        "size": 30
+                    }
+                ]
+            },
+            {
+                "name": "Donate Rainbow Stag",
+                "chest_unopened_img": "/images/items/closebug.png",
+                "chest_opened_img": "/images/items/openbug.png",
+                "overlay_background": "#000000",
+                "access_rules": [],
+                "sections": [
+                    {
+                        "name": "Donate a rainbow stag to the museum",
+                        "access_rules": [
+                            "$Rule|333"
+                        ],
+                        "visibility_rules": [
+                            "$Vis|333"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Donate Bugs",
+                        "x": 2052,
+                        "y": 580,
+                        "size": 30
+                    }
+                ]
+            },
+            {
+                "name": "Donate Cyclommatus Stag",
+                "chest_unopened_img": "/images/items/closebug.png",
+                "chest_opened_img": "/images/items/openbug.png",
+                "overlay_background": "#000000",
+                "access_rules": [],
+                "sections": [
+                    {
+                        "name": "Donate a cyclommatus stag to the museum",
+                        "access_rules": [
+                            "$Rule|334"
+                        ],
+                        "visibility_rules": [
+                            "$Vis|334"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Donate Bugs",
+                        "x": 2052,
+                        "y": 723,
+                        "size": 30
+                    }
+                ]
+            },
+            {
+                "name": "Donate Golden Stag",
+                "chest_unopened_img": "/images/items/closebug.png",
+                "chest_opened_img": "/images/items/openbug.png",
+                "overlay_background": "#000000",
+                "access_rules": [],
+                "sections": [
+                    {
+                        "name": "Donate a golden stag to the museum",
+                        "access_rules": [
+                            "$Rule|335"
+                        ],
+                        "visibility_rules": [
+                            "$Vis|335"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Donate Bugs",
+                        "x": 2052,
+                        "y": 866,
+                        "size": 30
+                    }
+                ]
+            },
+            {
+                "name": "Donate Giraffe Stag",
+                "chest_unopened_img": "/images/items/closebug.png",
+                "chest_opened_img": "/images/items/openbug.png",
+                "overlay_background": "#000000",
+                "access_rules": [],
+                "sections": [
+                    {
+                        "name": "Donate a giraffe stag to the museum",
+                        "access_rules": [
+                            "$Rule|336"
+                        ],
+                        "visibility_rules": [
+                            "$Vis|336"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Donate Bugs",
+                        "x": 2231,
+                        "y": 300,
+                        "size": 30
+                    }
+                ]
+            },
+            {
+                "name": "Donate Horned Dynastid",
+                "chest_unopened_img": "/images/items/closebug.png",
+                "chest_opened_img": "/images/items/openbug.png",
+                "overlay_background": "#000000",
+                "access_rules": [],
+                "sections": [
+                    {
+                        "name": "Donate a horned dynastid to the museum",
+                        "access_rules": [
+                            "$Rule|337"
+                        ],
+                        "visibility_rules": [
+                            "$Vis|337"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Donate Bugs",
+                        "x": 2231,
+                        "y": 444,
+                        "size": 30
+                    }
+                ]
+            },
+            {
+                "name": "Donate Horned Atlas",
+                "chest_unopened_img": "/images/items/closebug.png",
+                "chest_opened_img": "/images/items/openbug.png",
+                "overlay_background": "#000000",
+                "access_rules": [],
+                "sections": [
+                    {
+                        "name": "Donate a horned atlas to the museum",
+                        "access_rules": [
+                            "$Rule|338"
+                        ],
+                        "visibility_rules": [
+                            "$Vis|338"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Donate Bugs",
+                        "x": 2231,
+                        "y": 580,
+                        "size": 30
+                    }
+                ]
+            },
+            {
+                "name": "Donate Horned Elephant",
+                "chest_unopened_img": "/images/items/closebug.png",
+                "chest_opened_img": "/images/items/openbug.png",
+                "overlay_background": "#000000",
+                "access_rules": [],
+                "sections": [
+                    {
+                        "name": "Donate a horned elephant to the museum",
+                        "access_rules": [
+                            "$Rule|339"
+                        ],
+                        "visibility_rules": [
+                            "$Vis|339"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Donate Bugs",
+                        "x": 2231,
+                        "y": 723,
+                        "size": 30
+                    }
+                ]
+            },
+            {
+                "name": "Donate Horned Hercules",
+                "chest_unopened_img": "/images/items/closebug.png",
+                "chest_opened_img": "/images/items/openbug.png",
+                "overlay_background": "#000000",
+                "access_rules": [],
+                "sections": [
+                    {
+                        "name": "Donate a horned hercules to the museum",
+                        "access_rules": [
+                            "$Rule|340"
+                        ],
+                        "visibility_rules": [
+                            "$Vis|340"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Donate Bugs",
+                        "x": 2231,
+                        "y": 866,
+                        "size": 30
+                    }
+                ]
+            },
+            {
+                "name": "Donate Walking Stick",
+                "chest_unopened_img": "/images/items/closebug.png",
+                "chest_opened_img": "/images/items/openbug.png",
+                "overlay_background": "#000000",
+                "access_rules": [],
+                "sections": [
+                    {
+                        "name": "Donate a walking stick to the museum",
+                        "access_rules": [
+                            "$Rule|341"
+                        ],
+                        "visibility_rules": [
+                            "$Vis|341"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Donate Bugs",
+                        "x": 2381,
+                        "y": 300,
+                        "size": 30
+                    }
+                ]
+            },
+            {
+                "name": "Donate Walking Leaf",
+                "chest_unopened_img": "/images/items/closebug.png",
+                "chest_opened_img": "/images/items/openbug.png",
+                "overlay_background": "#000000",
+                "access_rules": [],
+                "sections": [
+                    {
+                        "name": "Donate a walking leaf to the museum",
+                        "access_rules": [
+                            "$Rule|342"
+                        ],
+                        "visibility_rules": [
+                            "$Vis|342"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Donate Bugs",
+                        "x": 2381,
+                        "y": 444,
+                        "size": 30
+                    }
+                ]
+            },
+            {
+                "name": "Donate Bagworm",
+                "chest_unopened_img": "/images/items/closebug.png",
+                "chest_opened_img": "/images/items/openbug.png",
+                "overlay_background": "#000000",
+                "access_rules": [],
+                "sections": [
+                    {
+                        "name": "Donate a bagworm to the museum",
+                        "access_rules": [
+                            "$Rule|343"
+                        ],
+                        "visibility_rules": [
+                            "$Vis|343"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Donate Bugs",
+                        "x": 2381,
+                        "y": 580,
+                        "size": 30
+                    }
+                ]
+            },
+            {
+                "name": "Donate Ant",
+                "chest_unopened_img": "/images/items/closebug.png",
+                "chest_opened_img": "/images/items/openbug.png",
+                "overlay_background": "#000000",
+                "access_rules": [],
+                "sections": [
+                    {
+                        "name": "Donate an ant to the museum",
+                        "access_rules": [
+                            "$Rule|344"
+                        ],
+                        "visibility_rules": [
+                            "$Vis|344"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Donate Bugs",
+                        "x": 2381,
+                        "y": 723,
+                        "size": 30
+                    }
+                ]
+            },
+            {
+                "name": "Donate Hermit Crab",
+                "chest_unopened_img": "/images/items/closebug.png",
+                "chest_opened_img": "/images/items/openbug.png",
+                "overlay_background": "#000000",
+                "access_rules": [],
+                "sections": [
+                    {
+                        "name": "Donate a hermit crab to the museum",
+                        "access_rules": [
+                            "$Rule|345"
+                        ],
+                        "visibility_rules": [
+                            "$Vis|345"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Donate Bugs",
+                        "x": 2381,
+                        "y": 866,
+                        "size": 30
+                    }
+                ]
+            },
+            {
+                "name": "Donate Wharf Roach",
+                "chest_unopened_img": "/images/items/closebug.png",
+                "chest_opened_img": "/images/items/openbug.png",
+                "overlay_background": "#000000",
+                "access_rules": [],
+                "sections": [
+                    {
+                        "name": "Donate a wharf roach to the museum",
+                        "access_rules": [
+                            "$Rule|346"
+                        ],
+                        "visibility_rules": [
+                            "$Vis|346"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Donate Bugs",
+                        "x": 2563,
+                        "y": 300,
+                        "size": 30
+                    }
+                ]
+            },
+            {
+                "name": "Donate Fly",
+                "chest_unopened_img": "/images/items/closebug.png",
+                "chest_opened_img": "/images/items/openbug.png",
+                "overlay_background": "#000000",
+                "access_rules": [],
+                "sections": [
+                    {
+                        "name": "Donate a fly to the museum",
+                        "access_rules": [
+                            "$Rule|347"
+                        ],
+                        "visibility_rules": [
+                            "$Vis|347"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Donate Bugs",
+                        "x": 2563,
+                        "y": 444,
+                        "size": 30
+                    }
+                ]
+            },
+            {
+                "name": "Donate Mosquito",
+                "chest_unopened_img": "/images/items/closebug.png",
+                "chest_opened_img": "/images/items/openbug.png",
+                "overlay_background": "#000000",
+                "access_rules": [],
+                "sections": [
+                    {
+                        "name": "Donate a mosquito to the museum",
+                        "access_rules": [
+                            "$Rule|348"
+                        ],
+                        "visibility_rules": [
+                            "$Vis|348"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Donate Bugs",
+                        "x": 2563,
+                        "y": 580,
+                        "size": 30
+                    }
+                ]
+            },
+            {
+                "name": "Donate Snail",
+                "chest_unopened_img": "/images/items/closebug.png",
+                "chest_opened_img": "/images/items/openbug.png",
+                "overlay_background": "#000000",
+                "access_rules": [],
+                "sections": [
+                    {
+                        "name": "Donate a snail to the museum",
+                        "access_rules": [
+                            "$Rule|350"
+                        ],
+                        "visibility_rules": [
+                            "$Vis|350"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Donate Bugs",
+                        "x": 2563,
+                        "y": 866,
+                        "size": 30
+                    }
+                ]
+            },
+            {
+                "name": "Donate Pill Bug",
+                "chest_unopened_img": "/images/items/closebug.png",
+                "chest_opened_img": "/images/items/openbug.png",
+                "overlay_background": "#000000",
+                "access_rules": [],
+                "sections": [
+                    {
+                        "name": "Donate a pill bug to the museum",
+                        "access_rules": [
+                            "$Rule|351"
+                        ],
+                        "visibility_rules": [
+                            "$Vis|351"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Donate Bugs",
+                        "x": 2727,
+                        "y": 300,
+                        "size": 30
+                    }
+                ]
+            },
+            {
+                "name": "Donate Centipede",
+                "chest_unopened_img": "/images/items/closebug.png",
+                "chest_opened_img": "/images/items/openbug.png",
+                "overlay_background": "#000000",
+                "access_rules": [],
+                "sections": [
+                    {
+                        "name": "Donate a centipede to the museum",
+                        "access_rules": [
+                            "$Rule|352"
+                        ],
+                        "visibility_rules": [
+                            "$Vis|352"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Donate Bugs",
+                        "x": 2727,
+                        "y": 444,
+                        "size": 30
+                    }
+                ]
+            },
+            {
+                "name": "Donate Spider",
+                "chest_unopened_img": "/images/items/closebug.png",
+                "chest_opened_img": "/images/items/openbug.png",
+                "overlay_background": "#000000",
+                "access_rules": [],
+                "sections": [
+                    {
+                        "name": "Donate a spider to the museum",
+                        "access_rules": [
+                            "$Rule|353"
+                        ],
+                        "visibility_rules": [
+                            "$Vis|353"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Donate Bugs",
+                        "x": 2727,
+                        "y": 580,
+                        "size": 30
+                    }
+                ]
+            },
+            {
+                "name": "Donate Tarantula",
+                "chest_unopened_img": "/images/items/closebug.png",
+                "chest_opened_img": "/images/items/openbug.png",
+                "overlay_background": "#000000",
+                "access_rules": [],
+                "sections": [
+                    {
+                        "name": "Donate a tarantula to the museum",
+                        "access_rules": [
+                            "$Rule|354"
+                        ],
+                        "visibility_rules": [
+                            "$Vis|354"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Donate Bugs",
+                        "x": 2727,
+                        "y": 723,
+                        "size": 30
+                    }
+                ]
+            },
+            {
+                "name": "Donate Scorpion",
+                "chest_unopened_img": "/images/items/closebug.png",
+                "chest_opened_img": "/images/items/openbug.png",
+                "overlay_background": "#000000",
+                "access_rules": [],
+                "sections": [
+                    {
+                        "name": "Donate a scorpion to the museum",
+                        "access_rules": [
+                            "$Rule|355"
+                        ],
+                        "visibility_rules": [
+                            "$Vis|355"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Donate Bugs",
+                        "x": 2727,
+                        "y": 866,
+                        "size": 30
+                    }
+                ]
+            }
+        ]
+    }
+]

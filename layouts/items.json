@@ -1,0 +1,182 @@
+{
+    "shared_item_grid_horizontal": {
+        "type": "array",
+        "orientation": "vertical",
+        "margin": "0,0",
+        "content": [
+            {
+                "type": "array",
+                "orientation": "horizontal",
+                "margin": "0,0",
+                "content": [
+                    {
+                        "type": "itemgrid",
+                        "item_margin": "2, 2",
+                        "h_alignment": "left",
+                        "item_h_alignment": "center",
+                        "item_v_alignment": "center",
+                        "item_height": 36,
+                        "item_width": 36,
+                        "rows": [
+                            [
+                                "progressivefishingrod",
+                                "progressivenet",
+                                "progressiveshovel",
+                                "progressiveaxe",
+                                "progressivevillager"
+                            ],
+                            [
+                                "progressivewateringcan",
+                                "vaultingpole",
+                                "ladder",
+                                "slingshot",
+                                "wetsuit"
+                            ],
+                            [
+                                "month-february",
+                                "month-march",
+                                "month-april",
+                                "month-may",
+                                "month-june",
+                                "month-july"
+                            ],
+                            [
+                                "month-august",
+                                "month-september",
+                                "month-october",
+                                "month-november",
+                                "month-december"
+                            ],
+                            [
+                                "leif",
+                                "redd",
+                                "c.j.",
+                                "flick",
+                                "gulliver",
+                                "wisp"
+                            ],
+                            [
+                                "daisymae",
+                                "saharah",
+                                "kicks",
+                                "label",
+                                "celeste"
+                            ],
+                            [
+                                "diyforbeginners",
+                                "testyourdiyskills",
+                                "wildestdreamsdiy",
+                                "beachefdiyrecipes+",
+                                "basiccookingrecipes"
+                            ],
+                            [
+                                "nookmilesticket",
+                                "toolring",
+                                "progressiveinventoryspace",
+                                "pathpermits",
+                                "cliffconstructionpermit",
+                                "waterscapingpermit"
+                            ],
+                            [
+                                "customizationkit",
+                                "customdesignproeditor",
+                                "bellvoucher",
+                                "update"
+                            ],
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "shared_item_grid_vertical": {
+        "type": "array",
+        "orientation": "vertical",
+        "margin": "0,0",
+        "content": [
+            {
+                "type": "array",
+                "orientation": "vertical",
+                "margin": "0,0",
+                "content": [
+                    {
+                        "type": "itemgrid",
+                        "item_margin": "2, 2",
+                        "h_alignment": "left",
+                        "item_h_alignment": "center",
+                        "item_v_alignment": "center",
+                        "item_height": 36,
+                        "item_width": 36,
+                        "rows": [
+                            [
+                                "progressivefishingrod",
+                                "progressivenet",
+                                "progressiveshovel",
+                                "progressiveaxe",
+                                "progressivevillager"
+                            ],
+                            [
+                                "progressivewateringcan",
+                                "vaultingpole",
+                                "ladder",
+                                "slingshot",
+                                "wetsuit"
+                            ],
+                            [
+                                "month-february",
+                                "month-march",
+                                "month-april",
+                                "month-may",
+                                "month-june",
+                                "month-july"
+                            ],
+                            [
+                                "month-august",
+                                "month-september",
+                                "month-october",
+                                "month-november",
+                                "month-december"
+                            ],
+                            [
+                                "leif",
+                                "redd",
+                                "c.j.",
+                                "flick",
+                                "gulliver",
+                                "wisp"
+                            ],
+                            [
+                                "daisymae",
+                                "saharah",
+                                "kicks",
+                                "label",
+                                "celeste"
+                            ],
+                            [
+                                "diyforbeginners",
+                                "testyourdiyskills",
+                                "wildestdreamsdiy",
+                                "beachefdiyrecipes+",
+                                "basiccookingrecipes"
+                            ],
+                            [
+                                "nookmilesticket",
+                                "toolring",
+                                "progressiveinventoryspace",
+                                "pathpermits",
+                                "cliffconstructionpermit",
+                                "waterscapingpermit"
+                            ],
+                            [
+                                "customizationkit",
+                                "customdesignproeditor",
+                                "bellvoucher",
+                                "update"
+                            ],
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}

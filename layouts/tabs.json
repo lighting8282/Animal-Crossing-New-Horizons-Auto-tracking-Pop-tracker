@@ -1,0 +1,242 @@
+{
+    "tabbed_maps_horizontal": {
+        "type": "tabbed",
+        "tabs": [
+            {
+                "title": "New Tent",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "New Tent"
+                    ]
+                }
+            },
+            {
+                "title": "Resident Services Tent",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Resident Services Tent"
+                    ]
+                }
+            },
+            {
+                "title": "The Beach",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "The Beach"
+                    ]
+                }
+            },
+            {
+                "title": "Museum",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Museum"
+                    ]
+                }
+            },
+            {
+                "title": "Nook's Cranny",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Nook's Cranny"
+                    ]
+                }
+            },
+            {
+                "title": "The Great Indoors",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "The Great Indoors"
+                    ]
+                }
+            },
+            {
+                "title": "Plaza",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Plaza"
+                    ]
+                }
+            },
+            {
+                "title": "Resident Services Building",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Resident Services Building"
+                    ]
+                }
+            },
+            {
+                "title": "Donate Fish",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Donate Fish"
+                    ]
+                }
+            },
+            {
+                "title": "Donate Bugs",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Donate Bugs"
+                    ]
+                }
+            },
+            {
+                "title": "Donate Sea Creatures",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Donate Sea Creatures"
+                    ]
+                }
+            },
+            {
+                "title": "Villager Photos",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Villager Photos"
+                    ]
+                }
+            },
+            {
+                "title": "Hints, Tips and Tricks",
+                "content": {
+                    "type": "layout",
+                    "key": "tips_content"
+                }
+            }
+        ]
+    },
+    "tabbed_maps_vertical": {
+        "type": "tabbed",
+        "tabs": [
+            {
+                "title": "New Tent",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "New Tent"
+                    ]
+                }
+            },
+            {
+                "title": "Resident Services Tent",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Resident Services Tent"
+                    ]
+                }
+            },
+            {
+                "title": "The Beach",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "The Beach"
+                    ]
+                }
+            },
+            {
+                "title": "Museum",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Museum"
+                    ]
+                }
+            },
+            {
+                "title": "Nook's Cranny",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Nook's Cranny"
+                    ]
+                }
+            },
+            {
+                "title": "The Great Indoors",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "The Great Indoors"
+                    ]
+                }
+            },
+            {
+                "title": "Plaza",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Plaza"
+                    ]
+                }
+            },
+            {
+                "title": "Resident Services Building",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Resident Services Building"
+                    ]
+                }
+            },
+            {
+                "title": "Donate Fish",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Donate Fish"
+                    ]
+                }
+            },
+            {
+                "title": "Donate Bugs",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Donate Bugs"
+                    ]
+                }
+            },
+            {
+                "title": "Donate Sea Creatures",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Donate Sea Creatures"
+                    ]
+                }
+            },
+            {
+                "title": "Villager Photos",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Villager Photos"
+                    ]
+                }
+            },
+            {
+                "title": "Hints, Tips and Tricks",
+                "content": {
+                    "type": "layout",
+                    "key": "tips_content"
+                }
+            }
+        ]
+    }
+}

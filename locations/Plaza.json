@@ -1,0 +1,434 @@
+[
+    {
+        "name": "Plaza",
+        "chest_unopened_img": "/images/items/closeleaf.png",
+        "chest_opened_img": "/images/items/openleaf.png",
+        "overlay_background": "#000000",
+        "access_rules": [],
+        "children": [
+            {
+                "name": "K.K. Slider",
+                "chest_unopened_img": "/images/items/closeleaf.png",
+                "chest_opened_img": "/images/items/openleaf.png",
+                "overlay_background": "#000000",
+                "access_rules": [],
+                "sections": [
+                    {
+                        "name": "Watch K.K. perform at the plaza for the first time and complete your goal!",
+                        "access_rules": [
+                            "$Rule|406"
+                        ],
+                        "visibility_rules": [
+                            "$Vis|406"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Watch K.K. Slider perform for the first time",
+                        "access_rules": [
+                            "$Rule|175"
+                        ],
+                        "visibility_rules": [
+                            "$Vis|175"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Plaza",
+                        "x": 961,
+                        "y": 687,
+                        "size": 30
+                    }
+                ]
+            },
+            {
+                "name": "Leif",
+                "chest_unopened_img": "/images/items/closeleaf.png",
+                "chest_opened_img": "/images/items/openleaf.png",
+                "overlay_background": "#000000",
+                "access_rules": [],
+                "sections": [
+                    {
+                        "name": "Plant a shrub",
+                        "access_rules": [
+                            "$Rule|129"
+                        ],
+                        "visibility_rules": [
+                            "$Vis|129"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Plant 5 produce crops",
+                        "access_rules": [
+                            "$Rule|130"
+                        ],
+                        "visibility_rules": [
+                            "$Vis|130"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Harvest 10 produce",
+                        "access_rules": [
+                            "$Rule|131"
+                        ],
+                        "visibility_rules": [
+                            "$Vis|131"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Craft a hedge",
+                        "access_rules": [
+                            "$Rule|16"
+                        ],
+                        "visibility_rules": [
+                            "$Vis|16"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Craft a veggie basket",
+                        "access_rules": [
+                            "$Rule|17"
+                        ],
+                        "visibility_rules": [
+                            "$Vis|17"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Plaza",
+                        "x": 1600,
+                        "y": 695,
+                        "size": 30
+                    }
+                ]
+            },
+            {
+                "name": "Bulletin-Board Benefit",
+                "chest_unopened_img": "/images/items/closeleaf.png",
+                "chest_opened_img": "/images/items/openleaf.png",
+                "overlay_background": "#000000",
+                "access_rules": [],
+                "sections": [
+                    {
+                        "name": "Post to the bulletin board",
+                        "access_rules": [
+                            "$Rule|155"
+                        ],
+                        "visibility_rules": [
+                            "$Vis|155"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Plaza",
+                        "x": 269,
+                        "y": 655,
+                        "size": 30
+                    }
+                ]
+            },
+            {
+                "name": "Do Your Stretches Today!",
+                "chest_unopened_img": "/images/items/closeleaf.png",
+                "chest_opened_img": "/images/items/openleaf.png",
+                "overlay_background": "#000000",
+                "access_rules": [],
+                "sections": [
+                    {
+                        "name": "Join in a group stretching session",
+                        "access_rules": [
+                            "$Rule|180"
+                        ],
+                        "visibility_rules": [
+                            "$Vis|180"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Plaza",
+                        "x": 1355,
+                        "y": 759,
+                        "size": 30
+                    }
+                ]
+            },
+            {
+                "name": "Three, Two, One, GO!",
+                "chest_unopened_img": "/images/items/closeleaf.png",
+                "chest_opened_img": "/images/items/openleaf.png",
+                "overlay_background": "#000000",
+                "access_rules": [],
+                "sections": [
+                    {
+                        "name": "Participate in a Fishing Tourney",
+                        "access_rules": [
+                            "$Rule|187"
+                        ],
+                        "visibility_rules": [
+                            "$Vis|187"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Participate in a Bug-Off",
+                        "access_rules": [
+                            "$Rule|188"
+                        ],
+                        "visibility_rules": [
+                            "$Vis|188"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Plaza",
+                        "x": 1730,
+                        "y": 695,
+                        "size": 30
+                    }
+                ]
+            },
+            {
+                "name": "Happy New Year!",
+                "chest_unopened_img": "/images/items/closeleaf.png",
+                "chest_opened_img": "/images/items/openleaf.png",
+                "overlay_background": "#000000",
+                "access_rules": [],
+                "sections": [
+                    {
+                        "name": "Attend the Countdown event",
+                        "access_rules": [
+                            "$Rule|189"
+                        ],
+                        "visibility_rules": [
+                            "$Vis|189"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Plaza",
+                        "x": 958,
+                        "y": 186,
+                        "size": 30
+                    }
+                ]
+            },
+            {
+                "name": "Halloween",
+                "chest_unopened_img": "/images/items/closeleaf.png",
+                "chest_opened_img": "/images/items/openleaf.png",
+                "overlay_background": "#000000",
+                "access_rules": [],
+                "sections": [
+                    {
+                        "name": "Craft a spooky carriage",
+                        "access_rules": [
+                            "$Rule|18"
+                        ],
+                        "visibility_rules": [
+                            "$Vis|18"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Plaza",
+                        "x": 1541,
+                        "y": 530,
+                        "size": 30
+                    }
+                ]
+            },
+            {
+                "name": "Turkey Day",
+                "chest_unopened_img": "/images/items/closeleaf.png",
+                "chest_opened_img": "/images/items/openleaf.png",
+                "overlay_background": "#000000",
+                "access_rules": [],
+                "sections": [
+                    {
+                        "name": "Craft a Turkey Day chair",
+                        "access_rules": [
+                            "$Rule|19"
+                        ],
+                        "visibility_rules": [
+                            "$Vis|19"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Craft a Turkey Day table",
+                        "access_rules": [
+                            "$Rule|20"
+                        ],
+                        "visibility_rules": [
+                            "$Vis|20"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Craft a Turkey Day garden stand",
+                        "access_rules": [
+                            "$Rule|21"
+                        ],
+                        "visibility_rules": [
+                            "$Vis|21"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Craft a Turkey Day hearth",
+                        "access_rules": [
+                            "$Rule|22"
+                        ],
+                        "visibility_rules": [
+                            "$Vis|22"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Craft a Turkey Day casserole",
+                        "access_rules": [
+                            "$Rule|23"
+                        ],
+                        "visibility_rules": [
+                            "$Vis|23"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Craft a Turkey Day table setting",
+                        "access_rules": [
+                            "$Rule|24"
+                        ],
+                        "visibility_rules": [
+                            "$Vis|24"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Craft some Turkey Day wheat decor",
+                        "access_rules": [
+                            "$Rule|25"
+                        ],
+                        "visibility_rules": [
+                            "$Vis|25"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Craft some Turkey Day decorations",
+                        "access_rules": [
+                            "$Rule|26"
+                        ],
+                        "visibility_rules": [
+                            "$Vis|26"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Cook some clam chowder",
+                        "access_rules": [
+                            "$Rule|81"
+                        ],
+                        "visibility_rules": [
+                            "$Vis|81"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Cook some pumpkin pie",
+                        "access_rules": [
+                            "$Rule|82"
+                        ],
+                        "visibility_rules": [
+                            "$Vis|82"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Cook some gratin",
+                        "access_rules": [
+                            "$Rule|83"
+                        ],
+                        "visibility_rules": [
+                            "$Vis|83"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Cook some olive-flounder meunière",
+                        "access_rules": [
+                            "$Rule|84"
+                        ],
+                        "visibility_rules": [
+                            "$Vis|84"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Plaza",
+                        "x": 1682,
+                        "y": 426,
+                        "size": 30
+                    }
+                ]
+            },
+            {
+                "name": "Toy Day",
+                "chest_unopened_img": "/images/items/closeleaf.png",
+                "chest_opened_img": "/images/items/openleaf.png",
+                "overlay_background": "#000000",
+                "access_rules": [],
+                "sections": [
+                    {
+                        "name": "Craft a gift pile",
+                        "access_rules": [
+                            "$Rule|27"
+                        ],
+                        "visibility_rules": [
+                            "$Vis|27"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Craft some festive wrapping paper",
+                        "access_rules": [
+                            "$Rule|28"
+                        ],
+                        "visibility_rules": [
+                            "$Vis|28"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Plaza",
+                        "x": 1810,
+                        "y": 530,
+                        "size": 30
+                    }
+                ]
+            }
+        ]
+    }
+]

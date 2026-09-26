@@ -1,0 +1,74 @@
+[
+    {
+        "name": "New Tent",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/New Tent.png"
+    },
+    {
+        "name": "Resident Services Tent",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Resident Services Tent.png"
+    },
+    {
+        "name": "The Beach",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/The Beach.png"
+    },
+    {
+        "name": "Museum",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Museum.png"
+    },
+    {
+        "name": "Nook's Cranny",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Nook's Cranny.png"
+    },
+    {
+        "name": "The Great Indoors",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/The Great Indoors.png"
+    },
+    {
+        "name": "Plaza",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Plaza.png"
+    },
+    {
+        "name": "Resident Services Building",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Resident Services Building.png"
+    },
+    {
+        "name": "Donate Fish",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Donate Fish.png"
+    },
+    {
+        "name": "Donate Bugs",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Donate Bugs.png"
+    },
+    {
+        "name": "Donate Sea Creatures",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Donate Sea Creatures.png"
+    },
+    {
+        "name": "Villager Photos",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "images/maps/Villager Photos.png"
+    }
+]

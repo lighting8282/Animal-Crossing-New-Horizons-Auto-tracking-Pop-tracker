@@ -1,0 +1,281 @@
+[
+    {
+        "name": "Villager Photos",
+        "chest_unopened_img": "/images/items/closeleaf.png",
+        "chest_opened_img": "/images/items/openleaf.png",
+        "overlay_background": "#000000",
+        "access_rules": [],
+        "children": [
+            {
+                "name": "Villager Photo #1",
+                "chest_unopened_img": "/images/items/closeleaf.png",
+                "chest_opened_img": "/images/items/openleaf.png",
+                "overlay_background": "#000000",
+                "access_rules": [],
+                "sections": [
+                    {
+                        "name": "Obtain a photo from a villager",
+                        "access_rules": [
+                            "$Rule|396"
+                        ],
+                        "visibility_rules": [
+                            "$Vis|396"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Villager Photos",
+                        "x": 118,
+                        "y": 260,
+                        "size": 30
+                    }
+                ]
+            },
+            {
+                "name": "Villager Photo #2",
+                "chest_unopened_img": "/images/items/closeleaf.png",
+                "chest_opened_img": "/images/items/openleaf.png",
+                "overlay_background": "#000000",
+                "access_rules": [],
+                "sections": [
+                    {
+                        "name": "Obtain a photo from a villager",
+                        "access_rules": [
+                            "$Rule|397"
+                        ],
+                        "visibility_rules": [
+                            "$Vis|397"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Villager Photos",
+                        "x": 378,
+                        "y": 260,
+                        "size": 30
+                    }
+                ]
+            },
+            {
+                "name": "Villager Photo #3",
+                "chest_unopened_img": "/images/items/closeleaf.png",
+                "chest_opened_img": "/images/items/openleaf.png",
+                "overlay_background": "#000000",
+                "access_rules": [],
+                "sections": [
+                    {
+                        "name": "Obtain a photo from a villager",
+                        "access_rules": [
+                            "$Rule|398"
+                        ],
+                        "visibility_rules": [
+                            "$Vis|398"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Villager Photos",
+                        "x": 638,
+                        "y": 260,
+                        "size": 30
+                    }
+                ]
+            },
+            {
+                "name": "Villager Photo #4",
+                "chest_unopened_img": "/images/items/closeleaf.png",
+                "chest_opened_img": "/images/items/openleaf.png",
+                "overlay_background": "#000000",
+                "access_rules": [],
+                "sections": [
+                    {
+                        "name": "Obtain a photo from a villager",
+                        "access_rules": [
+                            "$Rule|399"
+                        ],
+                        "visibility_rules": [
+                            "$Vis|399"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Villager Photos",
+                        "x": 896,
+                        "y": 260,
+                        "size": 30
+                    }
+                ]
+            },
+            {
+                "name": "Villager Photo #5",
+                "chest_unopened_img": "/images/items/closeleaf.png",
+                "chest_opened_img": "/images/items/openleaf.png",
+                "overlay_background": "#000000",
+                "access_rules": [],
+                "sections": [
+                    {
+                        "name": "Obtain a photo from a villager",
+                        "access_rules": [
+                            "$Rule|400"
+                        ],
+                        "visibility_rules": [
+                            "$Vis|400"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Villager Photos",
+                        "x": 1154,
+                        "y": 260,
+                        "size": 30
+                    }
+                ]
+            },
+            {
+                "name": "Villager Photo #6",
+                "chest_unopened_img": "/images/items/closeleaf.png",
+                "chest_opened_img": "/images/items/openleaf.png",
+                "overlay_background": "#000000",
+                "access_rules": [],
+                "sections": [
+                    {
+                        "name": "Obtain a photo from a villager",
+                        "access_rules": [
+                            "$Rule|401"
+                        ],
+                        "visibility_rules": [
+                            "$Vis|401"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Villager Photos",
+                        "x": 118,
+                        "y": 522,
+                        "size": 30
+                    }
+                ]
+            },
+            {
+                "name": "Villager Photo #7",
+                "chest_unopened_img": "/images/items/closeleaf.png",
+                "chest_opened_img": "/images/items/openleaf.png",
+                "overlay_background": "#000000",
+                "access_rules": [],
+                "sections": [
+                    {
+                        "name": "Obtain a photo from a villager",
+                        "access_rules": [
+                            "$Rule|402"
+                        ],
+                        "visibility_rules": [
+                            "$Vis|402"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Villager Photos",
+                        "x": 378,
+                        "y": 522,
+                        "size": 30
+                    }
+                ]
+            },
+            {
+                "name": "Villager Photo #8",
+                "chest_unopened_img": "/images/items/closeleaf.png",
+                "chest_opened_img": "/images/items/openleaf.png",
+                "overlay_background": "#000000",
+                "access_rules": [],
+                "sections": [
+                    {
+                        "name": "Obtain a photo from a villager",
+                        "access_rules": [
+                            "$Rule|403"
+                        ],
+                        "visibility_rules": [
+                            "$Vis|403"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Villager Photos",
+                        "x": 638,
+                        "y": 522,
+                        "size": 30
+                    }
+                ]
+            },
+            {
+                "name": "Villager Photo #9",
+                "chest_unopened_img": "/images/items/closeleaf.png",
+                "chest_opened_img": "/images/items/openleaf.png",
+                "overlay_background": "#000000",
+                "access_rules": [],
+                "sections": [
+                    {
+                        "name": "Obtain a photo from a villager",
+                        "access_rules": [
+                            "$Rule|404"
+                        ],
+                        "visibility_rules": [
+                            "$Vis|404"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Villager Photos",
+                        "x": 896,
+                        "y": 522,
+                        "size": 30
+                    }
+                ]
+            },
+            {
+                "name": "Villager Photo #10",
+                "chest_unopened_img": "/images/items/closeleaf.png",
+                "chest_opened_img": "/images/items/openleaf.png",
+                "overlay_background": "#000000",
+                "access_rules": [],
+                "sections": [
+                    {
+                        "name": "Obtain a photo from a villager",
+                        "access_rules": [
+                            "$Rule|405"
+                        ],
+                        "visibility_rules": [
+                            "$Vis|405"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Villager Photos",
+                        "x": 1154,
+                        "y": 522,
+                        "size": 30
+                    }
+                ]
+            }
+        ]
+    }
+]

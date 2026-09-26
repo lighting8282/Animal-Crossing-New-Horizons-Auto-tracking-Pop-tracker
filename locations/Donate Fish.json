@@ -1,0 +1,2171 @@
+[
+    {
+        "name": "Donate Fish",
+        "chest_unopened_img": "/images/items/closefish.png",
+        "chest_opened_img": "/images/items/openfish.png",
+        "overlay_background": "#000000",
+        "access_rules": [],
+        "children": [
+            {
+                "name": "Donate Bitterling",
+                "chest_unopened_img": "/images/items/closefish.png",
+                "chest_opened_img": "/images/items/openfish.png",
+                "overlay_background": "#000000",
+                "access_rules": [],
+                "sections": [
+                    {
+                        "name": "Donate a bitterling to the museum",
+                        "access_rules": [
+                            "$Rule|196"
+                        ],
+                        "visibility_rules": [
+                            "$Vis|196"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Donate Fish",
+                        "x": 197,
+                        "y": 300,
+                        "size": 30
+                    }
+                ]
+            },
+            {
+                "name": "Donate Pale Chub",
+                "chest_unopened_img": "/images/items/closefish.png",
+                "chest_opened_img": "/images/items/openfish.png",
+                "overlay_background": "#000000",
+                "access_rules": [],
+                "sections": [
+                    {
+                        "name": "Donate a pale chub to the museum",
+                        "access_rules": [
+                            "$Rule|197"
+                        ],
+                        "visibility_rules": [
+                            "$Vis|197"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Donate Fish",
+                        "x": 197,
+                        "y": 444,
+                        "size": 30
+                    }
+                ]
+            },
+            {
+                "name": "Donate Crucian Carp",
+                "chest_unopened_img": "/images/items/closefish.png",
+                "chest_opened_img": "/images/items/openfish.png",
+                "overlay_background": "#000000",
+                "access_rules": [],
+                "sections": [
+                    {
+                        "name": "Donate a crucian carp to the museum",
+                        "access_rules": [
+                            "$Rule|198"
+                        ],
+                        "visibility_rules": [
+                            "$Vis|198"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Donate Fish",
+                        "x": 197,
+                        "y": 580,
+                        "size": 30
+                    }
+                ]
+            },
+            {
+                "name": "Donate Dace",
+                "chest_unopened_img": "/images/items/closefish.png",
+                "chest_opened_img": "/images/items/openfish.png",
+                "overlay_background": "#000000",
+                "access_rules": [],
+                "sections": [
+                    {
+                        "name": "Donate a dace to the museum",
+                        "access_rules": [
+                            "$Rule|199"
+                        ],
+                        "visibility_rules": [
+                            "$Vis|199"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Donate Fish",
+                        "x": 197,
+                        "y": 723,
+                        "size": 30
+                    }
+                ]
+            },
+            {
+                "name": "Donate Carp",
+                "chest_unopened_img": "/images/items/closefish.png",
+                "chest_opened_img": "/images/items/openfish.png",
+                "overlay_background": "#000000",
+                "access_rules": [],
+                "sections": [
+                    {
+                        "name": "Donate a carp to the museum",
+                        "access_rules": [
+                            "$Rule|200"
+                        ],
+                        "visibility_rules": [
+                            "$Vis|200"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Donate Fish",
+                        "x": 197,
+                        "y": 866,
+                        "size": 30
+                    }
+                ]
+            },
+            {
+                "name": "Donate Koi",
+                "chest_unopened_img": "/images/items/closefish.png",
+                "chest_opened_img": "/images/items/openfish.png",
+                "overlay_background": "#000000",
+                "access_rules": [],
+                "sections": [
+                    {
+                        "name": "Donate a koi to the museum",
+                        "access_rules": [
+                            "$Rule|201"
+                        ],
+                        "visibility_rules": [
+                            "$Vis|201"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Donate Fish",
+                        "x": 362,
+                        "y": 300,
+                        "size": 30
+                    }
+                ]
+            },
+            {
+                "name": "Donate Goldfish",
+                "chest_unopened_img": "/images/items/closefish.png",
+                "chest_opened_img": "/images/items/openfish.png",
+                "overlay_background": "#000000",
+                "access_rules": [],
+                "sections": [
+                    {
+                        "name": "Donate a goldfish to the museum",
+                        "access_rules": [
+                            "$Rule|202"
+                        ],
+                        "visibility_rules": [
+                            "$Vis|202"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Donate Fish",
+                        "x": 362,
+                        "y": 444,
+                        "size": 30
+                    }
+                ]
+            },
+            {
+                "name": "Donate Pop-Eyed Goldfish",
+                "chest_unopened_img": "/images/items/closefish.png",
+                "chest_opened_img": "/images/items/openfish.png",
+                "overlay_background": "#000000",
+                "access_rules": [],
+                "sections": [
+                    {
+                        "name": "Donate a pop-eyed goldfish to the museum",
+                        "access_rules": [
+                            "$Rule|203"
+                        ],
+                        "visibility_rules": [
+                            "$Vis|203"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Donate Fish",
+                        "x": 362,
+                        "y": 580,
+                        "size": 30
+                    }
+                ]
+            },
+            {
+                "name": "Donate Ranchu Goldfish",
+                "chest_unopened_img": "/images/items/closefish.png",
+                "chest_opened_img": "/images/items/openfish.png",
+                "overlay_background": "#000000",
+                "access_rules": [],
+                "sections": [
+                    {
+                        "name": "Donate a ranchu goldfish to the museum",
+                        "access_rules": [
+                            "$Rule|204"
+                        ],
+                        "visibility_rules": [
+                            "$Vis|204"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Donate Fish",
+                        "x": 362,
+                        "y": 723,
+                        "size": 30
+                    }
+                ]
+            },
+            {
+                "name": "Donate Killifish",
+                "chest_unopened_img": "/images/items/closefish.png",
+                "chest_opened_img": "/images/items/openfish.png",
+                "overlay_background": "#000000",
+                "access_rules": [],
+                "sections": [
+                    {
+                        "name": "Donate a killifish to the museum",
+                        "access_rules": [
+                            "$Rule|205"
+                        ],
+                        "visibility_rules": [
+                            "$Vis|205"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Donate Fish",
+                        "x": 362,
+                        "y": 866,
+                        "size": 30
+                    }
+                ]
+            },
+            {
+                "name": "Donate Crawfish",
+                "chest_unopened_img": "/images/items/closefish.png",
+                "chest_opened_img": "/images/items/openfish.png",
+                "overlay_background": "#000000",
+                "access_rules": [],
+                "sections": [
+                    {
+                        "name": "Donate a crawfish to the museum",
+                        "access_rules": [
+                            "$Rule|206"
+                        ],
+                        "visibility_rules": [
+                            "$Vis|206"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Donate Fish",
+                        "x": 534,
+                        "y": 300,
+                        "size": 30
+                    }
+                ]
+            },
+            {
+                "name": "Donate Soft-Shelled Turtle",
+                "chest_unopened_img": "/images/items/closefish.png",
+                "chest_opened_img": "/images/items/openfish.png",
+                "overlay_background": "#000000",
+                "access_rules": [],
+                "sections": [
+                    {
+                        "name": "Donate a soft-shelled turtle to the museum",
+                        "access_rules": [
+                            "$Rule|207"
+                        ],
+                        "visibility_rules": [
+                            "$Vis|207"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Donate Fish",
+                        "x": 534,
+                        "y": 444,
+                        "size": 30
+                    }
+                ]
+            },
+            {
+                "name": "Donate Snapping Turtle",
+                "chest_unopened_img": "/images/items/closefish.png",
+                "chest_opened_img": "/images/items/openfish.png",
+                "overlay_background": "#000000",
+                "access_rules": [],
+                "sections": [
+                    {
+                        "name": "Donate a snapping turtle to the museum",
+                        "access_rules": [
+                            "$Rule|208"
+                        ],
+                        "visibility_rules": [
+                            "$Vis|208"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Donate Fish",
+                        "x": 534,
+                        "y": 580,
+                        "size": 30
+                    }
+                ]
+            },
+            {
+                "name": "Donate Tadpole",
+                "chest_unopened_img": "/images/items/closefish.png",
+                "chest_opened_img": "/images/items/openfish.png",
+                "overlay_background": "#000000",
+                "access_rules": [],
+                "sections": [
+                    {
+                        "name": "Donate a tadpole to the museum",
+                        "access_rules": [
+                            "$Rule|209"
+                        ],
+                        "visibility_rules": [
+                            "$Vis|209"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Donate Fish",
+                        "x": 534,
+                        "y": 723,
+                        "size": 30
+                    }
+                ]
+            },
+            {
+                "name": "Donate Frog",
+                "chest_unopened_img": "/images/items/closefish.png",
+                "chest_opened_img": "/images/items/openfish.png",
+                "overlay_background": "#000000",
+                "access_rules": [],
+                "sections": [
+                    {
+                        "name": "Donate a frog to the museum",
+                        "access_rules": [
+                            "$Rule|210"
+                        ],
+                        "visibility_rules": [
+                            "$Vis|210"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Donate Fish",
+                        "x": 534,
+                        "y": 866,
+                        "size": 30
+                    }
+                ]
+            },
+            {
+                "name": "Donate Freshwater Goby",
+                "chest_unopened_img": "/images/items/closefish.png",
+                "chest_opened_img": "/images/items/openfish.png",
+                "overlay_background": "#000000",
+                "access_rules": [],
+                "sections": [
+                    {
+                        "name": "Donate a freshwater goby to the museum",
+                        "access_rules": [
+                            "$Rule|211"
+                        ],
+                        "visibility_rules": [
+                            "$Vis|211"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Donate Fish",
+                        "x": 703,
+                        "y": 300,
+                        "size": 30
+                    }
+                ]
+            },
+            {
+                "name": "Donate Loach",
+                "chest_unopened_img": "/images/items/closefish.png",
+                "chest_opened_img": "/images/items/openfish.png",
+                "overlay_background": "#000000",
+                "access_rules": [],
+                "sections": [
+                    {
+                        "name": "Donate a loach to the museum",
+                        "access_rules": [
+                            "$Rule|212"
+                        ],
+                        "visibility_rules": [
+                            "$Vis|212"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Donate Fish",
+                        "x": 703,
+                        "y": 444,
+                        "size": 30
+                    }
+                ]
+            },
+            {
+                "name": "Donate Catfish",
+                "chest_unopened_img": "/images/items/closefish.png",
+                "chest_opened_img": "/images/items/openfish.png",
+                "overlay_background": "#000000",
+                "access_rules": [],
+                "sections": [
+                    {
+                        "name": "Donate a catfish to the museum",
+                        "access_rules": [
+                            "$Rule|213"
+                        ],
+                        "visibility_rules": [
+                            "$Vis|213"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Donate Fish",
+                        "x": 703,
+                        "y": 580,
+                        "size": 30
+                    }
+                ]
+            },
+            {
+                "name": "Donate Giant Snakehead",
+                "chest_unopened_img": "/images/items/closefish.png",
+                "chest_opened_img": "/images/items/openfish.png",
+                "overlay_background": "#000000",
+                "access_rules": [],
+                "sections": [
+                    {
+                        "name": "Donate a giant snakehead to the museum",
+                        "access_rules": [
+                            "$Rule|214"
+                        ],
+                        "visibility_rules": [
+                            "$Vis|214"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Donate Fish",
+                        "x": 703,
+                        "y": 723,
+                        "size": 30
+                    }
+                ]
+            },
+            {
+                "name": "Donate Bluegill",
+                "chest_unopened_img": "/images/items/closefish.png",
+                "chest_opened_img": "/images/items/openfish.png",
+                "overlay_background": "#000000",
+                "access_rules": [],
+                "sections": [
+                    {
+                        "name": "Donate a bluegill to the museum",
+                        "access_rules": [
+                            "$Rule|215"
+                        ],
+                        "visibility_rules": [
+                            "$Vis|215"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Donate Fish",
+                        "x": 703,
+                        "y": 866,
+                        "size": 30
+                    }
+                ]
+            },
+            {
+                "name": "Donate Yellow Perch",
+                "chest_unopened_img": "/images/items/closefish.png",
+                "chest_opened_img": "/images/items/openfish.png",
+                "overlay_background": "#000000",
+                "access_rules": [],
+                "sections": [
+                    {
+                        "name": "Donate a yellow perch to the museum",
+                        "access_rules": [
+                            "$Rule|216"
+                        ],
+                        "visibility_rules": [
+                            "$Vis|216"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Donate Fish",
+                        "x": 866,
+                        "y": 300,
+                        "size": 30
+                    }
+                ]
+            },
+            {
+                "name": "Donate Black Bass",
+                "chest_unopened_img": "/images/items/closefish.png",
+                "chest_opened_img": "/images/items/openfish.png",
+                "overlay_background": "#000000",
+                "access_rules": [],
+                "sections": [
+                    {
+                        "name": "Donate a black bass to the museum",
+                        "access_rules": [
+                            "$Rule|217"
+                        ],
+                        "visibility_rules": [
+                            "$Vis|217"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Donate Fish",
+                        "x": 866,
+                        "y": 444,
+                        "size": 30
+                    }
+                ]
+            },
+            {
+                "name": "Donate Tilapia",
+                "chest_unopened_img": "/images/items/closefish.png",
+                "chest_opened_img": "/images/items/openfish.png",
+                "overlay_background": "#000000",
+                "access_rules": [],
+                "sections": [
+                    {
+                        "name": "Donate a tilapia to the museum",
+                        "access_rules": [
+                            "$Rule|218"
+                        ],
+                        "visibility_rules": [
+                            "$Vis|218"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Donate Fish",
+                        "x": 866,
+                        "y": 580,
+                        "size": 30
+                    }
+                ]
+            },
+            {
+                "name": "Donate Pike",
+                "chest_unopened_img": "/images/items/closefish.png",
+                "chest_opened_img": "/images/items/openfish.png",
+                "overlay_background": "#000000",
+                "access_rules": [],
+                "sections": [
+                    {
+                        "name": "Donate a pike to the museum",
+                        "access_rules": [
+                            "$Rule|219"
+                        ],
+                        "visibility_rules": [
+                            "$Vis|219"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Donate Fish",
+                        "x": 866,
+                        "y": 723,
+                        "size": 30
+                    }
+                ]
+            },
+            {
+                "name": "Donate Pond Smelt",
+                "chest_unopened_img": "/images/items/closefish.png",
+                "chest_opened_img": "/images/items/openfish.png",
+                "overlay_background": "#000000",
+                "access_rules": [],
+                "sections": [
+                    {
+                        "name": "Donate a pond smelt to the museum",
+                        "access_rules": [
+                            "$Rule|220"
+                        ],
+                        "visibility_rules": [
+                            "$Vis|220"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Donate Fish",
+                        "x": 866,
+                        "y": 866,
+                        "size": 30
+                    }
+                ]
+            },
+            {
+                "name": "Donate Sweetfish",
+                "chest_unopened_img": "/images/items/closefish.png",
+                "chest_opened_img": "/images/items/openfish.png",
+                "overlay_background": "#000000",
+                "access_rules": [],
+                "sections": [
+                    {
+                        "name": "Donate a sweetfish to the museum",
+                        "access_rules": [
+                            "$Rule|221"
+                        ],
+                        "visibility_rules": [
+                            "$Vis|221"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Donate Fish",
+                        "x": 1035,
+                        "y": 300,
+                        "size": 30
+                    }
+                ]
+            },
+            {
+                "name": "Donate Cherry Salmon",
+                "chest_unopened_img": "/images/items/closefish.png",
+                "chest_opened_img": "/images/items/openfish.png",
+                "overlay_background": "#000000",
+                "access_rules": [],
+                "sections": [
+                    {
+                        "name": "Donate a cherry salmon to the museum",
+                        "access_rules": [
+                            "$Rule|222"
+                        ],
+                        "visibility_rules": [
+                            "$Vis|222"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Donate Fish",
+                        "x": 1035,
+                        "y": 444,
+                        "size": 30
+                    }
+                ]
+            },
+            {
+                "name": "Donate Char",
+                "chest_unopened_img": "/images/items/closefish.png",
+                "chest_opened_img": "/images/items/openfish.png",
+                "overlay_background": "#000000",
+                "access_rules": [],
+                "sections": [
+                    {
+                        "name": "Donate a char to the museum",
+                        "access_rules": [
+                            "$Rule|223"
+                        ],
+                        "visibility_rules": [
+                            "$Vis|223"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Donate Fish",
+                        "x": 1035,
+                        "y": 580,
+                        "size": 30
+                    }
+                ]
+            },
+            {
+                "name": "Donate Golden Trout",
+                "chest_unopened_img": "/images/items/closefish.png",
+                "chest_opened_img": "/images/items/openfish.png",
+                "overlay_background": "#000000",
+                "access_rules": [],
+                "sections": [
+                    {
+                        "name": "Donate a golden trout to the museum",
+                        "access_rules": [
+                            "$Rule|224"
+                        ],
+                        "visibility_rules": [
+                            "$Vis|224"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Donate Fish",
+                        "x": 1035,
+                        "y": 723,
+                        "size": 30
+                    }
+                ]
+            },
+            {
+                "name": "Donate Stringfish",
+                "chest_unopened_img": "/images/items/closefish.png",
+                "chest_opened_img": "/images/items/openfish.png",
+                "overlay_background": "#000000",
+                "access_rules": [],
+                "sections": [
+                    {
+                        "name": "Donate a stringfish to the museum",
+                        "access_rules": [
+                            "$Rule|225"
+                        ],
+                        "visibility_rules": [
+                            "$Vis|225"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Donate Fish",
+                        "x": 1035,
+                        "y": 866,
+                        "size": 30
+                    }
+                ]
+            },
+            {
+                "name": "Donate Salmon",
+                "chest_unopened_img": "/images/items/closefish.png",
+                "chest_opened_img": "/images/items/openfish.png",
+                "overlay_background": "#000000",
+                "access_rules": [],
+                "sections": [
+                    {
+                        "name": "Donate a salmon to the museum",
+                        "access_rules": [
+                            "$Rule|226"
+                        ],
+                        "visibility_rules": [
+                            "$Vis|226"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Donate Fish",
+                        "x": 1212,
+                        "y": 300,
+                        "size": 30
+                    }
+                ]
+            },
+            {
+                "name": "Donate King Salmon",
+                "chest_unopened_img": "/images/items/closefish.png",
+                "chest_opened_img": "/images/items/openfish.png",
+                "overlay_background": "#000000",
+                "access_rules": [],
+                "sections": [
+                    {
+                        "name": "Donate a king salmon to the museum",
+                        "access_rules": [
+                            "$Rule|227"
+                        ],
+                        "visibility_rules": [
+                            "$Vis|227"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Donate Fish",
+                        "x": 1212,
+                        "y": 444,
+                        "size": 30
+                    }
+                ]
+            },
+            {
+                "name": "Donate Mitten Crab",
+                "chest_unopened_img": "/images/items/closefish.png",
+                "chest_opened_img": "/images/items/openfish.png",
+                "overlay_background": "#000000",
+                "access_rules": [],
+                "sections": [
+                    {
+                        "name": "Donate a mitten crab to the museum",
+                        "access_rules": [
+                            "$Rule|228"
+                        ],
+                        "visibility_rules": [
+                            "$Vis|228"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Donate Fish",
+                        "x": 1212,
+                        "y": 580,
+                        "size": 30
+                    }
+                ]
+            },
+            {
+                "name": "Donate Guppy",
+                "chest_unopened_img": "/images/items/closefish.png",
+                "chest_opened_img": "/images/items/openfish.png",
+                "overlay_background": "#000000",
+                "access_rules": [],
+                "sections": [
+                    {
+                        "name": "Donate a guppy to the museum",
+                        "access_rules": [
+                            "$Rule|229"
+                        ],
+                        "visibility_rules": [
+                            "$Vis|229"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Donate Fish",
+                        "x": 1212,
+                        "y": 723,
+                        "size": 30
+                    }
+                ]
+            },
+            {
+                "name": "Donate Nibble Fish",
+                "chest_unopened_img": "/images/items/closefish.png",
+                "chest_opened_img": "/images/items/openfish.png",
+                "overlay_background": "#000000",
+                "access_rules": [],
+                "sections": [
+                    {
+                        "name": "Donate a nibble fish to the museum",
+                        "access_rules": [
+                            "$Rule|230"
+                        ],
+                        "visibility_rules": [
+                            "$Vis|230"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Donate Fish",
+                        "x": 1212,
+                        "y": 866,
+                        "size": 30
+                    }
+                ]
+            },
+            {
+                "name": "Donate Angelfish",
+                "chest_unopened_img": "/images/items/closefish.png",
+                "chest_opened_img": "/images/items/openfish.png",
+                "overlay_background": "#000000",
+                "access_rules": [],
+                "sections": [
+                    {
+                        "name": "Donate an angelfish to the museum",
+                        "access_rules": [
+                            "$Rule|231"
+                        ],
+                        "visibility_rules": [
+                            "$Vis|231"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Donate Fish",
+                        "x": 1382,
+                        "y": 300,
+                        "size": 30
+                    }
+                ]
+            },
+            {
+                "name": "Donate Betta",
+                "chest_unopened_img": "/images/items/closefish.png",
+                "chest_opened_img": "/images/items/openfish.png",
+                "overlay_background": "#000000",
+                "access_rules": [],
+                "sections": [
+                    {
+                        "name": "Donate a betta to the museum",
+                        "access_rules": [
+                            "$Rule|232"
+                        ],
+                        "visibility_rules": [
+                            "$Vis|232"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Donate Fish",
+                        "x": 1382,
+                        "y": 444,
+                        "size": 30
+                    }
+                ]
+            },
+            {
+                "name": "Donate Neon Tetra",
+                "chest_unopened_img": "/images/items/closefish.png",
+                "chest_opened_img": "/images/items/openfish.png",
+                "overlay_background": "#000000",
+                "access_rules": [],
+                "sections": [
+                    {
+                        "name": "Donate a neon tetra to the museum",
+                        "access_rules": [
+                            "$Rule|233"
+                        ],
+                        "visibility_rules": [
+                            "$Vis|233"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Donate Fish",
+                        "x": 1382,
+                        "y": 580,
+                        "size": 30
+                    }
+                ]
+            },
+            {
+                "name": "Donate Rainbowfish",
+                "chest_unopened_img": "/images/items/closefish.png",
+                "chest_opened_img": "/images/items/openfish.png",
+                "overlay_background": "#000000",
+                "access_rules": [],
+                "sections": [
+                    {
+                        "name": "Donate a rainbowfish to the museum",
+                        "access_rules": [
+                            "$Rule|234"
+                        ],
+                        "visibility_rules": [
+                            "$Vis|234"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Donate Fish",
+                        "x": 1382,
+                        "y": 723,
+                        "size": 30
+                    }
+                ]
+            },
+            {
+                "name": "Donate Piranha",
+                "chest_unopened_img": "/images/items/closefish.png",
+                "chest_opened_img": "/images/items/openfish.png",
+                "overlay_background": "#000000",
+                "access_rules": [],
+                "sections": [
+                    {
+                        "name": "Donate a piranha to the museum",
+                        "access_rules": [
+                            "$Rule|235"
+                        ],
+                        "visibility_rules": [
+                            "$Vis|235"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Donate Fish",
+                        "x": 1382,
+                        "y": 866,
+                        "size": 30
+                    }
+                ]
+            },
+            {
+                "name": "Donate Arowana",
+                "chest_unopened_img": "/images/items/closefish.png",
+                "chest_opened_img": "/images/items/openfish.png",
+                "overlay_background": "#000000",
+                "access_rules": [],
+                "sections": [
+                    {
+                        "name": "Donate an arowana to the museum",
+                        "access_rules": [
+                            "$Rule|236"
+                        ],
+                        "visibility_rules": [
+                            "$Vis|236"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Donate Fish",
+                        "x": 1546,
+                        "y": 300,
+                        "size": 30
+                    }
+                ]
+            },
+            {
+                "name": "Donate Dorado",
+                "chest_unopened_img": "/images/items/closefish.png",
+                "chest_opened_img": "/images/items/openfish.png",
+                "overlay_background": "#000000",
+                "access_rules": [],
+                "sections": [
+                    {
+                        "name": "Donate a dorado to the museum",
+                        "access_rules": [
+                            "$Rule|237"
+                        ],
+                        "visibility_rules": [
+                            "$Vis|237"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Donate Fish",
+                        "x": 1546,
+                        "y": 444,
+                        "size": 30
+                    }
+                ]
+            },
+            {
+                "name": "Donate Gar",
+                "chest_unopened_img": "/images/items/closefish.png",
+                "chest_opened_img": "/images/items/openfish.png",
+                "overlay_background": "#000000",
+                "access_rules": [],
+                "sections": [
+                    {
+                        "name": "Donate a gar to the museum",
+                        "access_rules": [
+                            "$Rule|238"
+                        ],
+                        "visibility_rules": [
+                            "$Vis|238"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Donate Fish",
+                        "x": 1546,
+                        "y": 580,
+                        "size": 30
+                    }
+                ]
+            },
+            {
+                "name": "Donate Arapaima",
+                "chest_unopened_img": "/images/items/closefish.png",
+                "chest_opened_img": "/images/items/openfish.png",
+                "overlay_background": "#000000",
+                "access_rules": [],
+                "sections": [
+                    {
+                        "name": "Donate an arapaima to the museum",
+                        "access_rules": [
+                            "$Rule|239"
+                        ],
+                        "visibility_rules": [
+                            "$Vis|239"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Donate Fish",
+                        "x": 1546,
+                        "y": 723,
+                        "size": 30
+                    }
+                ]
+            },
+            {
+                "name": "Donate Saddled Bichir",
+                "chest_unopened_img": "/images/items/closefish.png",
+                "chest_opened_img": "/images/items/openfish.png",
+                "overlay_background": "#000000",
+                "access_rules": [],
+                "sections": [
+                    {
+                        "name": "Donate a saddled bichir to the museum",
+                        "access_rules": [
+                            "$Rule|240"
+                        ],
+                        "visibility_rules": [
+                            "$Vis|240"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Donate Fish",
+                        "x": 1546,
+                        "y": 866,
+                        "size": 30
+                    }
+                ]
+            },
+            {
+                "name": "Donate Sturgeon",
+                "chest_unopened_img": "/images/items/closefish.png",
+                "chest_opened_img": "/images/items/openfish.png",
+                "overlay_background": "#000000",
+                "access_rules": [],
+                "sections": [
+                    {
+                        "name": "Donate a sturgeon to the museum",
+                        "access_rules": [
+                            "$Rule|241"
+                        ],
+                        "visibility_rules": [
+                            "$Vis|241"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Donate Fish",
+                        "x": 1712,
+                        "y": 300,
+                        "size": 30
+                    }
+                ]
+            },
+            {
+                "name": "Donate Sea Butterfly",
+                "chest_unopened_img": "/images/items/closefish.png",
+                "chest_opened_img": "/images/items/openfish.png",
+                "overlay_background": "#000000",
+                "access_rules": [],
+                "sections": [
+                    {
+                        "name": "Donate a sea butterfly to the museum",
+                        "access_rules": [
+                            "$Rule|242"
+                        ],
+                        "visibility_rules": [
+                            "$Vis|242"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Donate Fish",
+                        "x": 1712,
+                        "y": 444,
+                        "size": 30
+                    }
+                ]
+            },
+            {
+                "name": "Donate Sea Horse",
+                "chest_unopened_img": "/images/items/closefish.png",
+                "chest_opened_img": "/images/items/openfish.png",
+                "overlay_background": "#000000",
+                "access_rules": [],
+                "sections": [
+                    {
+                        "name": "Donate a sea horse to the museum",
+                        "access_rules": [
+                            "$Rule|243"
+                        ],
+                        "visibility_rules": [
+                            "$Vis|243"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Donate Fish",
+                        "x": 1712,
+                        "y": 580,
+                        "size": 30
+                    }
+                ]
+            },
+            {
+                "name": "Donate Clown Fish",
+                "chest_unopened_img": "/images/items/closefish.png",
+                "chest_opened_img": "/images/items/openfish.png",
+                "overlay_background": "#000000",
+                "access_rules": [],
+                "sections": [
+                    {
+                        "name": "Donate a clown fish to the museum",
+                        "access_rules": [
+                            "$Rule|244"
+                        ],
+                        "visibility_rules": [
+                            "$Vis|244"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Donate Fish",
+                        "x": 1712,
+                        "y": 723,
+                        "size": 30
+                    }
+                ]
+            },
+            {
+                "name": "Donate Surgeonfish",
+                "chest_unopened_img": "/images/items/closefish.png",
+                "chest_opened_img": "/images/items/openfish.png",
+                "overlay_background": "#000000",
+                "access_rules": [],
+                "sections": [
+                    {
+                        "name": "Donate a surgeonfish to the museum",
+                        "access_rules": [
+                            "$Rule|245"
+                        ],
+                        "visibility_rules": [
+                            "$Vis|245"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Donate Fish",
+                        "x": 1712,
+                        "y": 866,
+                        "size": 30
+                    }
+                ]
+            },
+            {
+                "name": "Donate Butterfly Fish",
+                "chest_unopened_img": "/images/items/closefish.png",
+                "chest_opened_img": "/images/items/openfish.png",
+                "overlay_background": "#000000",
+                "access_rules": [],
+                "sections": [
+                    {
+                        "name": "Donate a butterfly fish to the museum",
+                        "access_rules": [
+                            "$Rule|246"
+                        ],
+                        "visibility_rules": [
+                            "$Vis|246"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Donate Fish",
+                        "x": 1888,
+                        "y": 300,
+                        "size": 30
+                    }
+                ]
+            },
+            {
+                "name": "Donate Napoleonfish",
+                "chest_unopened_img": "/images/items/closefish.png",
+                "chest_opened_img": "/images/items/openfish.png",
+                "overlay_background": "#000000",
+                "access_rules": [],
+                "sections": [
+                    {
+                        "name": "Donate a Napoleonfish to the museum",
+                        "access_rules": [
+                            "$Rule|247"
+                        ],
+                        "visibility_rules": [
+                            "$Vis|247"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Donate Fish",
+                        "x": 1888,
+                        "y": 444,
+                        "size": 30
+                    }
+                ]
+            },
+            {
+                "name": "Donate Zebra Turkeyfish",
+                "chest_unopened_img": "/images/items/closefish.png",
+                "chest_opened_img": "/images/items/openfish.png",
+                "overlay_background": "#000000",
+                "access_rules": [],
+                "sections": [
+                    {
+                        "name": "Donate a zebra turkeyfish to the museum",
+                        "access_rules": [
+                            "$Rule|248"
+                        ],
+                        "visibility_rules": [
+                            "$Vis|248"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Donate Fish",
+                        "x": 1888,
+                        "y": 580,
+                        "size": 30
+                    }
+                ]
+            },
+            {
+                "name": "Donate Blowfish",
+                "chest_unopened_img": "/images/items/closefish.png",
+                "chest_opened_img": "/images/items/openfish.png",
+                "overlay_background": "#000000",
+                "access_rules": [],
+                "sections": [
+                    {
+                        "name": "Donate a blowfish to the museum",
+                        "access_rules": [
+                            "$Rule|249"
+                        ],
+                        "visibility_rules": [
+                            "$Vis|249"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Donate Fish",
+                        "x": 1888,
+                        "y": 723,
+                        "size": 30
+                    }
+                ]
+            },
+            {
+                "name": "Donate Puffer Fish",
+                "chest_unopened_img": "/images/items/closefish.png",
+                "chest_opened_img": "/images/items/openfish.png",
+                "overlay_background": "#000000",
+                "access_rules": [],
+                "sections": [
+                    {
+                        "name": "Donate a puffer fish to the museum",
+                        "access_rules": [
+                            "$Rule|250"
+                        ],
+                        "visibility_rules": [
+                            "$Vis|250"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Donate Fish",
+                        "x": 1888,
+                        "y": 866,
+                        "size": 30
+                    }
+                ]
+            },
+            {
+                "name": "Donate Anchovy",
+                "chest_unopened_img": "/images/items/closefish.png",
+                "chest_opened_img": "/images/items/openfish.png",
+                "overlay_background": "#000000",
+                "access_rules": [],
+                "sections": [
+                    {
+                        "name": "Donate an anchovy to the museum",
+                        "access_rules": [
+                            "$Rule|251"
+                        ],
+                        "visibility_rules": [
+                            "$Vis|251"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Donate Fish",
+                        "x": 2052,
+                        "y": 300,
+                        "size": 30
+                    }
+                ]
+            },
+            {
+                "name": "Donate Horse Mackerel",
+                "chest_unopened_img": "/images/items/closefish.png",
+                "chest_opened_img": "/images/items/openfish.png",
+                "overlay_background": "#000000",
+                "access_rules": [],
+                "sections": [
+                    {
+                        "name": "Donate a horse mackerel to the museum",
+                        "access_rules": [
+                            "$Rule|252"
+                        ],
+                        "visibility_rules": [
+                            "$Vis|252"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Donate Fish",
+                        "x": 2052,
+                        "y": 444,
+                        "size": 30
+                    }
+                ]
+            },
+            {
+                "name": "Donate Barred Knifejaw",
+                "chest_unopened_img": "/images/items/closefish.png",
+                "chest_opened_img": "/images/items/openfish.png",
+                "overlay_background": "#000000",
+                "access_rules": [],
+                "sections": [
+                    {
+                        "name": "Donate a barred knifejaw to the museum",
+                        "access_rules": [
+                            "$Rule|253"
+                        ],
+                        "visibility_rules": [
+                            "$Vis|253"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Donate Fish",
+                        "x": 2052,
+                        "y": 580,
+                        "size": 30
+                    }
+                ]
+            },
+            {
+                "name": "Donate Sea Bass",
+                "chest_unopened_img": "/images/items/closefish.png",
+                "chest_opened_img": "/images/items/openfish.png",
+                "overlay_background": "#000000",
+                "access_rules": [],
+                "sections": [
+                    {
+                        "name": "Donate a sea bass to the museum",
+                        "access_rules": [
+                            "$Rule|254"
+                        ],
+                        "visibility_rules": [
+                            "$Vis|254"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Donate Fish",
+                        "x": 2052,
+                        "y": 723,
+                        "size": 30
+                    }
+                ]
+            },
+            {
+                "name": "Donate Red Snapper",
+                "chest_unopened_img": "/images/items/closefish.png",
+                "chest_opened_img": "/images/items/openfish.png",
+                "overlay_background": "#000000",
+                "access_rules": [],
+                "sections": [
+                    {
+                        "name": "Donate a red snapper to the museum",
+                        "access_rules": [
+                            "$Rule|255"
+                        ],
+                        "visibility_rules": [
+                            "$Vis|255"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Donate Fish",
+                        "x": 2052,
+                        "y": 866,
+                        "size": 30
+                    }
+                ]
+            },
+            {
+                "name": "Donate Dab",
+                "chest_unopened_img": "/images/items/closefish.png",
+                "chest_opened_img": "/images/items/openfish.png",
+                "overlay_background": "#000000",
+                "access_rules": [],
+                "sections": [
+                    {
+                        "name": "Donate a dab to the museum",
+                        "access_rules": [
+                            "$Rule|256"
+                        ],
+                        "visibility_rules": [
+                            "$Vis|256"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Donate Fish",
+                        "x": 2231,
+                        "y": 300,
+                        "size": 30
+                    }
+                ]
+            },
+            {
+                "name": "Donate Olive Flounder",
+                "chest_unopened_img": "/images/items/closefish.png",
+                "chest_opened_img": "/images/items/openfish.png",
+                "overlay_background": "#000000",
+                "access_rules": [],
+                "sections": [
+                    {
+                        "name": "Donate an olive flounder to the museum",
+                        "access_rules": [
+                            "$Rule|257"
+                        ],
+                        "visibility_rules": [
+                            "$Vis|257"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Donate Fish",
+                        "x": 2231,
+                        "y": 444,
+                        "size": 30
+                    }
+                ]
+            },
+            {
+                "name": "Donate Squid",
+                "chest_unopened_img": "/images/items/closefish.png",
+                "chest_opened_img": "/images/items/openfish.png",
+                "overlay_background": "#000000",
+                "access_rules": [],
+                "sections": [
+                    {
+                        "name": "Donate a squid to the museum",
+                        "access_rules": [
+                            "$Rule|258"
+                        ],
+                        "visibility_rules": [
+                            "$Vis|258"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Donate Fish",
+                        "x": 2231,
+                        "y": 580,
+                        "size": 30
+                    }
+                ]
+            },
+            {
+                "name": "Donate Moray Eel",
+                "chest_unopened_img": "/images/items/closefish.png",
+                "chest_opened_img": "/images/items/openfish.png",
+                "overlay_background": "#000000",
+                "access_rules": [],
+                "sections": [
+                    {
+                        "name": "Donate a moray eel to the museum",
+                        "access_rules": [
+                            "$Rule|259"
+                        ],
+                        "visibility_rules": [
+                            "$Vis|259"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Donate Fish",
+                        "x": 2231,
+                        "y": 723,
+                        "size": 30
+                    }
+                ]
+            },
+            {
+                "name": "Donate Ribbon Eel",
+                "chest_unopened_img": "/images/items/closefish.png",
+                "chest_opened_img": "/images/items/openfish.png",
+                "overlay_background": "#000000",
+                "access_rules": [],
+                "sections": [
+                    {
+                        "name": "Donate a ribbon eel to the museum",
+                        "access_rules": [
+                            "$Rule|260"
+                        ],
+                        "visibility_rules": [
+                            "$Vis|260"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Donate Fish",
+                        "x": 2231,
+                        "y": 866,
+                        "size": 30
+                    }
+                ]
+            },
+            {
+                "name": "Donate Tuna",
+                "chest_unopened_img": "/images/items/closefish.png",
+                "chest_opened_img": "/images/items/openfish.png",
+                "overlay_background": "#000000",
+                "access_rules": [],
+                "sections": [
+                    {
+                        "name": "Donate a tuna to the museum",
+                        "access_rules": [
+                            "$Rule|261"
+                        ],
+                        "visibility_rules": [
+                            "$Vis|261"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Donate Fish",
+                        "x": 2381,
+                        "y": 300,
+                        "size": 30
+                    }
+                ]
+            },
+            {
+                "name": "Donate Blue Marlin",
+                "chest_unopened_img": "/images/items/closefish.png",
+                "chest_opened_img": "/images/items/openfish.png",
+                "overlay_background": "#000000",
+                "access_rules": [],
+                "sections": [
+                    {
+                        "name": "Donate a blue marlin to the museum",
+                        "access_rules": [
+                            "$Rule|262"
+                        ],
+                        "visibility_rules": [
+                            "$Vis|262"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Donate Fish",
+                        "x": 2381,
+                        "y": 444,
+                        "size": 30
+                    }
+                ]
+            },
+            {
+                "name": "Donate Giant Trevally",
+                "chest_unopened_img": "/images/items/closefish.png",
+                "chest_opened_img": "/images/items/openfish.png",
+                "overlay_background": "#000000",
+                "access_rules": [],
+                "sections": [
+                    {
+                        "name": "Donate a giant trevally to the museum",
+                        "access_rules": [
+                            "$Rule|263"
+                        ],
+                        "visibility_rules": [
+                            "$Vis|263"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Donate Fish",
+                        "x": 2381,
+                        "y": 580,
+                        "size": 30
+                    }
+                ]
+            },
+            {
+                "name": "Donate Mahi-Mahi",
+                "chest_unopened_img": "/images/items/closefish.png",
+                "chest_opened_img": "/images/items/openfish.png",
+                "overlay_background": "#000000",
+                "access_rules": [],
+                "sections": [
+                    {
+                        "name": "Donate a mahi-mahi to the museum",
+                        "access_rules": [
+                            "$Rule|264"
+                        ],
+                        "visibility_rules": [
+                            "$Vis|264"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Donate Fish",
+                        "x": 2381,
+                        "y": 723,
+                        "size": 30
+                    }
+                ]
+            },
+            {
+                "name": "Donate Ocean Sunfish",
+                "chest_unopened_img": "/images/items/closefish.png",
+                "chest_opened_img": "/images/items/openfish.png",
+                "overlay_background": "#000000",
+                "access_rules": [],
+                "sections": [
+                    {
+                        "name": "Donate an ocean sunfish to the museum",
+                        "access_rules": [
+                            "$Rule|265"
+                        ],
+                        "visibility_rules": [
+                            "$Vis|265"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Donate Fish",
+                        "x": 2381,
+                        "y": 866,
+                        "size": 30
+                    }
+                ]
+            },
+            {
+                "name": "Donate Ray",
+                "chest_unopened_img": "/images/items/closefish.png",
+                "chest_opened_img": "/images/items/openfish.png",
+                "overlay_background": "#000000",
+                "access_rules": [],
+                "sections": [
+                    {
+                        "name": "Donate a ray to the museum",
+                        "access_rules": [
+                            "$Rule|266"
+                        ],
+                        "visibility_rules": [
+                            "$Vis|266"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Donate Fish",
+                        "x": 2563,
+                        "y": 300,
+                        "size": 30
+                    }
+                ]
+            },
+            {
+                "name": "Donate Saw Shark",
+                "chest_unopened_img": "/images/items/closefish.png",
+                "chest_opened_img": "/images/items/openfish.png",
+                "overlay_background": "#000000",
+                "access_rules": [],
+                "sections": [
+                    {
+                        "name": "Donate a saw shark to the museum",
+                        "access_rules": [
+                            "$Rule|267"
+                        ],
+                        "visibility_rules": [
+                            "$Vis|267"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Donate Fish",
+                        "x": 2563,
+                        "y": 444,
+                        "size": 30
+                    }
+                ]
+            },
+            {
+                "name": "Donate Hammerhead Shark",
+                "chest_unopened_img": "/images/items/closefish.png",
+                "chest_opened_img": "/images/items/openfish.png",
+                "overlay_background": "#000000",
+                "access_rules": [],
+                "sections": [
+                    {
+                        "name": "Donate a hammerhead shark to the museum",
+                        "access_rules": [
+                            "$Rule|268"
+                        ],
+                        "visibility_rules": [
+                            "$Vis|268"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Donate Fish",
+                        "x": 2563,
+                        "y": 580,
+                        "size": 30
+                    }
+                ]
+            },
+            {
+                "name": "Donate Great White Shark",
+                "chest_unopened_img": "/images/items/closefish.png",
+                "chest_opened_img": "/images/items/openfish.png",
+                "overlay_background": "#000000",
+                "access_rules": [],
+                "sections": [
+                    {
+                        "name": "Donate a great white shark to the museum",
+                        "access_rules": [
+                            "$Rule|269"
+                        ],
+                        "visibility_rules": [
+                            "$Vis|269"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Donate Fish",
+                        "x": 2563,
+                        "y": 723,
+                        "size": 30
+                    }
+                ]
+            },
+            {
+                "name": "Donate Whale Shark",
+                "chest_unopened_img": "/images/items/closefish.png",
+                "chest_opened_img": "/images/items/openfish.png",
+                "overlay_background": "#000000",
+                "access_rules": [],
+                "sections": [
+                    {
+                        "name": "Donate a whale shark to the museum",
+                        "access_rules": [
+                            "$Rule|270"
+                        ],
+                        "visibility_rules": [
+                            "$Vis|270"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Donate Fish",
+                        "x": 2563,
+                        "y": 866,
+                        "size": 30
+                    }
+                ]
+            },
+            {
+                "name": "Donate Suckerfish",
+                "chest_unopened_img": "/images/items/closefish.png",
+                "chest_opened_img": "/images/items/openfish.png",
+                "overlay_background": "#000000",
+                "access_rules": [],
+                "sections": [
+                    {
+                        "name": "Donate a suckerfish to the museum",
+                        "access_rules": [
+                            "$Rule|271"
+                        ],
+                        "visibility_rules": [
+                            "$Vis|271"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Donate Fish",
+                        "x": 2727,
+                        "y": 300,
+                        "size": 30
+                    }
+                ]
+            },
+            {
+                "name": "Donate Football Fish",
+                "chest_unopened_img": "/images/items/closefish.png",
+                "chest_opened_img": "/images/items/openfish.png",
+                "overlay_background": "#000000",
+                "access_rules": [],
+                "sections": [
+                    {
+                        "name": "Donate a football fish to the museum",
+                        "access_rules": [
+                            "$Rule|272"
+                        ],
+                        "visibility_rules": [
+                            "$Vis|272"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Donate Fish",
+                        "x": 2727,
+                        "y": 444,
+                        "size": 30
+                    }
+                ]
+            },
+            {
+                "name": "Donate Oarfish",
+                "chest_unopened_img": "/images/items/closefish.png",
+                "chest_opened_img": "/images/items/openfish.png",
+                "overlay_background": "#000000",
+                "access_rules": [],
+                "sections": [
+                    {
+                        "name": "Donate an oarfish to the museum",
+                        "access_rules": [
+                            "$Rule|273"
+                        ],
+                        "visibility_rules": [
+                            "$Vis|273"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Donate Fish",
+                        "x": 2727,
+                        "y": 580,
+                        "size": 30
+                    }
+                ]
+            },
+            {
+                "name": "Donate Barreleye",
+                "chest_unopened_img": "/images/items/closefish.png",
+                "chest_opened_img": "/images/items/openfish.png",
+                "overlay_background": "#000000",
+                "access_rules": [],
+                "sections": [
+                    {
+                        "name": "Donate a barreleye to the museum",
+                        "access_rules": [
+                            "$Rule|274"
+                        ],
+                        "visibility_rules": [
+                            "$Vis|274"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Donate Fish",
+                        "x": 2727,
+                        "y": 723,
+                        "size": 30
+                    }
+                ]
+            },
+            {
+                "name": "Donate Coelacanth",
+                "chest_unopened_img": "/images/items/closefish.png",
+                "chest_opened_img": "/images/items/openfish.png",
+                "overlay_background": "#000000",
+                "access_rules": [],
+                "sections": [
+                    {
+                        "name": "Donate a coelacanth to the museum",
+                        "access_rules": [
+                            "$Rule|275"
+                        ],
+                        "visibility_rules": [
+                            "$Vis|275"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Donate Fish",
+                        "x": 2727,
+                        "y": 866,
+                        "size": 30
+                    }
+                ]
+            }
+        ]
+    }
+]

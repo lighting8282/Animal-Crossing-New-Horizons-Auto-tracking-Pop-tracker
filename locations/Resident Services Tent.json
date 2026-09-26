@@ -1,0 +1,613 @@
+[
+    {
+        "name": "Resident Services Tent",
+        "chest_unopened_img": "/images/items/closeleaf.png",
+        "chest_opened_img": "/images/items/openleaf.png",
+        "overlay_background": "#000000",
+        "access_rules": [],
+        "children": [
+            {
+                "name": "Tools",
+                "chest_unopened_img": "/images/items/closeleaf.png",
+                "chest_opened_img": "/images/items/openleaf.png",
+                "overlay_background": "#000000",
+                "access_rules": [],
+                "sections": [
+                    {
+                        "name": "Craft 5 tools",
+                        "access_rules": [
+                            "$Rule|111"
+                        ],
+                        "visibility_rules": [
+                            "$Vis|111"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Break a tool",
+                        "access_rules": [
+                            "$Rule|117"
+                        ],
+                        "visibility_rules": [
+                            "$Vis|117"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Craft a flimsy net",
+                        "access_rules": [
+                            "$Rule|1"
+                        ],
+                        "visibility_rules": [
+                            "$Vis|1"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Craft a net",
+                        "access_rules": [
+                            "$Rule|2"
+                        ],
+                        "visibility_rules": [
+                            "$Vis|2"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Craft a flimsy fishing rod",
+                        "access_rules": [
+                            "$Rule|3"
+                        ],
+                        "visibility_rules": [
+                            "$Vis|3"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Craft a fishing rod",
+                        "access_rules": [
+                            "$Rule|4"
+                        ],
+                        "visibility_rules": [
+                            "$Vis|4"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Craft a flimsy shovel",
+                        "access_rules": [
+                            "$Rule|5"
+                        ],
+                        "visibility_rules": [
+                            "$Vis|5"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Craft a shovel",
+                        "access_rules": [
+                            "$Rule|6"
+                        ],
+                        "visibility_rules": [
+                            "$Vis|6"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Craft a flimsy axe",
+                        "access_rules": [
+                            "$Rule|7"
+                        ],
+                        "visibility_rules": [
+                            "$Vis|7"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Craft a stone axe",
+                        "access_rules": [
+                            "$Rule|8"
+                        ],
+                        "visibility_rules": [
+                            "$Vis|8"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Craft an axe",
+                        "access_rules": [
+                            "$Rule|9"
+                        ],
+                        "visibility_rules": [
+                            "$Vis|9"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Craft a flimsy watering can",
+                        "access_rules": [
+                            "$Rule|10"
+                        ],
+                        "visibility_rules": [
+                            "$Vis|10"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Craft a watering can",
+                        "access_rules": [
+                            "$Rule|11"
+                        ],
+                        "visibility_rules": [
+                            "$Vis|11"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Craft a slingshot",
+                        "access_rules": [
+                            "$Rule|12"
+                        ],
+                        "visibility_rules": [
+                            "$Vis|12"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Craft a vaulting pole",
+                        "access_rules": [
+                            "$Rule|13"
+                        ],
+                        "visibility_rules": [
+                            "$Vis|13"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Craft a ladder",
+                        "access_rules": [
+                            "$Rule|14"
+                        ],
+                        "visibility_rules": [
+                            "$Vis|14"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Resident Services Tent",
+                        "x": 806,
+                        "y": 323,
+                        "size": 30
+                    }
+                ]
+            },
+            {
+                "name": "Dream Home",
+                "chest_unopened_img": "/images/items/closeleaf.png",
+                "chest_opened_img": "/images/items/openleaf.png",
+                "overlay_background": "#000000",
+                "access_rules": [],
+                "sections": [
+                    {
+                        "name": "Upgrade from a tent to a house!",
+                        "access_rules": [
+                            "$Rule|136"
+                        ],
+                        "visibility_rules": [
+                            "$Vis|136"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Pay off your moving fees!",
+                        "access_rules": [
+                            "$Rule|150"
+                        ],
+                        "visibility_rules": [
+                            "$Vis|150"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Pay off your first home loan",
+                        "access_rules": [
+                            "$Rule|154"
+                        ],
+                        "visibility_rules": [
+                            "$Vis|154"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Resident Services Tent",
+                        "x": 315,
+                        "y": 318,
+                        "size": 30
+                    }
+                ]
+            },
+            {
+                "name": "Nook Stop",
+                "chest_unopened_img": "/images/items/closeleaf.png",
+                "chest_opened_img": "/images/items/openleaf.png",
+                "overlay_background": "#000000",
+                "access_rules": [],
+                "sections": [
+                    {
+                        "name": "Purchase something from Nook Shopping",
+                        "access_rules": [
+                            "$Rule|145"
+                        ],
+                        "visibility_rules": [
+                            "$Vis|145"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Catalog 100 items to Nook Shopping",
+                        "access_rules": [
+                            "$Rule|146"
+                        ],
+                        "visibility_rules": [
+                            "$Vis|146"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Complete 5 Nook Miles+ tasks",
+                        "access_rules": [
+                            "$Rule|147"
+                        ],
+                        "visibility_rules": [
+                            "$Vis|147"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Craft a stall",
+                        "access_rules": [
+                            "$Rule|30"
+                        ],
+                        "visibility_rules": [
+                            "$Vis|30"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Craft a destinations signpost",
+                        "access_rules": [
+                            "$Rule|31"
+                        ],
+                        "visibility_rules": [
+                            "$Vis|31"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Craft a donation box",
+                        "access_rules": [
+                            "$Rule|32"
+                        ],
+                        "visibility_rules": [
+                            "$Vis|32"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Craft a brick well",
+                        "access_rules": [
+                            "$Rule|33"
+                        ],
+                        "visibility_rules": [
+                            "$Vis|33"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Craft a silo",
+                        "access_rules": [
+                            "$Rule|34"
+                        ],
+                        "visibility_rules": [
+                            "$Vis|34"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Craft a drinking fountain",
+                        "access_rules": [
+                            "$Rule|35"
+                        ],
+                        "visibility_rules": [
+                            "$Vis|35"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Craft a stone arch",
+                        "access_rules": [
+                            "$Rule|36"
+                        ],
+                        "visibility_rules": [
+                            "$Vis|36"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Craft a simple well",
+                        "access_rules": [
+                            "$Rule|37"
+                        ],
+                        "visibility_rules": [
+                            "$Vis|37"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Craft an outdoor bath",
+                        "access_rules": [
+                            "$Rule|38"
+                        ],
+                        "visibility_rules": [
+                            "$Vis|38"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Craft a wave breaker",
+                        "access_rules": [
+                            "$Rule|39"
+                        ],
+                        "visibility_rules": [
+                            "$Vis|39"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Craft a stone tablet",
+                        "access_rules": [
+                            "$Rule|40"
+                        ],
+                        "visibility_rules": [
+                            "$Vis|40"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Craft a manhole cover",
+                        "access_rules": [
+                            "$Rule|41"
+                        ],
+                        "visibility_rules": [
+                            "$Vis|41"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Craft a fountain",
+                        "access_rules": [
+                            "$Rule|101"
+                        ],
+                        "visibility_rules": [
+                            "$Vis|101"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Resident Services Tent",
+                        "x": 1113,
+                        "y": 437,
+                        "size": 30
+                    }
+                ]
+            },
+            {
+                "name": "Preparing Three Homes",
+                "chest_unopened_img": "/images/items/closeleaf.png",
+                "chest_opened_img": "/images/items/openleaf.png",
+                "overlay_background": "#000000",
+                "access_rules": [],
+                "sections": [
+                    {
+                        "name": "Craft a wooden-block toy",
+                        "access_rules": [
+                            "$Rule|45"
+                        ],
+                        "visibility_rules": [
+                            "$Vis|45"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Craft a wooden chair",
+                        "access_rules": [
+                            "$Rule|66"
+                        ],
+                        "visibility_rules": [
+                            "$Vis|66"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Craft a wooden simple bed",
+                        "access_rules": [
+                            "$Rule|68"
+                        ],
+                        "visibility_rules": [
+                            "$Vis|68"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Craft a wooden-block table",
+                        "access_rules": [
+                            "$Rule|70"
+                        ],
+                        "visibility_rules": [
+                            "$Vis|70"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Craft a wooden-block stereo",
+                        "access_rules": [
+                            "$Rule|71"
+                        ],
+                        "visibility_rules": [
+                            "$Vis|71"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Craft a classic pitcher",
+                        "access_rules": [
+                            "$Rule|73"
+                        ],
+                        "visibility_rules": [
+                            "$Vis|73"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Craft a pot",
+                        "access_rules": [
+                            "$Rule|74"
+                        ],
+                        "visibility_rules": [
+                            "$Vis|74"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Craft a piece of furniture using your island's native fruit",
+                        "access_rules": [
+                            "$Rule|75"
+                        ],
+                        "visibility_rules": [
+                            "$Vis|75"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Craft another piece of furniture using your island's native fruit",
+                        "access_rules": [
+                            "$Rule|76"
+                        ],
+                        "visibility_rules": [
+                            "$Vis|76"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Craft a wreath using your island's native flower",
+                        "access_rules": [
+                            "$Rule|77"
+                        ],
+                        "visibility_rules": [
+                            "$Vis|77"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Resident Services Tent",
+                        "x": 699,
+                        "y": 323,
+                        "size": 30
+                    }
+                ]
+            },
+            {
+                "name": "Bridging a Gap",
+                "chest_unopened_img": "/images/items/closeleaf.png",
+                "chest_opened_img": "/images/items/openleaf.png",
+                "overlay_background": "#000000",
+                "access_rules": [],
+                "sections": [
+                    {
+                        "name": "Craft the bridge construction kit",
+                        "access_rules": [
+                            "$Rule|61"
+                        ],
+                        "visibility_rules": [
+                            "$Vis|61"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Resident Services Tent",
+                        "x": 464,
+                        "y": 318,
+                        "size": 30
+                    }
+                ]
+            },
+            {
+                "name": "Some Axe Recipes For You",
+                "chest_unopened_img": "/images/items/closeleaf.png",
+                "chest_opened_img": "/images/items/openleaf.png",
+                "overlay_background": "#000000",
+                "access_rules": [],
+                "sections": [
+                    {
+                        "name": "Craft a bonfire",
+                        "access_rules": [
+                            "$Rule|64"
+                        ],
+                        "visibility_rules": [
+                            "$Vis|64"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Craft a tiki torch",
+                        "access_rules": [
+                            "$Rule|65"
+                        ],
+                        "visibility_rules": [
+                            "$Vis|65"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Craft some log stakes",
+                        "access_rules": [
+                            "$Rule|69"
+                        ],
+                        "visibility_rules": [
+                            "$Vis|69"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Craft a birdhouse",
+                        "access_rules": [
+                            "$Rule|72"
+                        ],
+                        "visibility_rules": [
+                            "$Vis|72"
+                        ],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Resident Services Tent",
+                        "x": 924,
+                        "y": 323,
+                        "size": 30
+                    }
+                ]
+            }
+        ]
+    }
+]

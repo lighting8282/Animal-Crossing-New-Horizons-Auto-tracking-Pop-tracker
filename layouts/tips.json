@@ -1,0 +1,539 @@
+{
+    "tips_content": {
+        "type": "array",
+        "orientation": "horizontal",
+        "v_alignment": "top",
+        "h_alignment": "left",
+        "margin": "8,8,8,8",
+        "content": [
+            {
+                "type": "array",
+                "orientation": "vertical",
+                "v_alignment": "top",
+                "h_alignment": "left",
+                "max_width": 330,
+                "content": [
+                    {
+                        "type": "group",
+                        "header": "Specific Check Tricks",
+                        "content": {
+                            "type": "array",
+                            "orientation": "vertical",
+                            "content": [
+                                {
+                                    "type": "text",
+                                    "text": "Spooky Carriage DIY:"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "  Give Jack 2 lollipops on Halloween."
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "  Wear the FULL Jack costume to scare villagers into"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "  handing you candy. Do NOT wear the full outfit when"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "  you want to give candy out."
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "  Logic also wants October + Shovel, and either"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "  November or Leif."
+                                },
+                                {
+                                    "type": "text",
+                                    "text": ""
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "Bamboo shoots:"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "  Daisy Mae gives bamboo shoots once you have bought"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "  turnips from her 3 times. Needed for the Bamboo"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "  Noodle Slide."
+                                },
+                                {
+                                    "type": "text",
+                                    "text": ""
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "Leif:"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "  Buy from Leif at least 3 times. He gates Craft Hedge,"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "  Craft Veggie Basket, Shrubbery Hubbubbery, Sprout Out"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "  Loud and Executive Producer, and is the easy route to"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "  Spooky Carriage."
+                                },
+                                {
+                                    "type": "text",
+                                    "text": ""
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "Birthday:"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "  Set your birthday in January to get Birthday"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "  Celebration and Happy Birthday! straight away."
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "  Note: the apworld cannot know your birthday, so both"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "  checks list ALL 11 Month items as required. They stay"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "  red on this tracker even when you can already do them."
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "  Sending them early is fine - out-of-logic checks are"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "  allowed; only using items early is not."
+                                }
+                            ]
+                        }
+                    }
+                ]
+            },
+            {
+                "type": "array",
+                "orientation": "vertical",
+                "v_alignment": "top",
+                "h_alignment": "left",
+                "max_width": 330,
+                "content": [
+                    {
+                        "type": "group",
+                        "header": "Sending Checks",
+                        "content": {
+                            "type": "array",
+                            "orientation": "vertical",
+                            "content": [
+                                {
+                                    "type": "text",
+                                    "text": "Checks are only sent from the Manual client. Clicking a"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "location here in PopTracker sends nothing - this tracker"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "mirrors Archipelago, it never writes back to it."
+                                },
+                                {
+                                    "type": "text",
+                                    "text": ""
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "The client lists Archipelago's location NAMES; the tracker"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "shows the in-game descriptions. They are not the same."
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "Tracker: \"Catch 10 fish\"  ->  AP: \"Angling for Perfection!\""
+                                },
+                                {
+                                    "type": "text",
+                                    "text": ""
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "/send <AP name> works and fuzzy-matches, but it matches"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "names only - never the descriptions. Clicking the button"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "in the client avoids the whole problem."
+                                },
+                                {
+                                    "type": "text",
+                                    "text": ""
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "The client lists REMAINING locations; buttons vanish once"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "sent. A shrinking list is normal, not a bug."
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "type": "group",
+                        "header": "Do Not Chase These",
+                        "content": {
+                            "type": "array",
+                            "orientation": "vertical",
+                            "content": [
+                                {
+                                    "type": "text",
+                                    "text": "Never needed, whatever your goal:"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "  Tool Ring, Progressive Inventory Space,"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "  Bell Voucher. These gate nothing anywhere."
+                                },
+                                {
+                                    "type": "text",
+                                    "text": ""
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "With post_game_checks OFF, these gate nothing:"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "  Path Permits, Cliff Construction Permit,"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "  Waterscaping Permit, Basic Cooking Recipes."
+                                },
+                                {
+                                    "type": "text",
+                                    "text": ""
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "Be a Chef DIY Recipes+ is the exception - it is"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "REQUIRED if your goal is All Home Loans."
+                                }
+                            ]
+                        }
+                    }
+                ]
+            },
+            {
+                "type": "array",
+                "orientation": "vertical",
+                "v_alignment": "top",
+                "h_alignment": "left",
+                "max_width": 330,
+                "content": [
+                    {
+                        "type": "group",
+                        "header": "The Honour System",
+                        "content": {
+                            "type": "array",
+                            "orientation": "vertical",
+                            "content": [
+                                {
+                                    "type": "text",
+                                    "text": "Nothing stops you using an item you have not received."
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "The whole randomizer rests on you not doing that."
+                                },
+                                {
+                                    "type": "text",
+                                    "text": ""
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "Tools: CRAFTING one is a check; USING one needs the item."
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "Months: seasonal activities wait for that Month item."
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "NPCs are items - Leif, Redd, C.J., Flick, Gulliver, Wisp,"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "Daisy Mae, Saharah, Kicks, Label, Celeste."
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "Traps are self-applied: when one lands, go perform it."
+                                },
+                                {
+                                    "type": "text",
+                                    "text": ""
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "Sending a check the game handed you early is fine - AP"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "does not validate it. USING an item early is what breaks"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "the run. If in doubt, send the check, hold the item."
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "type": "group",
+                        "header": "Time Travel",
+                        "content": {
+                            "type": "array",
+                            "orientation": "vertical",
+                            "content": [
+                                {
+                                    "type": "text",
+                                    "text": "Time travel is the usual way to reach seasonal checks,"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "but only into months you HAVE the Month item for."
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "Anything else is an out-of-logic check."
+                                },
+                                {
+                                    "type": "text",
+                                    "text": ""
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "Jumping forward past a Sunday rots held turnips."
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "Clear your stock before a long jump."
+                                },
+                                {
+                                    "type": "text",
+                                    "text": ""
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "Bamboo is not seasonal - bamboo islands are reachable"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "year round with a Nook Miles Ticket. Only Young Spring"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "Bamboo needs spring. Kapp'n is not involved."
+                                }
+                            ]
+                        }
+                    }
+                ]
+            },
+            {
+                "type": "array",
+                "orientation": "vertical",
+                "v_alignment": "top",
+                "h_alignment": "left",
+                "max_width": 330,
+                "content": [
+                    {
+                        "type": "group",
+                        "header": "What Your Goal Needs",
+                        "content": {
+                            "type": "array",
+                            "orientation": "vertical",
+                            "content": [
+                                {
+                                    "type": "text",
+                                    "text": "Every goal sits behind the same region gate:"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "  Net 2, Rod 2, Shovel 2, Axe 2, Vaulting Pole,"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "  Ladder, Villager 8."
+                                },
+                                {
+                                    "type": "text",
+                                    "text": ""
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "On top of that:"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "  Credits         nothing more"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "  Museum (No Art) Watering Can, Wet Suit, and"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "                  ALL 11 Month items"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "  Museum (Art)    the above plus Redd"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "  All Home Loans  Wet Suit, Leif, C.J., Flick,"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "                  Daisy Mae, Be a Chef DIY Recipes+"
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "type": "group",
+                        "header": "Reading This Tracker",
+                        "content": {
+                            "type": "array",
+                            "orientation": "vertical",
+                            "content": [
+                                {
+                                    "type": "text",
+                                    "text": "Green means in logic - you have what the rules require."
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "Locations your YAML removed are hidden entirely, so the"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "map shows only checks that exist in your slot."
+                                },
+                                {
+                                    "type": "text",
+                                    "text": ""
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "Before connecting, season gates are treated as open and"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "everything is shown. Connect for the real picture."
+                                },
+                                {
+                                    "type": "text",
+                                    "text": ""
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "Progressive Villager has 8 stages but the logic only ever"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "asks for 3 (opens a large region) and 8 (the endgame)."
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "Copies 2, 4, 5, 6 and 7 unlock nothing on their own."
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "type": "group",
+                        "header": "Before You Start",
+                        "content": {
+                            "type": "array",
+                            "orientation": "vertical",
+                            "content": [
+                                {
+                                    "type": "text",
+                                    "text": "Pick the hemisphere your YAML says. It is PERMANENT and"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "roughly half the logic branches on it."
+                                },
+                                {
+                                    "type": "text",
+                                    "text": ""
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "One island per Switch console, shared by all users on it."
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "A fresh island means deleting the old one - irreversible"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "without an island backup. Be sure before you commit."
+                                },
+                                {
+                                    "type": "text",
+                                    "text": ""
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "Know your goal: Credits, a Museum completion, or All Home"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "Loans. They are wildly different lengths."
+                                }
+                            ]
+                        }
+                    }
+                ]
+            }
+        ]
+    }
+}

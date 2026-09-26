@@ -1,0 +1,526 @@
+[
+    {
+        "name": "Progressive Shovel",
+        "type": "progressive",
+        "loop": false,
+        "allow_disabled": true,
+        "initial_stage_idx": 0,
+        "overlay_align": "right",
+        "stages": [
+            {
+                "name": "Progressive Shovel",
+                "inherit_codes": true,
+                "img": "/images/items/flimsyshovel.png",
+                "disabled_img": "/images/items/progressiveshovel.png",
+                "disabled_img_mods": "@disabled",
+                "codes": "progressiveshovel, progressiveshovel_stage1"
+            },
+            {
+                "name": "Progressive Shovel",
+                "inherit_codes": true,
+                "img": "/images/items/shovel.png",
+                "codes": "progressiveshovel_stage2"
+            }
+        ]
+    },
+    {
+        "name": "Gulliver",
+        "type": "toggle",
+        "img": "images/items/gulliver.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "gulliver"
+    },
+    {
+        "name": "Progressive Watering Can",
+        "type": "progressive",
+        "loop": false,
+        "allow_disabled": true,
+        "initial_stage_idx": 0,
+        "overlay_align": "right",
+        "stages": [
+            {
+                "name": "Progressive Watering Can",
+                "inherit_codes": true,
+                "img": "/images/items/flimsywateringcan.png",
+                "disabled_img": "/images/items/progressivewateringcan.png",
+                "disabled_img_mods": "@disabled",
+                "codes": "progressivewateringcan, progressivewateringcan_stage1"
+            },
+            {
+                "name": "Progressive Watering Can",
+                "inherit_codes": true,
+                "img": "/images/items/wateringcan.png",
+                "codes": "progressivewateringcan_stage2"
+            }
+        ]
+    },
+    {
+        "name": "Celeste",
+        "type": "toggle",
+        "img": "images/items/celeste.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "celeste"
+    },
+    {
+        "name": "Month - March",
+        "type": "toggle",
+        "img": "images/items/month-march.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "month-march"
+    },
+    {
+        "name": "Month - October",
+        "type": "toggle",
+        "img": "images/items/month-october.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "month-october"
+    },
+    {
+        "name": "Custom Design Pro Editor",
+        "type": "toggle",
+        "img": "images/items/proeditor.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "customdesignproeditor"
+    },
+    {
+        "name": "Month - September",
+        "type": "toggle",
+        "img": "images/items/month-september.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "month-september"
+    },
+    {
+        "name": "Month - July",
+        "type": "toggle",
+        "img": "images/items/month-july.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "month-july"
+    },
+    {
+        "name": "DIY for Beginners",
+        "type": "toggle",
+        "img": "images/items/diyforbeginners.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "diyforbeginners"
+    },
+    {
+        "name": "Slingshot",
+        "type": "toggle",
+        "img": "images/items/slingshot.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "slingshot"
+    },
+    {
+        "name": "Waterscaping Permit",
+        "type": "toggle",
+        "img": "images/items/waterscapingpermit.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "waterscapingpermit"
+    },
+    {
+        "name": "Month - August",
+        "type": "toggle",
+        "img": "images/items/month-august.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "month-august"
+    },
+    {
+        "name": "Nook Miles Ticket",
+        "type": "toggle",
+        "img": "images/items/nookmilesticket.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "nookmilesticket"
+    },
+    {
+        "name": "Bell Voucher",
+        "type": "toggle",
+        "img": "images/items/bellvoucher.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "bellvoucher"
+    },
+    {
+        "name": "Cliff Construction Permit",
+        "type": "toggle",
+        "img": "images/items/cliffconstructionpermit.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "cliffconstructionpermit"
+    },
+    {
+        "name": "Progressive Villager",
+        "type": "progressive",
+        "loop": false,
+        "allow_disabled": true,
+        "initial_stage_idx": 0,
+        "overlay_align": "right",
+        "stages": [
+            {
+                "name": "Progressive Villager",
+                "inherit_codes": true,
+                "img": "/images/items/villager3.png",
+                "disabled_img": "/images/items/villager0.png",
+                "disabled_img_mods": "@disabled",
+                "codes": "progressivevillager, progressivevillager_stage1"
+            },
+            {
+                "name": "Progressive Villager",
+                "inherit_codes": true,
+                "img": "/images/items/villager4.png",
+                "codes": "progressivevillager_stage2"
+            },
+            {
+                "name": "Progressive Villager",
+                "inherit_codes": true,
+                "img": "/images/items/villager5.png",
+                "codes": "progressivevillager_stage3"
+            },
+            {
+                "name": "Progressive Villager",
+                "inherit_codes": true,
+                "img": "/images/items/villager6.png",
+                "codes": "progressivevillager_stage4"
+            },
+            {
+                "name": "Progressive Villager",
+                "inherit_codes": true,
+                "img": "/images/items/villager7.png",
+                "codes": "progressivevillager_stage5"
+            },
+            {
+                "name": "Progressive Villager",
+                "inherit_codes": true,
+                "img": "/images/items/villager8.png",
+                "codes": "progressivevillager_stage6"
+            },
+            {
+                "name": "Progressive Villager",
+                "inherit_codes": true,
+                "img": "/images/items/villager9.png",
+                "codes": "progressivevillager_stage7"
+            },
+            {
+                "name": "Progressive Villager",
+                "inherit_codes": true,
+                "img": "/images/items/villager10.png",
+                "codes": "progressivevillager_stage8"
+            }
+        ]
+    },
+    {
+        "name": "Month - February",
+        "type": "toggle",
+        "img": "images/items/month-february.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "month-february"
+    },
+    {
+        "name": "Month - November",
+        "type": "toggle",
+        "img": "images/items/month-november.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "month-november"
+    },
+    {
+        "name": "Wisp",
+        "type": "toggle",
+        "img": "images/items/wisp.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "wisp"
+    },
+    {
+        "name": "Kicks",
+        "type": "toggle",
+        "img": "images/items/kicks.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "kicks"
+    },
+    {
+        "name": "Saharah",
+        "type": "toggle",
+        "img": "images/items/saharah.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "saharah"
+    },
+    {
+        "name": "Wildest Dreams DIY",
+        "type": "toggle",
+        "img": "images/items/wildestdreamsdiy.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "wildestdreamsdiy"
+    },
+    {
+        "name": "Redd",
+        "type": "toggle",
+        "img": "images/items/redd.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "redd"
+    },
+    {
+        "name": "Be a Chef! DIY Recipes+",
+        "type": "toggle",
+        "img": "images/items/beachef.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "beachefdiyrecipes+"
+    },
+    {
+        "name": "Month - December",
+        "type": "toggle",
+        "img": "images/items/month-december.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "month-december"
+    },
+    {
+        "name": "Leif",
+        "type": "toggle",
+        "img": "images/items/leif.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "leif"
+    },
+    {
+        "name": "Ladder",
+        "type": "toggle",
+        "img": "images/items/ladder.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "ladder"
+    },
+    {
+        "name": "Flick",
+        "type": "toggle",
+        "img": "images/items/flick.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "flick"
+    },
+    {
+        "name": "Path Permits",
+        "type": "toggle",
+        "img": "images/items/pathpermits.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "pathpermits"
+    },
+    {
+        "name": "Progressive Axe",
+        "type": "progressive",
+        "loop": false,
+        "allow_disabled": true,
+        "initial_stage_idx": 0,
+        "overlay_align": "right",
+        "stages": [
+            {
+                "name": "Progressive Axe",
+                "inherit_codes": true,
+                "img": "/images/items/flimsyaxe.png",
+                "disabled_img": "/images/items/progressiveaxe.png",
+                "disabled_img_mods": "@disabled",
+                "codes": "progressiveaxe, progressiveaxe_stage1"
+            },
+            {
+                "name": "Progressive Axe",
+                "inherit_codes": true,
+                "img": "/images/items/axestoneaxe.png",
+                "codes": "progressiveaxe_stage2"
+            }
+        ]
+    },
+    {
+        "name": "Progressive Fishing Rod",
+        "type": "progressive",
+        "loop": false,
+        "allow_disabled": true,
+        "initial_stage_idx": 0,
+        "overlay_align": "right",
+        "stages": [
+            {
+                "name": "Progressive Fishing Rod",
+                "inherit_codes": true,
+                "img": "/images/items/flimsyfishingrod.png",
+                "disabled_img": "/images/items/progressivefishingrod.png",
+                "disabled_img_mods": "@disabled",
+                "codes": "progressivefishingrod, progressivefishingrod_stage1"
+            },
+            {
+                "name": "Progressive Fishing Rod",
+                "inherit_codes": true,
+                "img": "/images/items/fishingrod.png",
+                "codes": "progressivefishingrod_stage2"
+            }
+        ]
+    },
+    {
+        "name": "Basic Cooking Recipes",
+        "type": "toggle",
+        "img": "images/items/basiccookingrecipes.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "basiccookingrecipes"
+    },
+    {
+        "name": "Wet Suit",
+        "type": "toggle",
+        "img": "images/items/wetsuit.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "wetsuit"
+    },
+    {
+        "name": "Month - June",
+        "type": "toggle",
+        "img": "images/items/month-june.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "month-june"
+    },
+    {
+        "name": "Progressive Net",
+        "type": "progressive",
+        "loop": false,
+        "allow_disabled": true,
+        "initial_stage_idx": 0,
+        "overlay_align": "right",
+        "stages": [
+            {
+                "name": "Progressive Net",
+                "inherit_codes": true,
+                "img": "/images/items/flimsynet.png",
+                "disabled_img": "/images/items/progressivenet.png",
+                "disabled_img_mods": "@disabled",
+                "codes": "progressivenet, progressivenet_stage1"
+            },
+            {
+                "name": "Progressive Net",
+                "inherit_codes": true,
+                "img": "/images/items/net.png",
+                "codes": "progressivenet_stage2"
+            }
+        ]
+    },
+    {
+        "name": "Month - May",
+        "type": "toggle",
+        "img": "images/items/month-may.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "month-may"
+    },
+    {
+        "name": "Daisy Mae",
+        "type": "toggle",
+        "img": "images/items/daisymae.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "daisymae"
+    },
+    {
+        "name": "Tool Ring",
+        "type": "toggle",
+        "img": "images/items/toolring.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "toolring"
+    },
+    {
+        "name": "Test Your DIY Skills",
+        "type": "toggle",
+        "img": "images/items/testyourdiyskills.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "testyourdiyskills"
+    },
+    {
+        "name": "Customization Kit",
+        "type": "toggle",
+        "img": "images/items/customizationkit.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "customizationkit"
+    },
+    {
+        "name": "Label",
+        "type": "toggle",
+        "img": "images/items/label.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "label"
+    },
+    {
+        "name": "Vaulting Pole",
+        "type": "toggle",
+        "img": "images/items/vaultingpole.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "vaultingpole"
+    },
+    {
+        "name": "C.J.",
+        "type": "toggle",
+        "img": "images/items/cj.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "c.j."
+    },
+    {
+        "name": "Progressive Inventory Space",
+        "type": "progressive",
+        "loop": false,
+        "allow_disabled": true,
+        "initial_stage_idx": 0,
+        "overlay_align": "right",
+        "stages": [
+            {
+                "name": "Progressive Inventory Space",
+                "inherit_codes": true,
+                "img": "/images/items/pocketorganizationguide.png",
+                "disabled_img": "/images/items/progressiveinventory.png",
+                "disabled_img_mods": "@disabled",
+                "codes": "progressiveinventoryspace, progressiveinventoryspace_stage1"
+            },
+            {
+                "name": "Progressive Inventory Space",
+                "inherit_codes": true,
+                "img": "/images/items/ultimatepocketstuffing.png",
+                "codes": "progressiveinventoryspace_stage2"
+            }
+        ]
+    },
+    {
+        "name": "Month - April",
+        "type": "toggle",
+        "img": "images/items/month-april.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "month-april"
+    },
+    {
+        "name": "update",
+        "type": "toggle",
+        "img": "images/items/placeholderitem.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "update"
+    }
+]

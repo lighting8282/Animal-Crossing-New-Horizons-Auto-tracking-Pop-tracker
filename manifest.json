@@ -1,0 +1,22 @@
+{
+    "name": "Animal Crossing New Horizons Archipelago Poptracker",
+    "game_name": "Manual_AnimalCrossingNewHorizons",
+    "package_version": "1.6.3",
+    "package_uid": "manual_animalcrossingnewhorizons_ap",
+    "author": "CourtneyEvie",
+    "variants": {
+        "Map Tracker": {
+            "display_name": "Map Tracker",
+            "flags": [
+                "ap"
+            ]
+        },
+        "Items Only": {
+            "display_name": "Items Only",
+            "flags": [
+                "ap"
+            ]
+        }
+    },
+    "min_poptracker_version": "0.35.4"
+}
