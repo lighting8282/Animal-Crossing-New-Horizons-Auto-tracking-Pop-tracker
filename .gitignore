@@ -9,3 +9,6 @@ __pycache__/
 
 # per-slot scratch output
 gen/slot_location_names.tsv
+
+# release artefacts
+dist/
