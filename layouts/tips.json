@@ -70,7 +70,11 @@
                                 },
                                 {
                                     "type": "text",
-                                    "text": "  turnips from her 3 times - that is the cheap route."
+                                    "text": "  turnips from her on 3 SEPARATE visits - not 3 lots"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "  in one go. That is the cheap route."
                                 },
                                 {
                                     "type": "text",
@@ -90,15 +94,19 @@
                                 },
                                 {
                                     "type": "text",
-                                    "text": "  Buy from Leif at least 3 times. He gates Craft Hedge,"
+                                    "text": "  Buy from Leif on 3 SEPARATE visits, not 3 purchases"
                                 },
                                 {
                                     "type": "text",
-                                    "text": "  Craft Veggie Basket, Shrubbery Hubbubbery, Sprout Out"
+                                    "text": "  in one visit. He gates Craft Hedge, Craft Veggie"
                                 },
                                 {
                                     "type": "text",
-                                    "text": "  Loud and Executive Producer, and is the easy route to"
+                                    "text": "  Basket, Shrubbery Hubbubbery, Sprout Out Loud and"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "  Executive Producer, and is the easy route to"
                                 },
                                 {
                                     "type": "text",
@@ -220,34 +228,22 @@
                     },
                     {
                         "type": "group",
-                        "header": "Reading This Tracker",
+                        "header": "Do Not Chase These",
                         "content": {
                             "type": "array",
                             "orientation": "vertical",
                             "content": [
                                 {
                                     "type": "text",
-                                    "text": "Green means in logic - you have what the rules require."
+                                    "text": "Never needed, whatever your goal:"
                                 },
                                 {
                                     "type": "text",
-                                    "text": "Locations your YAML removed are hidden entirely, so the"
+                                    "text": "  Tool Ring, Progressive Inventory Space,"
                                 },
                                 {
                                     "type": "text",
-                                    "text": "map shows only checks that exist in your slot."
-                                },
-                                {
-                                    "type": "text",
-                                    "text": ""
-                                },
-                                {
-                                    "type": "text",
-                                    "text": "Before connecting, season gates are treated as open and"
-                                },
-                                {
-                                    "type": "text",
-                                    "text": "everything is shown. Connect for the real picture."
+                                    "text": "  Bell Voucher. These gate nothing anywhere."
                                 },
                                 {
                                     "type": "text",
@@ -255,15 +251,27 @@
                                 },
                                 {
                                     "type": "text",
-                                    "text": "Progressive Villager has 8 stages but the logic only ever"
+                                    "text": "With post_game_checks OFF, these gate nothing:"
                                 },
                                 {
                                     "type": "text",
-                                    "text": "asks for 3 (opens a large region) and 8 (the endgame)."
+                                    "text": "  Path Permits, Cliff Construction Permit,"
                                 },
                                 {
                                     "type": "text",
-                                    "text": "Copies 2, 4, 5, 6 and 7 unlock nothing on their own."
+                                    "text": "  Waterscaping Permit, Basic Cooking Recipes."
+                                },
+                                {
+                                    "type": "text",
+                                    "text": ""
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "Be a Chef DIY Recipes+ is the exception - it is"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "REQUIRED if your goal is All Home Loans."
                                 }
                             ]
                         }
@@ -458,38 +466,22 @@
                     },
                     {
                         "type": "group",
-                        "header": "Do Not Chase These",
+                        "header": "Reading This Tracker",
                         "content": {
                             "type": "array",
                             "orientation": "vertical",
                             "content": [
                                 {
                                     "type": "text",
-                                    "text": "Never needed, whatever your goal:"
+                                    "text": "Green means in logic - you have what the rules require."
                                 },
                                 {
                                     "type": "text",
-                                    "text": "  Tool Ring, Progressive Inventory Space,"
+                                    "text": "Locations your YAML removed are hidden entirely, so the"
                                 },
                                 {
                                     "type": "text",
-                                    "text": "  Bell Voucher. These gate nothing anywhere."
-                                },
-                                {
-                                    "type": "text",
-                                    "text": ""
-                                },
-                                {
-                                    "type": "text",
-                                    "text": "With post_game_checks OFF, these gate nothing:"
-                                },
-                                {
-                                    "type": "text",
-                                    "text": "  Path Permits, Cliff Construction Permit,"
-                                },
-                                {
-                                    "type": "text",
-                                    "text": "  Waterscaping Permit, Basic Cooking Recipes."
+                                    "text": "map shows only checks that exist in your slot."
                                 },
                                 {
                                     "type": "text",
@@ -497,11 +489,27 @@
                                 },
                                 {
                                     "type": "text",
-                                    "text": "Be a Chef DIY Recipes+ is the exception - it is"
+                                    "text": "Before connecting, season gates are treated as open and"
                                 },
                                 {
                                     "type": "text",
-                                    "text": "REQUIRED if your goal is All Home Loans."
+                                    "text": "everything is shown. Connect for the real picture."
+                                },
+                                {
+                                    "type": "text",
+                                    "text": ""
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "Progressive Villager has 8 stages but the logic only ever"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "asks for 3 (opens a large region) and 8 (the endgame)."
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "Copies 2, 4, 5, 6 and 7 unlock nothing on their own."
                                 }
                             ]
                         }
