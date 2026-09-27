@@ -9,9 +9,9 @@ Requires PopTracker **0.35.4** or newer.
 
 This is a derivative work. Please credit the originals:
 
-- **CourtneyEvie** — the `Manual_AnimalCrossingNewHorizons` apworld and the
-  original *ACNH Archipelago Poptracker* pack (v1.0.0) this is built from.
-  `manifest.json` still names them as author.
+- **CourtneyEvie** — the `Manual_AnimalCrossingNewHorizons` apworld
+  ([releases](https://github.com/CourtneyEvie/ACNH-APWorld-Manual/releases)) and the original *ACNH Archipelago Poptracker* pack
+  (v1.0.0) this is built from. `manifest.json` still names them as author.
 - **Stripes007** — MIT licence holder of the pack template (see `LICENSE`).
 
 Licensed MIT, as the original is.
@@ -51,21 +51,8 @@ PopTracker loads unzipped folders. Pick the **Map Tracker** variant, then
 connect with the Archipelago button using your room's host, slot name and
 password.
 
-## Regenerating the logic
-
-The logic is generated, not hand-written. `gen/_apworld/` is **not committed** —
-it is CourtneyEvie's apworld and is not redistributed here. To regenerate:
-
-1. Extract `manual_animalcrossingnewhorizons.apworld` into `gen/_apworld/`
-2. Run:
-
-```bash
-python gen/build_logic.py
-```
-
-This rewrites `scripts/logic/rules_data.lua` and the `access_rules` /
-`visibility_rules` in `locations/*.json`. Everything else is hand-written and
-left alone.
+You will also need CourtneyEvie's apworld in Archipelago's `custom_worlds/`:
+**[ACNH-APWorld-Manual releases](https://github.com/CourtneyEvie/ACNH-APWorld-Manual/releases)**
 
 ## Tests
 
@@ -82,5 +69,8 @@ python gen/test_progression.py       # sanity: does the map gate and open
 
 The parity tests copy Manual's `infix_to_postfix` and `evaluate_postfix`
 verbatim from the apworld's `Rules.py` and compare verdicts over random
-inventories and option sets. All should report 0 mismatches / failures. They
-require `gen/_apworld/` to be present.
+inventories and option sets. All should report 0 mismatches / failures.
+
+They need an extracted copy of the apworld in `gen/_apworld/`, which is not
+redistributed here — grab it from the
+[releases](https://github.com/CourtneyEvie/ACNH-APWorld-Manual/releases) above.

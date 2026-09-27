@@ -54,7 +54,15 @@
                                 },
                                 {
                                     "type": "text",
-                                    "text": "Bamboo shoots:"
+                                    "text": "Bamboo:"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "  Needed for BOTH the Bamboo Noodle Slide and"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "  The Hearth."
                                 },
                                 {
                                     "type": "text",
@@ -62,11 +70,15 @@
                                 },
                                 {
                                     "type": "text",
-                                    "text": "  turnips from her 3 times. Needed for the Bamboo"
+                                    "text": "  turnips from her 3 times - that is the cheap route."
                                 },
                                 {
                                     "type": "text",
-                                    "text": "  Noodle Slide."
+                                    "text": "  Otherwise use a Nook Miles Ticket, or Kapp'n if your"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "  goal is post-credits and you have neither."
                                 },
                                 {
                                     "type": "text",
@@ -102,11 +114,11 @@
                                 },
                                 {
                                     "type": "text",
-                                    "text": "  Set your birthday in January to get Birthday"
+                                    "text": "  Set your birthday to January to get Happy Birthday!"
                                 },
                                 {
                                     "type": "text",
-                                    "text": "  Celebration and Happy Birthday! straight away."
+                                    "text": "  straight away. It does NOT cover Birthday Celebration."
                                 },
                                 {
                                     "type": "text",
@@ -208,38 +220,22 @@
                     },
                     {
                         "type": "group",
-                        "header": "Do Not Chase These",
+                        "header": "Reading This Tracker",
                         "content": {
                             "type": "array",
                             "orientation": "vertical",
                             "content": [
                                 {
                                     "type": "text",
-                                    "text": "Never needed, whatever your goal:"
+                                    "text": "Green means in logic - you have what the rules require."
                                 },
                                 {
                                     "type": "text",
-                                    "text": "  Tool Ring, Progressive Inventory Space,"
+                                    "text": "Locations your YAML removed are hidden entirely, so the"
                                 },
                                 {
                                     "type": "text",
-                                    "text": "  Bell Voucher. These gate nothing anywhere."
-                                },
-                                {
-                                    "type": "text",
-                                    "text": ""
-                                },
-                                {
-                                    "type": "text",
-                                    "text": "With post_game_checks OFF, these gate nothing:"
-                                },
-                                {
-                                    "type": "text",
-                                    "text": "  Path Permits, Cliff Construction Permit,"
-                                },
-                                {
-                                    "type": "text",
-                                    "text": "  Waterscaping Permit, Basic Cooking Recipes."
+                                    "text": "map shows only checks that exist in your slot."
                                 },
                                 {
                                     "type": "text",
@@ -247,11 +243,27 @@
                                 },
                                 {
                                     "type": "text",
-                                    "text": "Be a Chef DIY Recipes+ is the exception - it is"
+                                    "text": "Before connecting, season gates are treated as open and"
                                 },
                                 {
                                     "type": "text",
-                                    "text": "REQUIRED if your goal is All Home Loans."
+                                    "text": "everything is shown. Connect for the real picture."
+                                },
+                                {
+                                    "type": "text",
+                                    "text": ""
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "Progressive Villager has 8 stages but the logic only ever"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "asks for 3 (opens a large region) and 8 (the endgame)."
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "Copies 2, 4, 5, 6 and 7 unlock nothing on their own."
                                 }
                             ]
                         }
@@ -325,65 +337,6 @@
                     },
                     {
                         "type": "group",
-                        "header": "Time Travel",
-                        "content": {
-                            "type": "array",
-                            "orientation": "vertical",
-                            "content": [
-                                {
-                                    "type": "text",
-                                    "text": "Time travel is the usual way to reach seasonal checks,"
-                                },
-                                {
-                                    "type": "text",
-                                    "text": "but only into months you HAVE the Month item for."
-                                },
-                                {
-                                    "type": "text",
-                                    "text": "Anything else is an out-of-logic check."
-                                },
-                                {
-                                    "type": "text",
-                                    "text": ""
-                                },
-                                {
-                                    "type": "text",
-                                    "text": "Jumping forward past a Sunday rots held turnips."
-                                },
-                                {
-                                    "type": "text",
-                                    "text": "Clear your stock before a long jump."
-                                },
-                                {
-                                    "type": "text",
-                                    "text": ""
-                                },
-                                {
-                                    "type": "text",
-                                    "text": "Bamboo is not seasonal - bamboo islands are reachable"
-                                },
-                                {
-                                    "type": "text",
-                                    "text": "year round with a Nook Miles Ticket. Only Young Spring"
-                                },
-                                {
-                                    "type": "text",
-                                    "text": "Bamboo needs spring. Kapp'n is not involved."
-                                }
-                            ]
-                        }
-                    }
-                ]
-            },
-            {
-                "type": "array",
-                "orientation": "vertical",
-                "v_alignment": "top",
-                "h_alignment": "left",
-                "max_width": 330,
-                "content": [
-                    {
-                        "type": "group",
                         "header": "What Your Goal Needs",
                         "content": {
                             "type": "array",
@@ -435,37 +388,34 @@
                                 }
                             ]
                         }
-                    },
+                    }
+                ]
+            },
+            {
+                "type": "array",
+                "orientation": "vertical",
+                "v_alignment": "top",
+                "h_alignment": "left",
+                "max_width": 330,
+                "content": [
                     {
                         "type": "group",
-                        "header": "Reading This Tracker",
+                        "header": "Time Travel",
                         "content": {
                             "type": "array",
                             "orientation": "vertical",
                             "content": [
                                 {
                                     "type": "text",
-                                    "text": "Green means in logic - you have what the rules require."
+                                    "text": "Time travel is the usual way to reach seasonal checks,"
                                 },
                                 {
                                     "type": "text",
-                                    "text": "Locations your YAML removed are hidden entirely, so the"
+                                    "text": "but only into months you HAVE the Month item for."
                                 },
                                 {
                                     "type": "text",
-                                    "text": "map shows only checks that exist in your slot."
-                                },
-                                {
-                                    "type": "text",
-                                    "text": ""
-                                },
-                                {
-                                    "type": "text",
-                                    "text": "Before connecting, season gates are treated as open and"
-                                },
-                                {
-                                    "type": "text",
-                                    "text": "everything is shown. Connect for the real picture."
+                                    "text": "Anything else is an out-of-logic check."
                                 },
                                 {
                                     "type": "text",
@@ -473,15 +423,85 @@
                                 },
                                 {
                                     "type": "text",
-                                    "text": "Progressive Villager has 8 stages but the logic only ever"
+                                    "text": "Jumping forward past a Sunday rots held turnips."
                                 },
                                 {
                                     "type": "text",
-                                    "text": "asks for 3 (opens a large region) and 8 (the endgame)."
+                                    "text": "Clear your stock before a long jump."
                                 },
                                 {
                                     "type": "text",
-                                    "text": "Copies 2, 4, 5, 6 and 7 unlock nothing on their own."
+                                    "text": ""
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "Bamboo is NOT seasonal - the trees are there all year."
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "Only Young Spring Bamboo needs spring."
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "To reach bamboo you need Daisy Mae or a Nook Miles"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "Ticket. Kapp'n only matters if your goal is post-"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "credits and you have neither."
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "type": "group",
+                        "header": "Do Not Chase These",
+                        "content": {
+                            "type": "array",
+                            "orientation": "vertical",
+                            "content": [
+                                {
+                                    "type": "text",
+                                    "text": "Never needed, whatever your goal:"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "  Tool Ring, Progressive Inventory Space,"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "  Bell Voucher. These gate nothing anywhere."
+                                },
+                                {
+                                    "type": "text",
+                                    "text": ""
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "With post_game_checks OFF, these gate nothing:"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "  Path Permits, Cliff Construction Permit,"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "  Waterscaping Permit, Basic Cooking Recipes."
+                                },
+                                {
+                                    "type": "text",
+                                    "text": ""
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "Be a Chef DIY Recipes+ is the exception - it is"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "REQUIRED if your goal is All Home Loans."
                                 }
                             ]
                         }
