@@ -15,7 +15,156 @@
                 "content": [
                     {
                         "type": "group",
-                        "header": "Specific Check Tricks",
+                        "header": "Check Tricks: Leif & Birthday",
+                        "content": {
+                            "type": "array",
+                            "orientation": "vertical",
+                            "content": [
+                                {
+                                    "type": "text",
+                                    "text": "Leif:"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "  Buy from Leif on 3 SEPARATE visits, not 3 purchases"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "  in one visit."
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "  He is the ONLY route to Craft Hedge."
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "  Craft Veggie Basket and Shrubbery Hubbubbery need"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "  him or the full endgame set."
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "  Sprout Out Loud and Executive Producer also accept"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "  November + 3 Villagers. In game you buy pumpkin"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "  starts at Nook's Cranny in October, so you may be"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "  able to do these before the logic says so."
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "  Spooky Carriage accepts November or Leif."
+                                },
+                                {
+                                    "type": "text",
+                                    "text": ""
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "Birthday:"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "  Set your birthday to January to get Happy Birthday!"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "  straight away. It does NOT cover Birthday Celebration."
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "  Note: the apworld cannot know your birthday, so both"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "  checks list ALL 11 Month items as required. They stay"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "  red on this tracker even when you can already do them."
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "  Sending them early is fine - out-of-logic checks are"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "  allowed; only using items early is not."
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "type": "group",
+                        "header": "Do Not Chase These",
+                        "content": {
+                            "type": "array",
+                            "orientation": "vertical",
+                            "content": [
+                                {
+                                    "type": "text",
+                                    "text": "Never needed, whatever your goal:"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "  Tool Ring, Progressive Inventory Space,"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "  Bell Voucher. These gate nothing anywhere."
+                                },
+                                {
+                                    "type": "text",
+                                    "text": ""
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "With post_game_checks OFF, these gate nothing:"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "  Path Permits, Cliff Construction Permit,"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "  Waterscaping Permit, Basic Cooking Recipes."
+                                },
+                                {
+                                    "type": "text",
+                                    "text": ""
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "Be a Chef DIY Recipes+ is the exception - it is"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "REQUIRED if your goal is All Home Loans."
+                                }
+                            ]
+                        }
+                    }
+                ]
+            },
+            {
+                "type": "array",
+                "orientation": "vertical",
+                "v_alignment": "top",
+                "h_alignment": "left",
+                "max_width": 330,
+                "content": [
+                    {
+                        "type": "group",
+                        "header": "Check Tricks: Halloween & Bamboo",
                         "content": {
                             "type": "array",
                             "orientation": "vertical",
@@ -83,6 +232,28 @@
                                 {
                                     "type": "text",
                                     "text": "  goal is post-credits and you have neither."
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "type": "group",
+                        "header": "Reading This Tracker",
+                        "content": {
+                            "type": "array",
+                            "orientation": "vertical",
+                            "content": [
+                                {
+                                    "type": "text",
+                                    "text": "Green means in logic - you have what the rules require."
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "Locations your YAML removed are hidden entirely, so the"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "map shows only checks that exist in your slot."
                                 },
                                 {
                                     "type": "text",
@@ -90,27 +261,11 @@
                                 },
                                 {
                                     "type": "text",
-                                    "text": "Leif:"
+                                    "text": "Before connecting, season gates are treated as open and"
                                 },
                                 {
                                     "type": "text",
-                                    "text": "  Buy from Leif on 3 SEPARATE visits, not 3 purchases"
-                                },
-                                {
-                                    "type": "text",
-                                    "text": "  in one visit. He gates Craft Hedge, Craft Veggie"
-                                },
-                                {
-                                    "type": "text",
-                                    "text": "  Basket, Shrubbery Hubbubbery, Sprout Out Loud and"
-                                },
-                                {
-                                    "type": "text",
-                                    "text": "  Executive Producer, and is the easy route to"
-                                },
-                                {
-                                    "type": "text",
-                                    "text": "  Spooky Carriage."
+                                    "text": "everything is shown. Connect for the real picture."
                                 },
                                 {
                                     "type": "text",
@@ -118,35 +273,15 @@
                                 },
                                 {
                                     "type": "text",
-                                    "text": "Birthday:"
+                                    "text": "Progressive Villager has 8 stages but the logic only ever"
                                 },
                                 {
                                     "type": "text",
-                                    "text": "  Set your birthday to January to get Happy Birthday!"
+                                    "text": "asks for 3 (opens a large region) and 8 (the endgame)."
                                 },
                                 {
                                     "type": "text",
-                                    "text": "  straight away. It does NOT cover Birthday Celebration."
-                                },
-                                {
-                                    "type": "text",
-                                    "text": "  Note: the apworld cannot know your birthday, so both"
-                                },
-                                {
-                                    "type": "text",
-                                    "text": "  checks list ALL 11 Month items as required. They stay"
-                                },
-                                {
-                                    "type": "text",
-                                    "text": "  red on this tracker even when you can already do them."
-                                },
-                                {
-                                    "type": "text",
-                                    "text": "  Sending them early is fine - out-of-logic checks are"
-                                },
-                                {
-                                    "type": "text",
-                                    "text": "  allowed; only using items early is not."
+                                    "text": "Copies 2, 4, 5, 6 and 7 unlock nothing on their own."
                                 }
                             ]
                         }
@@ -228,38 +363,22 @@
                     },
                     {
                         "type": "group",
-                        "header": "Do Not Chase These",
+                        "header": "What Your Goal Needs",
                         "content": {
                             "type": "array",
                             "orientation": "vertical",
                             "content": [
                                 {
                                     "type": "text",
-                                    "text": "Never needed, whatever your goal:"
+                                    "text": "Every goal sits behind the same region gate:"
                                 },
                                 {
                                     "type": "text",
-                                    "text": "  Tool Ring, Progressive Inventory Space,"
+                                    "text": "  Net 2, Rod 2, Shovel 2, Axe 2, Vaulting Pole,"
                                 },
                                 {
                                     "type": "text",
-                                    "text": "  Bell Voucher. These gate nothing anywhere."
-                                },
-                                {
-                                    "type": "text",
-                                    "text": ""
-                                },
-                                {
-                                    "type": "text",
-                                    "text": "With post_game_checks OFF, these gate nothing:"
-                                },
-                                {
-                                    "type": "text",
-                                    "text": "  Path Permits, Cliff Construction Permit,"
-                                },
-                                {
-                                    "type": "text",
-                                    "text": "  Waterscaping Permit, Basic Cooking Recipes."
+                                    "text": "  Ladder, Villager 8."
                                 },
                                 {
                                     "type": "text",
@@ -267,11 +386,31 @@
                                 },
                                 {
                                     "type": "text",
-                                    "text": "Be a Chef DIY Recipes+ is the exception - it is"
+                                    "text": "On top of that:"
                                 },
                                 {
                                     "type": "text",
-                                    "text": "REQUIRED if your goal is All Home Loans."
+                                    "text": "  Credits         nothing more"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "  Museum (No Art) Watering Can, Wet Suit, and"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "                  ALL 11 Month items"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "  Museum (Art)    the above plus Redd"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "  All Home Loans  Wet Suit, Leif, C.J., Flick,"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "                  Daisy Mae, Be a Chef DIY Recipes+"
                                 }
                             ]
                         }
@@ -345,69 +484,6 @@
                     },
                     {
                         "type": "group",
-                        "header": "What Your Goal Needs",
-                        "content": {
-                            "type": "array",
-                            "orientation": "vertical",
-                            "content": [
-                                {
-                                    "type": "text",
-                                    "text": "Every goal sits behind the same region gate:"
-                                },
-                                {
-                                    "type": "text",
-                                    "text": "  Net 2, Rod 2, Shovel 2, Axe 2, Vaulting Pole,"
-                                },
-                                {
-                                    "type": "text",
-                                    "text": "  Ladder, Villager 8."
-                                },
-                                {
-                                    "type": "text",
-                                    "text": ""
-                                },
-                                {
-                                    "type": "text",
-                                    "text": "On top of that:"
-                                },
-                                {
-                                    "type": "text",
-                                    "text": "  Credits         nothing more"
-                                },
-                                {
-                                    "type": "text",
-                                    "text": "  Museum (No Art) Watering Can, Wet Suit, and"
-                                },
-                                {
-                                    "type": "text",
-                                    "text": "                  ALL 11 Month items"
-                                },
-                                {
-                                    "type": "text",
-                                    "text": "  Museum (Art)    the above plus Redd"
-                                },
-                                {
-                                    "type": "text",
-                                    "text": "  All Home Loans  Wet Suit, Leif, C.J., Flick,"
-                                },
-                                {
-                                    "type": "text",
-                                    "text": "                  Daisy Mae, Be a Chef DIY Recipes+"
-                                }
-                            ]
-                        }
-                    }
-                ]
-            },
-            {
-                "type": "array",
-                "orientation": "vertical",
-                "v_alignment": "top",
-                "h_alignment": "left",
-                "max_width": 330,
-                "content": [
-                    {
-                        "type": "group",
                         "header": "Time Travel",
                         "content": {
                             "type": "array",
@@ -460,56 +536,6 @@
                                 {
                                     "type": "text",
                                     "text": "credits and you have neither."
-                                }
-                            ]
-                        }
-                    },
-                    {
-                        "type": "group",
-                        "header": "Reading This Tracker",
-                        "content": {
-                            "type": "array",
-                            "orientation": "vertical",
-                            "content": [
-                                {
-                                    "type": "text",
-                                    "text": "Green means in logic - you have what the rules require."
-                                },
-                                {
-                                    "type": "text",
-                                    "text": "Locations your YAML removed are hidden entirely, so the"
-                                },
-                                {
-                                    "type": "text",
-                                    "text": "map shows only checks that exist in your slot."
-                                },
-                                {
-                                    "type": "text",
-                                    "text": ""
-                                },
-                                {
-                                    "type": "text",
-                                    "text": "Before connecting, season gates are treated as open and"
-                                },
-                                {
-                                    "type": "text",
-                                    "text": "everything is shown. Connect for the real picture."
-                                },
-                                {
-                                    "type": "text",
-                                    "text": ""
-                                },
-                                {
-                                    "type": "text",
-                                    "text": "Progressive Villager has 8 stages but the logic only ever"
-                                },
-                                {
-                                    "type": "text",
-                                    "text": "asks for 3 (opens a large region) and 8 (the endgame)."
-                                },
-                                {
-                                    "type": "text",
-                                    "text": "Copies 2, 4, 5, 6 and 7 unlock nothing on their own."
                                 }
                             ]
                         }
