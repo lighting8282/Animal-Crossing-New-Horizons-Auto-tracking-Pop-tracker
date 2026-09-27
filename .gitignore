@@ -8,3 +8,6 @@ __pycache__/
 
 # release artefacts
 dist/
+
+# lua language-server config; dev only, excluded from the pack zip
+.luarc.json
