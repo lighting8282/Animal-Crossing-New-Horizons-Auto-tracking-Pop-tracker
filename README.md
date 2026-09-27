@@ -36,8 +36,6 @@ Changes here:
 - **Progressive item stages fixed** — received copies now map to the correct stage
 - **A "Hints, Tips and Tricks" tab** with advice for playing this as a Manual
 
-See [`gen/README.md`](gen/README.md) for the technical detail, including the
-PopTracker and Manual API behaviours that are easy to get wrong.
 
 ## Installing
 
@@ -53,24 +51,3 @@ password.
 
 You will also need CourtneyEvie's apworld in Archipelago's `custom_worlds/`:
 **[ACNH-APWorld-Manual releases](https://github.com/CourtneyEvie/ACNH-APWorld-Manual/releases)**
-
-## Tests
-
-Needs `lupa` (and `jsonschema` for layout validation).
-
-```bash
-python gen/test_lua_syntax.py        # every .lua file parses
-python gen/test_progressive_items.py # received copies -> correct stage
-python gen/test_parity.py            # parsed rules vs Manual's evaluator
-python gen/test_lua_parity.py        # the real rules.lua vs Manual's evaluator
-python gen/test_visibility.py        # Vis() hides exactly what the slot lacks
-python gen/test_progression.py       # sanity: does the map gate and open
-```
-
-The parity tests copy Manual's `infix_to_postfix` and `evaluate_postfix`
-verbatim from the apworld's `Rules.py` and compare verdicts over random
-inventories and option sets. All should report 0 mismatches / failures.
-
-They need an extracted copy of the apworld in `gen/_apworld/`, which is not
-redistributed here — grab it from the
-[releases](https://github.com/CourtneyEvie/ACNH-APWorld-Manual/releases) above.

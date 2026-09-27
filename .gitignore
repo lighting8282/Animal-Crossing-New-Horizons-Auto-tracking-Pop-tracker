@@ -1,14 +1,10 @@
-# The apworld is a third-party work (see README). Drop an extracted copy of
-# manual_animalcrossingnewhorizons.apworld here to regenerate logic or run the
-# tests; it is deliberately not redistributed from this repo.
-gen/_apworld/
+# Generator and tests. Kept locally, not published - this repo carries only
+# what is needed to install and use the pack.
+gen/
 
 __pycache__/
 *.pyc
 *.bak
-
-# per-slot scratch output
-gen/slot_location_names.tsv
 
 # release artefacts
 dist/
