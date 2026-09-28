@@ -30,7 +30,7 @@ function OnFrameHandler()
     -- stuff
     ScriptHost:AddWatchForCode("StateChanged", "*", StateChanged)
     ScriptHost:AddOnLocationSectionChangedHandler("location_section_change_handler", LocationHandler)
-    CreateLuaManualStorageItem("manual_location_storage")
+    GetManualStorage()
     ForceUpdate()
 end
 require("scripts.luaitems")

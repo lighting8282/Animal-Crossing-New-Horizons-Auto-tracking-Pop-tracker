@@ -4,6 +4,8 @@ require("scripts.autotracking.location_mapping")
 CUR_INDEX = -1
 -- received-copy count per progressive item code; reset in OnClear
 PROGRESSIVE_COUNTS = {}
+-- the manual-location cache LuaItem, created once and held
+MANUAL_STORAGE_ITEM = nil
 -- set true to log the AP handler call sequence to PopTracker's log
 TRACE_AP = false
 --SLOT_DATA = nil
@@ -62,23 +64,27 @@ function DumpTable(o, depth)
     end
 end
 
----Fetch the manual-location cache LuaItem, creating it if the first frame
----handler has not run yet. The AP clear handler can fire before init.lua's
----OnFrameHandler on a fresh launch with auto-reconnect, and indexing the
----missing object threw, which aborted OnClear and left slot data, item state
----and ALL_LOCATIONS unpopulated.
+---Fetch the manual-location cache LuaItem, creating it at most once.
+---
+---Two traps here. The item is created by init.lua's OnFrameHandler, i.e. on
+---the first rendered frame, so the AP clear handler can run before it exists
+---and the old code indexed the missing object and threw. And a freshly made
+---LuaItem is NOT immediately visible to Tracker:FindObjectForCode, so
+---create-then-look-up silently fails and leaks a new item on every call.
+---CreateLuaManualStorageItem returns the item, so hold on to that instead.
 ---@return table|nil
 function GetManualStorage()
-	local obj = Tracker:FindObjectForCode("manual_location_storage")
-	if obj == nil then
-		CreateLuaManualStorageItem("manual_location_storage")
-		obj = Tracker:FindObjectForCode("manual_location_storage")
+	if MANUAL_STORAGE_ITEM == nil then
+		MANUAL_STORAGE_ITEM = Tracker:FindObjectForCode("manual_location_storage")
 	end
-	if obj == nil then
-		print("archipelago.lua: manual_location_storage unavailable")
+	if MANUAL_STORAGE_ITEM == nil then
+		MANUAL_STORAGE_ITEM = CreateLuaManualStorageItem("manual_location_storage")
+	end
+	if MANUAL_STORAGE_ITEM == nil then
+		print("archipelago.lua: could not create manual_location_storage")
 		return nil
 	end
-	return obj.ItemState
+	return MANUAL_STORAGE_ITEM.ItemState
 end
 
 ---helper function that gets called when a LocationSection has changed state.
@@ -257,7 +263,13 @@ local function PreOnClear()
 
         ROOM_SEED = seed_base --something like 2345_0_12
         for _, custom_item_code in pairs({"manual_location_storage"}) do -- add more to the table if you created more storage cache items
-            local custom_storage_item = Tracker:FindObjectForCode(custom_item_code).ItemState
+            local custom_storage_item
+            if custom_item_code == "manual_location_storage" then
+                custom_storage_item = GetManualStorage()
+            else
+                local obj = Tracker:FindObjectForCode(custom_item_code)
+                custom_storage_item = obj and obj.ItemState
+            end
             if custom_storage_item then
                 if #custom_storage_item.MANUAL_LOCATIONS > 10 then
                     custom_storage_item.MANUAL_LOCATIONS[custom_storage_item.MANUAL_LOCATIONS_ORDER[1]] = nil
