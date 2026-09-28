@@ -62,13 +62,32 @@ function DumpTable(o, depth)
     end
 end
 
+---Fetch the manual-location cache LuaItem, creating it if the first frame
+---handler has not run yet. The AP clear handler can fire before init.lua's
+---OnFrameHandler on a fresh launch with auto-reconnect, and indexing the
+---missing object threw, which aborted OnClear and left slot data, item state
+---and ALL_LOCATIONS unpopulated.
+---@return table|nil
+function GetManualStorage()
+	local obj = Tracker:FindObjectForCode("manual_location_storage")
+	if obj == nil then
+		CreateLuaManualStorageItem("manual_location_storage")
+		obj = Tracker:FindObjectForCode("manual_location_storage")
+	end
+	if obj == nil then
+		print("archipelago.lua: manual_location_storage unavailable")
+		return nil
+	end
+	return obj.ItemState
+end
+
 ---helper function that gets called when a LocationSection has changed state.
 ---checks if the interaction was from the server or manual.
 ---if manual, puts it into a cache for keeping that LocationSection toggled when reconnecting
 ---@param location LocationSection
 function LocationHandler(location)
     if MANUAL_CHECKED then
-        local custom_storage_item = Tracker:FindObjectForCode("manual_location_storage").ItemState
+        local custom_storage_item = GetManualStorage()
         if not custom_storage_item then
             return
         end
@@ -260,11 +279,7 @@ end
 function OnClear(slot_data)
     if TRACE_AP then print("[trace] OnClear called") end
     MANUAL_CHECKED = false
-    local custom_storage_item = Tracker:FindObjectForCode("manual_location_storage").ItemState
-    if custom_storage_item == nil then
-        CreateLuaManualStorageItem("manual_location_storage")
-        custom_storage_item = Tracker:FindObjectForCode("manual_location_storage").ItemState
-    end
+    local custom_storage_item = GetManualStorage()
     -- repeat that here for every cache-storage item you create just to be safe
 
     PreOnClear()
@@ -284,8 +299,7 @@ function OnClear(slot_data)
                     if location:sub(1, 1) == "@" then
                         ---@type LocationSection
                         local location_obj = Tracker:FindObjectForCode(location) --[[@as LocationSection]]
-                        local custom_storage_item = (Tracker:FindObjectForCode("manual_location_storage") --[[@as LuaItem]])
-                        .ItemState
+                        local custom_storage_item = GetManualStorage()
 
                         if location_obj then
                             LocationUpdate(location_obj, custom_storage_item, location_ID, true)
