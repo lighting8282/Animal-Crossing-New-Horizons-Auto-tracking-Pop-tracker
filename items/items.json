@@ -526,7 +526,7 @@
     {
         "name": "Pascal",
         "type": "toggle",
-        "img": "images/items/placeholderitem.png",
+        "img": "images/items/pascal.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "pascal"
