@@ -33,14 +33,15 @@
                                 "wetsuit"
                             ],
                             [
+                                "month-january",
                                 "month-february",
                                 "month-march",
                                 "month-april",
                                 "month-may",
-                                "month-june",
-                                "month-july"
+                                "month-june"
                             ],
                             [
+                                "month-july",
                                 "month-august",
                                 "month-september",
                                 "month-october",
@@ -60,7 +61,8 @@
                                 "saharah",
                                 "kicks",
                                 "label",
-                                "celeste"
+                                "celeste",
+                                "pascal"
                             ],
                             [
                                 "diyforbeginners",
@@ -81,8 +83,9 @@
                                 "customizationkit",
                                 "customdesignproeditor",
                                 "bellvoucher",
+                                "critterpediaentry",
                                 "update"
-                            ],
+                            ]
                         ]
                     }
                 ]
@@ -123,14 +126,15 @@
                                 "wetsuit"
                             ],
                             [
+                                "month-january",
                                 "month-february",
                                 "month-march",
                                 "month-april",
                                 "month-may",
-                                "month-june",
-                                "month-july"
+                                "month-june"
                             ],
                             [
+                                "month-july",
                                 "month-august",
                                 "month-september",
                                 "month-october",
@@ -150,7 +154,8 @@
                                 "saharah",
                                 "kicks",
                                 "label",
-                                "celeste"
+                                "celeste",
+                                "pascal"
                             ],
                             [
                                 "diyforbeginners",
@@ -171,8 +176,9 @@
                                 "customizationkit",
                                 "customdesignproeditor",
                                 "bellvoucher",
+                                "critterpediaentry",
                                 "update"
-                            ],
+                            ]
                         ]
                     }
                 ]
