@@ -14,16 +14,8 @@
                 "access_rules": [],
                 "sections": [
                     {
-                        "name": "Donate Flea - Catch a flea",
-                        "ref": "Donate Bugs/Donate Flea/Catch a flea"
-                    },
-                    {
                         "name": "Donate Flea - Donate a flea to the museum",
                         "ref": "Donate Bugs/Donate Flea/Donate a flea to the museum"
-                    },
-                    {
-                        "name": "Donate Cicada Shell - Catch a cicada shell",
-                        "ref": "Donate Bugs/Donate Cicada Shell/Catch a cicada shell"
                     },
                     {
                         "name": "Donate Cicada Shell - Donate a cicada shell to the museum",
@@ -340,6 +332,326 @@
                     {
                         "name": "Donate Scorpion - Donate a scorpion to the museum",
                         "ref": "Donate Bugs/Donate Scorpion/Donate a scorpion to the museum"
+                    },
+                    {
+                        "name": "Donate Flea - Catch a Flea",
+                        "ref": "Donate Bugs/Donate Flea/Catch a Flea"
+                    },
+                    {
+                        "name": "Donate Cicada Shell - Catch a Cicada Shell",
+                        "ref": "Donate Bugs/Donate Cicada Shell/Catch a Cicada Shell"
+                    },
+                    {
+                        "name": "Donate Common Butterfly - Catch a Common Butterfly",
+                        "ref": "Donate Bugs/Donate Common Butterfly/Catch a Common Butterfly"
+                    },
+                    {
+                        "name": "Donate Yellow Butterfly - Catch a Yellow Butterfly",
+                        "ref": "Donate Bugs/Donate Yellow Butterfly/Catch a Yellow Butterfly"
+                    },
+                    {
+                        "name": "Donate Tiger Butterfly - Catch a Tiger Butterfly",
+                        "ref": "Donate Bugs/Donate Tiger Butterfly/Catch a Tiger Butterfly"
+                    },
+                    {
+                        "name": "Donate Peacock Butterfly - Catch a Peacock Butterfly",
+                        "ref": "Donate Bugs/Donate Peacock Butterfly/Catch a Peacock Butterfly"
+                    },
+                    {
+                        "name": "Donate Common Bluebottle - Catch a Common Bluebottle",
+                        "ref": "Donate Bugs/Donate Common Bluebottle/Catch a Common Bluebottle"
+                    },
+                    {
+                        "name": "Donate Paper Kite Butterfly - Catch a Paper Kite Butterfly",
+                        "ref": "Donate Bugs/Donate Paper Kite Butterfly/Catch a Paper Kite Butterfly"
+                    },
+                    {
+                        "name": "Donate Great Purple Emperor - Catch a Great Purple Emperor",
+                        "ref": "Donate Bugs/Donate Great Purple Emperor/Catch a Great Purple Emperor"
+                    },
+                    {
+                        "name": "Donate Monarch Butterfly - Catch a Monarch Butterfly",
+                        "ref": "Donate Bugs/Donate Monarch Butterfly/Catch a Monarch Butterfly"
+                    },
+                    {
+                        "name": "Donate Emperor Butterfly - Catch an Emperor Butterfly",
+                        "ref": "Donate Bugs/Donate Emperor Butterfly/Catch an Emperor Butterfly"
+                    },
+                    {
+                        "name": "Donate Agrias Butterfly - Catch an Agrias Butterfly",
+                        "ref": "Donate Bugs/Donate Agrias Butterfly/Catch an Agrias Butterfly"
+                    },
+                    {
+                        "name": "Donate Rajah Brooke's Birdwing - Catch a Rajah Brooke's Birdwing",
+                        "ref": "Donate Bugs/Donate Rajah Brooke's Birdwing/Catch a Rajah Brooke's Birdwing"
+                    },
+                    {
+                        "name": "Donate Queen Alexandra's Birdwing - Catch a Queen Alexandra's Birdwing",
+                        "ref": "Donate Bugs/Donate Queen Alexandra's Birdwing/Catch a Queen Alexandra's Birdwing"
+                    },
+                    {
+                        "name": "Donate Moth - Catch a Moth",
+                        "ref": "Donate Bugs/Donate Moth/Catch a Moth"
+                    },
+                    {
+                        "name": "Donate Atlas Moth - Catch an Atlas Moth",
+                        "ref": "Donate Bugs/Donate Atlas Moth/Catch an Atlas Moth"
+                    },
+                    {
+                        "name": "Donate Madagascan Sunset Moth - Catch a Madagascan Sunset Moth",
+                        "ref": "Donate Bugs/Donate Madagascan Sunset Moth/Catch a Madagascan Sunset Moth"
+                    },
+                    {
+                        "name": "Donate Long Locust - Catch a Long Locust",
+                        "ref": "Donate Bugs/Donate Long Locust/Catch a Long Locust"
+                    },
+                    {
+                        "name": "Donate Migratory Locust - Catch a Migratory Locust",
+                        "ref": "Donate Bugs/Donate Migratory Locust/Catch a Migratory Locust"
+                    },
+                    {
+                        "name": "Donate Rice Grasshopper - Catch a Rice Grasshopper",
+                        "ref": "Donate Bugs/Donate Rice Grasshopper/Catch a Rice Grasshopper"
+                    },
+                    {
+                        "name": "Donate Grasshopper - Catch a Grasshopper",
+                        "ref": "Donate Bugs/Donate Grasshopper/Catch a Grasshopper"
+                    },
+                    {
+                        "name": "Donate Cricket - Catch a Cricket",
+                        "ref": "Donate Bugs/Donate Cricket/Catch a Cricket"
+                    },
+                    {
+                        "name": "Donate Bell Cricket - Catch a Bell Cricket",
+                        "ref": "Donate Bugs/Donate Bell Cricket/Catch a Bell Cricket"
+                    },
+                    {
+                        "name": "Donate Mantis - Catch a Mantis",
+                        "ref": "Donate Bugs/Donate Mantis/Catch a Mantis"
+                    },
+                    {
+                        "name": "Donate Orchis Mantis - Catch an Orchis Mantis",
+                        "ref": "Donate Bugs/Donate Orchis Mantis/Catch an Orchis Mantis"
+                    },
+                    {
+                        "name": "Donate Honeybee - Catch a Honeybee",
+                        "ref": "Donate Bugs/Donate Honeybee/Catch a Honeybee"
+                    },
+                    {
+                        "name": "Donate Wasp - Catch a Wasp",
+                        "ref": "Donate Bugs/Donate Wasp/Catch a Wasp"
+                    },
+                    {
+                        "name": "Donate Brown Cicada - Catch a Brown Cicada",
+                        "ref": "Donate Bugs/Donate Brown Cicada/Catch a Brown Cicada"
+                    },
+                    {
+                        "name": "Donate Robust Cicada - Catch a Robust Cicada",
+                        "ref": "Donate Bugs/Donate Robust Cicada/Catch a Robust Cicada"
+                    },
+                    {
+                        "name": "Donate Giant Cicada - Catch a Giant Cicada",
+                        "ref": "Donate Bugs/Donate Giant Cicada/Catch a Giant Cicada"
+                    },
+                    {
+                        "name": "Donate Walker Cicada - Catch a Walker Cicada",
+                        "ref": "Donate Bugs/Donate Walker Cicada/Catch a Walker Cicada"
+                    },
+                    {
+                        "name": "Donate Evening Cicada - Catch an Evening Cicada",
+                        "ref": "Donate Bugs/Donate Evening Cicada/Catch an Evening Cicada"
+                    },
+                    {
+                        "name": "Donate Red Dragonfly - Catch a Red Dragonfly",
+                        "ref": "Donate Bugs/Donate Red Dragonfly/Catch a Red Dragonfly"
+                    },
+                    {
+                        "name": "Donate Darner Dragonfly - Catch a Darner Dragonfly",
+                        "ref": "Donate Bugs/Donate Darner Dragonfly/Catch a Darner Dragonfly"
+                    },
+                    {
+                        "name": "Donate Banded Dragonfly - Catch a Banded Dragonfly",
+                        "ref": "Donate Bugs/Donate Banded Dragonfly/Catch a Banded Dragonfly"
+                    },
+                    {
+                        "name": "Donate Damselfly - Catch a Damselfly",
+                        "ref": "Donate Bugs/Donate Damselfly/Catch a Damselfly"
+                    },
+                    {
+                        "name": "Donate Firefly - Catch a Firefly",
+                        "ref": "Donate Bugs/Donate Firefly/Catch a Firefly"
+                    },
+                    {
+                        "name": "Donate Mole Cricket - Catch a Mole Cricket",
+                        "ref": "Donate Bugs/Donate Mole Cricket/Catch a Mole Cricket"
+                    },
+                    {
+                        "name": "Donate Pondskater - Catch a Pondskater",
+                        "ref": "Donate Bugs/Donate Pondskater/Catch a Pondskater"
+                    },
+                    {
+                        "name": "Donate Diving Beetle - Catch a Diving Beetle",
+                        "ref": "Donate Bugs/Donate Diving Beetle/Catch a Diving Beetle"
+                    },
+                    {
+                        "name": "Donate Giant Water Bug - Catch a Giant Water Bug",
+                        "ref": "Donate Bugs/Donate Giant Water Bug/Catch a Giant Water Bug"
+                    },
+                    {
+                        "name": "Donate Stinkbug - Catch a Stinkbug",
+                        "ref": "Donate Bugs/Donate Stinkbug/Catch a Stinkbug"
+                    },
+                    {
+                        "name": "Donate Man-Faced Stink Bug - Catch a Man-Faced Stink Bug",
+                        "ref": "Donate Bugs/Donate Man-Faced Stink Bug/Catch a Man-Faced Stink Bug"
+                    },
+                    {
+                        "name": "Donate Ladybug - Catch a Ladybug",
+                        "ref": "Donate Bugs/Donate Ladybug/Catch a Ladybug"
+                    },
+                    {
+                        "name": "Donate Tiger Beetle - Catch a Tiger Beetle",
+                        "ref": "Donate Bugs/Donate Tiger Beetle/Catch a Tiger Beetle"
+                    },
+                    {
+                        "name": "Donate Jewel Beetle - Catch a Jewel Beetle",
+                        "ref": "Donate Bugs/Donate Jewel Beetle/Catch a Jewel Beetle"
+                    },
+                    {
+                        "name": "Donate Violin Beetle - Catch a Violin Beetle",
+                        "ref": "Donate Bugs/Donate Violin Beetle/Catch a Violin Beetle"
+                    },
+                    {
+                        "name": "Donate Citrus Long-Horned Beetle - Catch a Citrus Long-Horned Beetle",
+                        "ref": "Donate Bugs/Donate Citrus Long-Horned Beetle/Catch a Citrus Long-Horned Beetle"
+                    },
+                    {
+                        "name": "Donate Rosalia Batesi Beetle - Catch a Rosalia Batesi Beetle",
+                        "ref": "Donate Bugs/Donate Rosalia Batesi Beetle/Catch a Rosalia Batesi Beetle"
+                    },
+                    {
+                        "name": "Donate Blue Weevil Beetle - Catch a Blue Weevil Beetle",
+                        "ref": "Donate Bugs/Donate Blue Weevil Beetle/Catch a Blue Weevil Beetle"
+                    },
+                    {
+                        "name": "Donate Dung Beetle - Catch a Dung Beetle",
+                        "ref": "Donate Bugs/Donate Dung Beetle/Catch a Dung Beetle"
+                    },
+                    {
+                        "name": "Donate Earth-Boring Dung Beetle - Catch an Earth-Boring Dung Beetle",
+                        "ref": "Donate Bugs/Donate Earth-Boring Dung Beetle/Catch an Earth-Boring Dung Beetle"
+                    },
+                    {
+                        "name": "Donate Scarab Beetle - Catch a Scarab Beetle",
+                        "ref": "Donate Bugs/Donate Scarab Beetle/Catch a Scarab Beetle"
+                    },
+                    {
+                        "name": "Donate Drone Beetle - Catch a Drone Beetle",
+                        "ref": "Donate Bugs/Donate Drone Beetle/Catch a Drone Beetle"
+                    },
+                    {
+                        "name": "Donate Goliath Beetle - Catch a Goliath Beetle",
+                        "ref": "Donate Bugs/Donate Goliath Beetle/Catch a Goliath Beetle"
+                    },
+                    {
+                        "name": "Donate Saw Stag - Catch a Saw Stag",
+                        "ref": "Donate Bugs/Donate Saw Stag/Catch a Saw Stag"
+                    },
+                    {
+                        "name": "Donate Miyama Stag - Catch a Miyama Stag",
+                        "ref": "Donate Bugs/Donate Miyama Stag/Catch a Miyama Stag"
+                    },
+                    {
+                        "name": "Donate Giant Stag - Catch a Giant Stag",
+                        "ref": "Donate Bugs/Donate Giant Stag/Catch a Giant Stag"
+                    },
+                    {
+                        "name": "Donate Rainbow Stag - Catch a Rainbow Stag",
+                        "ref": "Donate Bugs/Donate Rainbow Stag/Catch a Rainbow Stag"
+                    },
+                    {
+                        "name": "Donate Cyclommatus Stag - Catch a Cyclommatus Stag",
+                        "ref": "Donate Bugs/Donate Cyclommatus Stag/Catch a Cyclommatus Stag"
+                    },
+                    {
+                        "name": "Donate Golden Stag - Catch a Golden Stag",
+                        "ref": "Donate Bugs/Donate Golden Stag/Catch a Golden Stag"
+                    },
+                    {
+                        "name": "Donate Giraffe Stag - Catch a Giraffe Stag",
+                        "ref": "Donate Bugs/Donate Giraffe Stag/Catch a Giraffe Stag"
+                    },
+                    {
+                        "name": "Donate Horned Dynastid - Catch a Horned Dynastid",
+                        "ref": "Donate Bugs/Donate Horned Dynastid/Catch a Horned Dynastid"
+                    },
+                    {
+                        "name": "Donate Horned Atlas - Catch a Horned Atlas",
+                        "ref": "Donate Bugs/Donate Horned Atlas/Catch a Horned Atlas"
+                    },
+                    {
+                        "name": "Donate Horned Elephant - Catch a Horned Elephant",
+                        "ref": "Donate Bugs/Donate Horned Elephant/Catch a Horned Elephant"
+                    },
+                    {
+                        "name": "Donate Horned Hercules - Catch a Horned Hercules",
+                        "ref": "Donate Bugs/Donate Horned Hercules/Catch a Horned Hercules"
+                    },
+                    {
+                        "name": "Donate Walking Stick - Catch a Walking Stick",
+                        "ref": "Donate Bugs/Donate Walking Stick/Catch a Walking Stick"
+                    },
+                    {
+                        "name": "Donate Walking Leaf - Catch a Walking Leaf",
+                        "ref": "Donate Bugs/Donate Walking Leaf/Catch a Walking Leaf"
+                    },
+                    {
+                        "name": "Donate Bagworm - Catch a Bagworm",
+                        "ref": "Donate Bugs/Donate Bagworm/Catch a Bagworm"
+                    },
+                    {
+                        "name": "Donate Ant - Catch an Ant",
+                        "ref": "Donate Bugs/Donate Ant/Catch an Ant"
+                    },
+                    {
+                        "name": "Donate Hermit Crab - Catch a Hermit Crab",
+                        "ref": "Donate Bugs/Donate Hermit Crab/Catch a Hermit Crab"
+                    },
+                    {
+                        "name": "Donate Wharf Roach - Catch a Wharf Roach",
+                        "ref": "Donate Bugs/Donate Wharf Roach/Catch a Wharf Roach"
+                    },
+                    {
+                        "name": "Donate Fly - Catch a Fly",
+                        "ref": "Donate Bugs/Donate Fly/Catch a Fly"
+                    },
+                    {
+                        "name": "Donate Mosquito - Catch a Mosquito",
+                        "ref": "Donate Bugs/Donate Mosquito/Catch a Mosquito"
+                    },
+                    {
+                        "name": "Donate Snail - Catch a Snail",
+                        "ref": "Donate Bugs/Donate Snail/Catch a Snail"
+                    },
+                    {
+                        "name": "Donate Pill Bug - Catch a Pill Bug",
+                        "ref": "Donate Bugs/Donate Pill Bug/Catch a Pill Bug"
+                    },
+                    {
+                        "name": "Donate Centipede - Catch a Centipede",
+                        "ref": "Donate Bugs/Donate Centipede/Catch a Centipede"
+                    },
+                    {
+                        "name": "Donate Spider - Catch a Spider",
+                        "ref": "Donate Bugs/Donate Spider/Catch a Spider"
+                    },
+                    {
+                        "name": "Donate Tarantula - Catch a Tarantula",
+                        "ref": "Donate Bugs/Donate Tarantula/Catch a Tarantula"
+                    },
+                    {
+                        "name": "Donate Scorpion - Catch a Scorpion",
+                        "ref": "Donate Bugs/Donate Scorpion/Catch a Scorpion"
                     }
                 ],
                 "map_locations": [
@@ -677,6 +989,326 @@
                     {
                         "name": "Donate Coelacanth - Donate a coelacanth to the museum",
                         "ref": "Donate Fish/Donate Coelacanth/Donate a coelacanth to the museum"
+                    },
+                    {
+                        "name": "Donate Bitterling - Catch a Bitterling",
+                        "ref": "Donate Fish/Donate Bitterling/Catch a Bitterling"
+                    },
+                    {
+                        "name": "Donate Pale Chub - Catch a Pale Chub",
+                        "ref": "Donate Fish/Donate Pale Chub/Catch a Pale Chub"
+                    },
+                    {
+                        "name": "Donate Crucian Carp - Catch a Crucian Carp",
+                        "ref": "Donate Fish/Donate Crucian Carp/Catch a Crucian Carp"
+                    },
+                    {
+                        "name": "Donate Dace - Catch a Dace",
+                        "ref": "Donate Fish/Donate Dace/Catch a Dace"
+                    },
+                    {
+                        "name": "Donate Carp - Catch a Carp",
+                        "ref": "Donate Fish/Donate Carp/Catch a Carp"
+                    },
+                    {
+                        "name": "Donate Koi - Catch a Koi",
+                        "ref": "Donate Fish/Donate Koi/Catch a Koi"
+                    },
+                    {
+                        "name": "Donate Goldfish - Catch a Goldfish",
+                        "ref": "Donate Fish/Donate Goldfish/Catch a Goldfish"
+                    },
+                    {
+                        "name": "Donate Pop-Eyed Goldfish - Catch a Pop-Eyed Goldfish",
+                        "ref": "Donate Fish/Donate Pop-Eyed Goldfish/Catch a Pop-Eyed Goldfish"
+                    },
+                    {
+                        "name": "Donate Ranchu Goldfish - Catch a Ranchu Goldfish",
+                        "ref": "Donate Fish/Donate Ranchu Goldfish/Catch a Ranchu Goldfish"
+                    },
+                    {
+                        "name": "Donate Killifish - Catch a Killifish",
+                        "ref": "Donate Fish/Donate Killifish/Catch a Killifish"
+                    },
+                    {
+                        "name": "Donate Crawfish - Catch a Crawfish",
+                        "ref": "Donate Fish/Donate Crawfish/Catch a Crawfish"
+                    },
+                    {
+                        "name": "Donate Soft-Shelled Turtle - Catch a Soft-Shelled Turtle",
+                        "ref": "Donate Fish/Donate Soft-Shelled Turtle/Catch a Soft-Shelled Turtle"
+                    },
+                    {
+                        "name": "Donate Snapping Turtle - Catch a Snapping Turtle",
+                        "ref": "Donate Fish/Donate Snapping Turtle/Catch a Snapping Turtle"
+                    },
+                    {
+                        "name": "Donate Tadpole - Catch a Tadpole",
+                        "ref": "Donate Fish/Donate Tadpole/Catch a Tadpole"
+                    },
+                    {
+                        "name": "Donate Frog - Catch a Frog",
+                        "ref": "Donate Fish/Donate Frog/Catch a Frog"
+                    },
+                    {
+                        "name": "Donate Freshwater Goby - Catch a Freshwater Goby",
+                        "ref": "Donate Fish/Donate Freshwater Goby/Catch a Freshwater Goby"
+                    },
+                    {
+                        "name": "Donate Loach - Catch a Loach",
+                        "ref": "Donate Fish/Donate Loach/Catch a Loach"
+                    },
+                    {
+                        "name": "Donate Catfish - Catch a Catfish",
+                        "ref": "Donate Fish/Donate Catfish/Catch a Catfish"
+                    },
+                    {
+                        "name": "Donate Giant Snakehead - Catch a Giant Snakehead",
+                        "ref": "Donate Fish/Donate Giant Snakehead/Catch a Giant Snakehead"
+                    },
+                    {
+                        "name": "Donate Bluegill - Catch a Bluegill",
+                        "ref": "Donate Fish/Donate Bluegill/Catch a Bluegill"
+                    },
+                    {
+                        "name": "Donate Yellow Perch - Catch a Yellow Perch",
+                        "ref": "Donate Fish/Donate Yellow Perch/Catch a Yellow Perch"
+                    },
+                    {
+                        "name": "Donate Black Bass - Catch a Black Bass",
+                        "ref": "Donate Fish/Donate Black Bass/Catch a Black Bass"
+                    },
+                    {
+                        "name": "Donate Tilapia - Catch a Tilapia",
+                        "ref": "Donate Fish/Donate Tilapia/Catch a Tilapia"
+                    },
+                    {
+                        "name": "Donate Pike - Catch a Pike",
+                        "ref": "Donate Fish/Donate Pike/Catch a Pike"
+                    },
+                    {
+                        "name": "Donate Pond Smelt - Catch a Pond Smelt",
+                        "ref": "Donate Fish/Donate Pond Smelt/Catch a Pond Smelt"
+                    },
+                    {
+                        "name": "Donate Sweetfish - Catch a Sweetfish",
+                        "ref": "Donate Fish/Donate Sweetfish/Catch a Sweetfish"
+                    },
+                    {
+                        "name": "Donate Cherry Salmon - Catch a Cherry Salmon",
+                        "ref": "Donate Fish/Donate Cherry Salmon/Catch a Cherry Salmon"
+                    },
+                    {
+                        "name": "Donate Char - Catch a Char",
+                        "ref": "Donate Fish/Donate Char/Catch a Char"
+                    },
+                    {
+                        "name": "Donate Golden Trout - Catch a Golden Trout",
+                        "ref": "Donate Fish/Donate Golden Trout/Catch a Golden Trout"
+                    },
+                    {
+                        "name": "Donate Stringfish - Catch a Stringfish",
+                        "ref": "Donate Fish/Donate Stringfish/Catch a Stringfish"
+                    },
+                    {
+                        "name": "Donate Salmon - Catch a Salmon",
+                        "ref": "Donate Fish/Donate Salmon/Catch a Salmon"
+                    },
+                    {
+                        "name": "Donate King Salmon - Catch a King Salmon",
+                        "ref": "Donate Fish/Donate King Salmon/Catch a King Salmon"
+                    },
+                    {
+                        "name": "Donate Mitten Crab - Catch a Mitten Crab",
+                        "ref": "Donate Fish/Donate Mitten Crab/Catch a Mitten Crab"
+                    },
+                    {
+                        "name": "Donate Guppy - Catch a Guppy",
+                        "ref": "Donate Fish/Donate Guppy/Catch a Guppy"
+                    },
+                    {
+                        "name": "Donate Nibble Fish - Catch a Nibble Fish",
+                        "ref": "Donate Fish/Donate Nibble Fish/Catch a Nibble Fish"
+                    },
+                    {
+                        "name": "Donate Angelfish - Catch an Angelfish",
+                        "ref": "Donate Fish/Donate Angelfish/Catch an Angelfish"
+                    },
+                    {
+                        "name": "Donate Betta - Catch a Betta",
+                        "ref": "Donate Fish/Donate Betta/Catch a Betta"
+                    },
+                    {
+                        "name": "Donate Neon Tetra - Catch a Neon Tetra",
+                        "ref": "Donate Fish/Donate Neon Tetra/Catch a Neon Tetra"
+                    },
+                    {
+                        "name": "Donate Rainbowfish - Catch a Rainbowfish",
+                        "ref": "Donate Fish/Donate Rainbowfish/Catch a Rainbowfish"
+                    },
+                    {
+                        "name": "Donate Piranha - Catch a Piranha",
+                        "ref": "Donate Fish/Donate Piranha/Catch a Piranha"
+                    },
+                    {
+                        "name": "Donate Arowana - Catch an Arowana",
+                        "ref": "Donate Fish/Donate Arowana/Catch an Arowana"
+                    },
+                    {
+                        "name": "Donate Dorado - Catch a Dorado",
+                        "ref": "Donate Fish/Donate Dorado/Catch a Dorado"
+                    },
+                    {
+                        "name": "Donate Gar - Catch a Gar",
+                        "ref": "Donate Fish/Donate Gar/Catch a Gar"
+                    },
+                    {
+                        "name": "Donate Arapaima - Catch an Arapaima",
+                        "ref": "Donate Fish/Donate Arapaima/Catch an Arapaima"
+                    },
+                    {
+                        "name": "Donate Saddled Bichir - Catch a Saddled Bichir",
+                        "ref": "Donate Fish/Donate Saddled Bichir/Catch a Saddled Bichir"
+                    },
+                    {
+                        "name": "Donate Sturgeon - Catch a Sturgeon",
+                        "ref": "Donate Fish/Donate Sturgeon/Catch a Sturgeon"
+                    },
+                    {
+                        "name": "Donate Sea Butterfly - Catch a Sea Butterfly",
+                        "ref": "Donate Fish/Donate Sea Butterfly/Catch a Sea Butterfly"
+                    },
+                    {
+                        "name": "Donate Sea Horse - Catch a Sea Horse",
+                        "ref": "Donate Fish/Donate Sea Horse/Catch a Sea Horse"
+                    },
+                    {
+                        "name": "Donate Clown Fish - Catch a Clown Fish",
+                        "ref": "Donate Fish/Donate Clown Fish/Catch a Clown Fish"
+                    },
+                    {
+                        "name": "Donate Surgeonfish - Catch a Surgeonfish",
+                        "ref": "Donate Fish/Donate Surgeonfish/Catch a Surgeonfish"
+                    },
+                    {
+                        "name": "Donate Butterfly Fish - Catch a Butterfly Fish",
+                        "ref": "Donate Fish/Donate Butterfly Fish/Catch a Butterfly Fish"
+                    },
+                    {
+                        "name": "Donate Napoleonfish - Catch a Napoleonfish",
+                        "ref": "Donate Fish/Donate Napoleonfish/Catch a Napoleonfish"
+                    },
+                    {
+                        "name": "Donate Zebra Turkeyfish - Catch a Zebra Turkeyfish",
+                        "ref": "Donate Fish/Donate Zebra Turkeyfish/Catch a Zebra Turkeyfish"
+                    },
+                    {
+                        "name": "Donate Blowfish - Catch a Blowfish",
+                        "ref": "Donate Fish/Donate Blowfish/Catch a Blowfish"
+                    },
+                    {
+                        "name": "Donate Puffer Fish - Catch a Puffer Fish",
+                        "ref": "Donate Fish/Donate Puffer Fish/Catch a Puffer Fish"
+                    },
+                    {
+                        "name": "Donate Anchovy - Catch an Anchovy",
+                        "ref": "Donate Fish/Donate Anchovy/Catch an Anchovy"
+                    },
+                    {
+                        "name": "Donate Horse Mackerel - Catch a Horse Mackerel",
+                        "ref": "Donate Fish/Donate Horse Mackerel/Catch a Horse Mackerel"
+                    },
+                    {
+                        "name": "Donate Barred Knifejaw - Catch a Barred Knifejaw",
+                        "ref": "Donate Fish/Donate Barred Knifejaw/Catch a Barred Knifejaw"
+                    },
+                    {
+                        "name": "Donate Sea Bass - Catch a Sea Bass",
+                        "ref": "Donate Fish/Donate Sea Bass/Catch a Sea Bass"
+                    },
+                    {
+                        "name": "Donate Red Snapper - Catch a Red Snapper",
+                        "ref": "Donate Fish/Donate Red Snapper/Catch a Red Snapper"
+                    },
+                    {
+                        "name": "Donate Dab - Catch a Dab",
+                        "ref": "Donate Fish/Donate Dab/Catch a Dab"
+                    },
+                    {
+                        "name": "Donate Olive Flounder - Catch an Olive Flounder",
+                        "ref": "Donate Fish/Donate Olive Flounder/Catch an Olive Flounder"
+                    },
+                    {
+                        "name": "Donate Squid - Catch a Squid",
+                        "ref": "Donate Fish/Donate Squid/Catch a Squid"
+                    },
+                    {
+                        "name": "Donate Moray Eel - Catch a Moray Eel",
+                        "ref": "Donate Fish/Donate Moray Eel/Catch a Moray Eel"
+                    },
+                    {
+                        "name": "Donate Ribbon Eel - Catch a Ribbon Eel",
+                        "ref": "Donate Fish/Donate Ribbon Eel/Catch a Ribbon Eel"
+                    },
+                    {
+                        "name": "Donate Tuna - Catch a Tuna",
+                        "ref": "Donate Fish/Donate Tuna/Catch a Tuna"
+                    },
+                    {
+                        "name": "Donate Blue Marlin - Catch a Blue Marlin",
+                        "ref": "Donate Fish/Donate Blue Marlin/Catch a Blue Marlin"
+                    },
+                    {
+                        "name": "Donate Giant Trevally - Catch a Giant Trevally",
+                        "ref": "Donate Fish/Donate Giant Trevally/Catch a Giant Trevally"
+                    },
+                    {
+                        "name": "Donate Mahi-Mahi - Catch a Mahi-Mahi",
+                        "ref": "Donate Fish/Donate Mahi-Mahi/Catch a Mahi-Mahi"
+                    },
+                    {
+                        "name": "Donate Ocean Sunfish - Catch an Ocean Sunfish",
+                        "ref": "Donate Fish/Donate Ocean Sunfish/Catch an Ocean Sunfish"
+                    },
+                    {
+                        "name": "Donate Ray - Catch a Ray",
+                        "ref": "Donate Fish/Donate Ray/Catch a Ray"
+                    },
+                    {
+                        "name": "Donate Saw Shark - Catch a Saw Shark",
+                        "ref": "Donate Fish/Donate Saw Shark/Catch a Saw Shark"
+                    },
+                    {
+                        "name": "Donate Hammerhead Shark - Catch a Hammerhead Shark",
+                        "ref": "Donate Fish/Donate Hammerhead Shark/Catch a Hammerhead Shark"
+                    },
+                    {
+                        "name": "Donate Great White Shark - Catch a Great White Shark",
+                        "ref": "Donate Fish/Donate Great White Shark/Catch a Great White Shark"
+                    },
+                    {
+                        "name": "Donate Whale Shark - Catch a Whale Shark",
+                        "ref": "Donate Fish/Donate Whale Shark/Catch a Whale Shark"
+                    },
+                    {
+                        "name": "Donate Suckerfish - Catch a Suckerfish",
+                        "ref": "Donate Fish/Donate Suckerfish/Catch a Suckerfish"
+                    },
+                    {
+                        "name": "Donate Football Fish - Catch a Football Fish",
+                        "ref": "Donate Fish/Donate Football Fish/Catch a Football Fish"
+                    },
+                    {
+                        "name": "Donate Oarfish - Catch an Oarfish",
+                        "ref": "Donate Fish/Donate Oarfish/Catch an Oarfish"
+                    },
+                    {
+                        "name": "Donate Barreleye - Catch a Barreleye",
+                        "ref": "Donate Fish/Donate Barreleye/Catch a Barreleye"
+                    },
+                    {
+                        "name": "Donate Coelacanth - Catch a Coelacanth",
+                        "ref": "Donate Fish/Donate Coelacanth/Catch a Coelacanth"
                     }
                 ],
                 "map_locations": [
@@ -854,6 +1486,166 @@
                     {
                         "name": "Donate Venus' Flower Basket - Donate a Venus' flower basket to the museum",
                         "ref": "Donate Sea Creatures/Donate Venus' Flower Basket/Donate a Venus' flower basket to the museum"
+                    },
+                    {
+                        "name": "Donate Seaweed - Catch some Seaweed",
+                        "ref": "Donate Sea Creatures/Donate Seaweed/Catch some Seaweed"
+                    },
+                    {
+                        "name": "Donate Sea Grapes - Catch some Sea Grapes",
+                        "ref": "Donate Sea Creatures/Donate Sea Grapes/Catch some Sea Grapes"
+                    },
+                    {
+                        "name": "Donate Sea Cucumber - Catch a Sea Cucumber",
+                        "ref": "Donate Sea Creatures/Donate Sea Cucumber/Catch a Sea Cucumber"
+                    },
+                    {
+                        "name": "Donate Sea Pig - Catch a Sea Pig",
+                        "ref": "Donate Sea Creatures/Donate Sea Pig/Catch a Sea Pig"
+                    },
+                    {
+                        "name": "Donate Sea Star - Catch a Sea Star",
+                        "ref": "Donate Sea Creatures/Donate Sea Star/Catch a Sea Star"
+                    },
+                    {
+                        "name": "Donate Sea Urchin - Catch a Sea Urchin",
+                        "ref": "Donate Sea Creatures/Donate Sea Urchin/Catch a Sea Urchin"
+                    },
+                    {
+                        "name": "Donate Slate Pencil Urchin - Catch a Slate Pencil Urchin",
+                        "ref": "Donate Sea Creatures/Donate Slate Pencil Urchin/Catch a Slate Pencil Urchin"
+                    },
+                    {
+                        "name": "Donate Sea Anemone - Catch a Sea Anemone",
+                        "ref": "Donate Sea Creatures/Donate Sea Anemone/Catch a Sea Anemone"
+                    },
+                    {
+                        "name": "Donate Moon Jellyfish - Catch a Moon Jellyfish",
+                        "ref": "Donate Sea Creatures/Donate Moon Jellyfish/Catch a Moon Jellyfish"
+                    },
+                    {
+                        "name": "Donate Sea Slug - Catch a Sea Slug",
+                        "ref": "Donate Sea Creatures/Donate Sea Slug/Catch a Sea Slug"
+                    },
+                    {
+                        "name": "Donate Pearl Oyster - Catch a Pearl Oyster",
+                        "ref": "Donate Sea Creatures/Donate Pearl Oyster/Catch a Pearl Oyster"
+                    },
+                    {
+                        "name": "Donate Mussel - Catch a Mussel",
+                        "ref": "Donate Sea Creatures/Donate Mussel/Catch a Mussel"
+                    },
+                    {
+                        "name": "Donate Oyster - Catch an Oyster",
+                        "ref": "Donate Sea Creatures/Donate Oyster/Catch an Oyster"
+                    },
+                    {
+                        "name": "Donate Scallop - Catch a Scallop",
+                        "ref": "Donate Sea Creatures/Donate Scallop/Catch a Scallop"
+                    },
+                    {
+                        "name": "Donate Whelk - Catch a Whelk",
+                        "ref": "Donate Sea Creatures/Donate Whelk/Catch a Whelk"
+                    },
+                    {
+                        "name": "Donate Turban Shell - Catch a Turban Shell",
+                        "ref": "Donate Sea Creatures/Donate Turban Shell/Catch a Turban Shell"
+                    },
+                    {
+                        "name": "Donate Abalone - Catch an Abalone",
+                        "ref": "Donate Sea Creatures/Donate Abalone/Catch an Abalone"
+                    },
+                    {
+                        "name": "Donate Gigas Giant Clam - Catch a Gigas Giant Clam",
+                        "ref": "Donate Sea Creatures/Donate Gigas Giant Clam/Catch a Gigas Giant Clam"
+                    },
+                    {
+                        "name": "Donate Chambered Nautilus - Catch a Chambered Nautilus",
+                        "ref": "Donate Sea Creatures/Donate Chambered Nautilus/Catch a Chambered Nautilus"
+                    },
+                    {
+                        "name": "Donate Octopus - Catch an Octopus",
+                        "ref": "Donate Sea Creatures/Donate Octopus/Catch an Octopus"
+                    },
+                    {
+                        "name": "Donate Umbrella Octopus - Catch an Umbrella Octopus",
+                        "ref": "Donate Sea Creatures/Donate Umbrella Octopus/Catch an Umbrella Octopus"
+                    },
+                    {
+                        "name": "Donate Vampire Squid - Catch a Vampire Squid",
+                        "ref": "Donate Sea Creatures/Donate Vampire Squid/Catch a Vampire Squid"
+                    },
+                    {
+                        "name": "Donate Firefly Squid - Catch a Firefly Squid",
+                        "ref": "Donate Sea Creatures/Donate Firefly Squid/Catch a Firefly Squid"
+                    },
+                    {
+                        "name": "Donate Gazami Crab - Catch a Gazami Crab",
+                        "ref": "Donate Sea Creatures/Donate Gazami Crab/Catch a Gazami Crab"
+                    },
+                    {
+                        "name": "Donate Dungeness Crab - Catch a Dungeness Crab",
+                        "ref": "Donate Sea Creatures/Donate Dungeness Crab/Catch a Dungeness Crab"
+                    },
+                    {
+                        "name": "Donate Snow Crab - Catch a Snow Crab",
+                        "ref": "Donate Sea Creatures/Donate Snow Crab/Catch a Snow Crab"
+                    },
+                    {
+                        "name": "Donate Red King Crab - Catch a Red King Crab",
+                        "ref": "Donate Sea Creatures/Donate Red King Crab/Catch a Red King Crab"
+                    },
+                    {
+                        "name": "Donate Acorn Barnacle - Catch an Acorn Barnacle",
+                        "ref": "Donate Sea Creatures/Donate Acorn Barnacle/Catch an Acorn Barnacle"
+                    },
+                    {
+                        "name": "Donate Spider Crab - Catch a Spider Crab",
+                        "ref": "Donate Sea Creatures/Donate Spider Crab/Catch a Spider Crab"
+                    },
+                    {
+                        "name": "Donate Tiger Prawn - Catch a Tiger Prawn",
+                        "ref": "Donate Sea Creatures/Donate Tiger Prawn/Catch a Tiger Prawn"
+                    },
+                    {
+                        "name": "Donate Sweet Shrimp - Catch a Sweet Shrimp",
+                        "ref": "Donate Sea Creatures/Donate Sweet Shrimp/Catch a Sweet Shrimp"
+                    },
+                    {
+                        "name": "Donate Mantis Shrimp - Catch a Mantis Shrimp",
+                        "ref": "Donate Sea Creatures/Donate Mantis Shrimp/Catch a Mantis Shrimp"
+                    },
+                    {
+                        "name": "Donate Spiny Lobster - Catch a Spiny Lobster",
+                        "ref": "Donate Sea Creatures/Donate Spiny Lobster/Catch a Spiny Lobster"
+                    },
+                    {
+                        "name": "Donate Lobster - Catch a Lobster",
+                        "ref": "Donate Sea Creatures/Donate Lobster/Catch a Lobster"
+                    },
+                    {
+                        "name": "Donate Giant Isopod - Catch a Giant Isopod",
+                        "ref": "Donate Sea Creatures/Donate Giant Isopod/Catch a Giant Isopod"
+                    },
+                    {
+                        "name": "Donate Horseshoe Crab - Catch a Horseshoe Crab",
+                        "ref": "Donate Sea Creatures/Donate Horseshoe Crab/Catch a Horseshoe Crab"
+                    },
+                    {
+                        "name": "Donate Sea Pineapple - Catch a Sea Pineapple",
+                        "ref": "Donate Sea Creatures/Donate Sea Pineapple/Catch a Sea Pineapple"
+                    },
+                    {
+                        "name": "Donate Spotted Garden Eel - Catch a Spotted Garden Eel",
+                        "ref": "Donate Sea Creatures/Donate Spotted Garden Eel/Catch a Spotted Garden Eel"
+                    },
+                    {
+                        "name": "Donate Flatworm - Catch a Flatworm",
+                        "ref": "Donate Sea Creatures/Donate Flatworm/Catch a Flatworm"
+                    },
+                    {
+                        "name": "Donate Venus' Flower Basket - Catch a Venus' Flower Basket",
+                        "ref": "Donate Sea Creatures/Donate Venus' Flower Basket/Catch a Venus' Flower Basket"
                     }
                 ],
                 "map_locations": [
@@ -1394,6 +2186,10 @@
                     {
                         "name": "Toy Day - Craft some festive wrapping paper",
                         "ref": "Plaza/Toy Day/Craft some festive wrapping paper"
+                    },
+                    {
+                        "name": "K.K. Slider - Critterpedia Hunt",
+                        "ref": "Plaza/K.K. Slider/Critterpedia Hunt"
                     }
                 ],
                 "map_locations": [

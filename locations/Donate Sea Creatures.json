@@ -14,6 +14,16 @@
                 "access_rules": [],
                 "sections": [
                     {
+                        "name": "Catch some Seaweed",
+                        "item_count": 1,
+                        "access_rules": [
+                            "$Rule|578"
+                        ],
+                        "visibility_rules": [
+                            "$Vis|578"
+                        ]
+                    },
+                    {
                         "name": "Donate a seaweed to the museum",
                         "access_rules": [
                             "$Rule|355"
@@ -40,6 +50,16 @@
                 "overlay_background": "#000000",
                 "access_rules": [],
                 "sections": [
+                    {
+                        "name": "Catch some Sea Grapes",
+                        "item_count": 1,
+                        "access_rules": [
+                            "$Rule|579"
+                        ],
+                        "visibility_rules": [
+                            "$Vis|579"
+                        ]
+                    },
                     {
                         "name": "Donate a sea grapes to the museum",
                         "access_rules": [
@@ -68,6 +88,16 @@
                 "access_rules": [],
                 "sections": [
                     {
+                        "name": "Catch a Sea Cucumber",
+                        "item_count": 1,
+                        "access_rules": [
+                            "$Rule|580"
+                        ],
+                        "visibility_rules": [
+                            "$Vis|580"
+                        ]
+                    },
+                    {
                         "name": "Donate a sea cucumber to the museum",
                         "access_rules": [
                             "$Rule|357"
@@ -94,6 +124,16 @@
                 "overlay_background": "#000000",
                 "access_rules": [],
                 "sections": [
+                    {
+                        "name": "Catch a Sea Pig",
+                        "item_count": 1,
+                        "access_rules": [
+                            "$Rule|581"
+                        ],
+                        "visibility_rules": [
+                            "$Vis|581"
+                        ]
+                    },
                     {
                         "name": "Donate a sea pig to the museum",
                         "access_rules": [
@@ -122,6 +162,16 @@
                 "access_rules": [],
                 "sections": [
                     {
+                        "name": "Catch a Sea Star",
+                        "item_count": 1,
+                        "access_rules": [
+                            "$Rule|582"
+                        ],
+                        "visibility_rules": [
+                            "$Vis|582"
+                        ]
+                    },
+                    {
                         "name": "Donate a sea star to the museum",
                         "access_rules": [
                             "$Rule|359"
@@ -148,6 +198,16 @@
                 "overlay_background": "#000000",
                 "access_rules": [],
                 "sections": [
+                    {
+                        "name": "Catch a Sea Urchin",
+                        "item_count": 1,
+                        "access_rules": [
+                            "$Rule|583"
+                        ],
+                        "visibility_rules": [
+                            "$Vis|583"
+                        ]
+                    },
                     {
                         "name": "Donate a sea urchin to the museum",
                         "access_rules": [
@@ -176,6 +236,16 @@
                 "access_rules": [],
                 "sections": [
                     {
+                        "name": "Catch a Slate Pencil Urchin",
+                        "item_count": 1,
+                        "access_rules": [
+                            "$Rule|584"
+                        ],
+                        "visibility_rules": [
+                            "$Vis|584"
+                        ]
+                    },
+                    {
                         "name": "Donate a slate pencil urchin to the museum",
                         "access_rules": [
                             "$Rule|361"
@@ -202,6 +272,16 @@
                 "overlay_background": "#000000",
                 "access_rules": [],
                 "sections": [
+                    {
+                        "name": "Catch a Sea Anemone",
+                        "item_count": 1,
+                        "access_rules": [
+                            "$Rule|585"
+                        ],
+                        "visibility_rules": [
+                            "$Vis|585"
+                        ]
+                    },
                     {
                         "name": "Donate a sea anemone to the museum",
                         "access_rules": [
@@ -230,6 +310,16 @@
                 "access_rules": [],
                 "sections": [
                     {
+                        "name": "Catch a Moon Jellyfish",
+                        "item_count": 1,
+                        "access_rules": [
+                            "$Rule|586"
+                        ],
+                        "visibility_rules": [
+                            "$Vis|586"
+                        ]
+                    },
+                    {
                         "name": "Donate a moon jellyfish to the museum",
                         "access_rules": [
                             "$Rule|363"
@@ -256,6 +346,16 @@
                 "overlay_background": "#000000",
                 "access_rules": [],
                 "sections": [
+                    {
+                        "name": "Catch a Sea Slug",
+                        "item_count": 1,
+                        "access_rules": [
+                            "$Rule|587"
+                        ],
+                        "visibility_rules": [
+                            "$Vis|587"
+                        ]
+                    },
                     {
                         "name": "Donate a sea slug to the museum",
                         "access_rules": [
@@ -284,6 +384,16 @@
                 "access_rules": [],
                 "sections": [
                     {
+                        "name": "Catch a Pearl Oyster",
+                        "item_count": 1,
+                        "access_rules": [
+                            "$Rule|588"
+                        ],
+                        "visibility_rules": [
+                            "$Vis|588"
+                        ]
+                    },
+                    {
                         "name": "Donate a pearl oyster to the museum",
                         "access_rules": [
                             "$Rule|365"
@@ -310,6 +420,16 @@
                 "overlay_background": "#000000",
                 "access_rules": [],
                 "sections": [
+                    {
+                        "name": "Catch a Mussel",
+                        "item_count": 1,
+                        "access_rules": [
+                            "$Rule|589"
+                        ],
+                        "visibility_rules": [
+                            "$Vis|589"
+                        ]
+                    },
                     {
                         "name": "Donate a mussel to the museum",
                         "access_rules": [
@@ -338,6 +458,16 @@
                 "access_rules": [],
                 "sections": [
                     {
+                        "name": "Catch an Oyster",
+                        "item_count": 1,
+                        "access_rules": [
+                            "$Rule|590"
+                        ],
+                        "visibility_rules": [
+                            "$Vis|590"
+                        ]
+                    },
+                    {
                         "name": "Donate an oyster to the museum",
                         "access_rules": [
                             "$Rule|367"
@@ -364,6 +494,16 @@
                 "overlay_background": "#000000",
                 "access_rules": [],
                 "sections": [
+                    {
+                        "name": "Catch a Scallop",
+                        "item_count": 1,
+                        "access_rules": [
+                            "$Rule|591"
+                        ],
+                        "visibility_rules": [
+                            "$Vis|591"
+                        ]
+                    },
                     {
                         "name": "Donate a scallop to the museum",
                         "access_rules": [
@@ -392,6 +532,16 @@
                 "access_rules": [],
                 "sections": [
                     {
+                        "name": "Catch a Whelk",
+                        "item_count": 1,
+                        "access_rules": [
+                            "$Rule|592"
+                        ],
+                        "visibility_rules": [
+                            "$Vis|592"
+                        ]
+                    },
+                    {
                         "name": "Donate a whelk to the museum",
                         "access_rules": [
                             "$Rule|369"
@@ -418,6 +568,16 @@
                 "overlay_background": "#000000",
                 "access_rules": [],
                 "sections": [
+                    {
+                        "name": "Catch a Turban Shell",
+                        "item_count": 1,
+                        "access_rules": [
+                            "$Rule|593"
+                        ],
+                        "visibility_rules": [
+                            "$Vis|593"
+                        ]
+                    },
                     {
                         "name": "Donate a turban shell to the museum",
                         "access_rules": [
@@ -446,6 +606,16 @@
                 "access_rules": [],
                 "sections": [
                     {
+                        "name": "Catch an Abalone",
+                        "item_count": 1,
+                        "access_rules": [
+                            "$Rule|594"
+                        ],
+                        "visibility_rules": [
+                            "$Vis|594"
+                        ]
+                    },
+                    {
                         "name": "Donate an abalone to the museum",
                         "access_rules": [
                             "$Rule|371"
@@ -472,6 +642,16 @@
                 "overlay_background": "#000000",
                 "access_rules": [],
                 "sections": [
+                    {
+                        "name": "Catch a Gigas Giant Clam",
+                        "item_count": 1,
+                        "access_rules": [
+                            "$Rule|595"
+                        ],
+                        "visibility_rules": [
+                            "$Vis|595"
+                        ]
+                    },
                     {
                         "name": "Donate a gigas giant clam to the museum",
                         "access_rules": [
@@ -500,6 +680,16 @@
                 "access_rules": [],
                 "sections": [
                     {
+                        "name": "Catch a Chambered Nautilus",
+                        "item_count": 1,
+                        "access_rules": [
+                            "$Rule|596"
+                        ],
+                        "visibility_rules": [
+                            "$Vis|596"
+                        ]
+                    },
+                    {
                         "name": "Donate a chambered nautilus to the museum",
                         "access_rules": [
                             "$Rule|373"
@@ -526,6 +716,16 @@
                 "overlay_background": "#000000",
                 "access_rules": [],
                 "sections": [
+                    {
+                        "name": "Catch an Octopus",
+                        "item_count": 1,
+                        "access_rules": [
+                            "$Rule|597"
+                        ],
+                        "visibility_rules": [
+                            "$Vis|597"
+                        ]
+                    },
                     {
                         "name": "Donate an octopus to the museum",
                         "access_rules": [
@@ -554,6 +754,16 @@
                 "access_rules": [],
                 "sections": [
                     {
+                        "name": "Catch an Umbrella Octopus",
+                        "item_count": 1,
+                        "access_rules": [
+                            "$Rule|598"
+                        ],
+                        "visibility_rules": [
+                            "$Vis|598"
+                        ]
+                    },
+                    {
                         "name": "Donate an umbrella octopus to the museum",
                         "access_rules": [
                             "$Rule|375"
@@ -580,6 +790,16 @@
                 "overlay_background": "#000000",
                 "access_rules": [],
                 "sections": [
+                    {
+                        "name": "Catch a Vampire Squid",
+                        "item_count": 1,
+                        "access_rules": [
+                            "$Rule|599"
+                        ],
+                        "visibility_rules": [
+                            "$Vis|599"
+                        ]
+                    },
                     {
                         "name": "Donate a vampire squid to the museum",
                         "access_rules": [
@@ -608,6 +828,16 @@
                 "access_rules": [],
                 "sections": [
                     {
+                        "name": "Catch a Firefly Squid",
+                        "item_count": 1,
+                        "access_rules": [
+                            "$Rule|600"
+                        ],
+                        "visibility_rules": [
+                            "$Vis|600"
+                        ]
+                    },
+                    {
                         "name": "Donate a firefly squid to the museum",
                         "access_rules": [
                             "$Rule|377"
@@ -634,6 +864,16 @@
                 "overlay_background": "#000000",
                 "access_rules": [],
                 "sections": [
+                    {
+                        "name": "Catch a Gazami Crab",
+                        "item_count": 1,
+                        "access_rules": [
+                            "$Rule|601"
+                        ],
+                        "visibility_rules": [
+                            "$Vis|601"
+                        ]
+                    },
                     {
                         "name": "Donate a gazami crab to the museum",
                         "access_rules": [
@@ -662,6 +902,16 @@
                 "access_rules": [],
                 "sections": [
                     {
+                        "name": "Catch a Dungeness Crab",
+                        "item_count": 1,
+                        "access_rules": [
+                            "$Rule|602"
+                        ],
+                        "visibility_rules": [
+                            "$Vis|602"
+                        ]
+                    },
+                    {
                         "name": "Donate a Dungeness crab to the museum",
                         "access_rules": [
                             "$Rule|379"
@@ -688,6 +938,16 @@
                 "overlay_background": "#000000",
                 "access_rules": [],
                 "sections": [
+                    {
+                        "name": "Catch a Snow Crab",
+                        "item_count": 1,
+                        "access_rules": [
+                            "$Rule|603"
+                        ],
+                        "visibility_rules": [
+                            "$Vis|603"
+                        ]
+                    },
                     {
                         "name": "Donate a snow crab to the museum",
                         "access_rules": [
@@ -716,6 +976,16 @@
                 "access_rules": [],
                 "sections": [
                     {
+                        "name": "Catch a Red King Crab",
+                        "item_count": 1,
+                        "access_rules": [
+                            "$Rule|604"
+                        ],
+                        "visibility_rules": [
+                            "$Vis|604"
+                        ]
+                    },
+                    {
                         "name": "Donate a red king crab to the museum",
                         "access_rules": [
                             "$Rule|381"
@@ -742,6 +1012,16 @@
                 "overlay_background": "#000000",
                 "access_rules": [],
                 "sections": [
+                    {
+                        "name": "Catch an Acorn Barnacle",
+                        "item_count": 1,
+                        "access_rules": [
+                            "$Rule|605"
+                        ],
+                        "visibility_rules": [
+                            "$Vis|605"
+                        ]
+                    },
                     {
                         "name": "Donate an acorn barnacle to the museum",
                         "access_rules": [
@@ -770,6 +1050,16 @@
                 "access_rules": [],
                 "sections": [
                     {
+                        "name": "Catch a Spider Crab",
+                        "item_count": 1,
+                        "access_rules": [
+                            "$Rule|606"
+                        ],
+                        "visibility_rules": [
+                            "$Vis|606"
+                        ]
+                    },
+                    {
                         "name": "Donate a spider crab to the museum",
                         "access_rules": [
                             "$Rule|383"
@@ -796,6 +1086,16 @@
                 "overlay_background": "#000000",
                 "access_rules": [],
                 "sections": [
+                    {
+                        "name": "Catch a Tiger Prawn",
+                        "item_count": 1,
+                        "access_rules": [
+                            "$Rule|607"
+                        ],
+                        "visibility_rules": [
+                            "$Vis|607"
+                        ]
+                    },
                     {
                         "name": "Donate a tiger prawn to the museum",
                         "access_rules": [
@@ -824,6 +1124,16 @@
                 "access_rules": [],
                 "sections": [
                     {
+                        "name": "Catch a Sweet Shrimp",
+                        "item_count": 1,
+                        "access_rules": [
+                            "$Rule|608"
+                        ],
+                        "visibility_rules": [
+                            "$Vis|608"
+                        ]
+                    },
+                    {
                         "name": "Donate a sweet shrimp to the museum",
                         "access_rules": [
                             "$Rule|385"
@@ -850,6 +1160,16 @@
                 "overlay_background": "#000000",
                 "access_rules": [],
                 "sections": [
+                    {
+                        "name": "Catch a Mantis Shrimp",
+                        "item_count": 1,
+                        "access_rules": [
+                            "$Rule|609"
+                        ],
+                        "visibility_rules": [
+                            "$Vis|609"
+                        ]
+                    },
                     {
                         "name": "Donate a mantis shrimp to the museum",
                         "access_rules": [
@@ -878,6 +1198,16 @@
                 "access_rules": [],
                 "sections": [
                     {
+                        "name": "Catch a Spiny Lobster",
+                        "item_count": 1,
+                        "access_rules": [
+                            "$Rule|610"
+                        ],
+                        "visibility_rules": [
+                            "$Vis|610"
+                        ]
+                    },
+                    {
                         "name": "Donate a spiny lobster to the museum",
                         "access_rules": [
                             "$Rule|387"
@@ -904,6 +1234,16 @@
                 "overlay_background": "#000000",
                 "access_rules": [],
                 "sections": [
+                    {
+                        "name": "Catch a Lobster",
+                        "item_count": 1,
+                        "access_rules": [
+                            "$Rule|611"
+                        ],
+                        "visibility_rules": [
+                            "$Vis|611"
+                        ]
+                    },
                     {
                         "name": "Donate a lobster to the museum",
                         "access_rules": [
@@ -932,6 +1272,16 @@
                 "access_rules": [],
                 "sections": [
                     {
+                        "name": "Catch a Giant Isopod",
+                        "item_count": 1,
+                        "access_rules": [
+                            "$Rule|612"
+                        ],
+                        "visibility_rules": [
+                            "$Vis|612"
+                        ]
+                    },
+                    {
                         "name": "Donate a giant isopod to the museum",
                         "access_rules": [
                             "$Rule|389"
@@ -958,6 +1308,16 @@
                 "overlay_background": "#000000",
                 "access_rules": [],
                 "sections": [
+                    {
+                        "name": "Catch a Horseshoe Crab",
+                        "item_count": 1,
+                        "access_rules": [
+                            "$Rule|613"
+                        ],
+                        "visibility_rules": [
+                            "$Vis|613"
+                        ]
+                    },
                     {
                         "name": "Donate a horseshoe crab to the museum",
                         "access_rules": [
@@ -986,6 +1346,16 @@
                 "access_rules": [],
                 "sections": [
                     {
+                        "name": "Catch a Sea Pineapple",
+                        "item_count": 1,
+                        "access_rules": [
+                            "$Rule|614"
+                        ],
+                        "visibility_rules": [
+                            "$Vis|614"
+                        ]
+                    },
+                    {
                         "name": "Donate a sea pineapple to the museum",
                         "access_rules": [
                             "$Rule|391"
@@ -1012,6 +1382,16 @@
                 "overlay_background": "#000000",
                 "access_rules": [],
                 "sections": [
+                    {
+                        "name": "Catch a Spotted Garden Eel",
+                        "item_count": 1,
+                        "access_rules": [
+                            "$Rule|615"
+                        ],
+                        "visibility_rules": [
+                            "$Vis|615"
+                        ]
+                    },
                     {
                         "name": "Donate a spotted garden eel to the museum",
                         "access_rules": [
@@ -1040,6 +1420,16 @@
                 "access_rules": [],
                 "sections": [
                     {
+                        "name": "Catch a Flatworm",
+                        "item_count": 1,
+                        "access_rules": [
+                            "$Rule|616"
+                        ],
+                        "visibility_rules": [
+                            "$Vis|616"
+                        ]
+                    },
+                    {
                         "name": "Donate a flatworm to the museum",
                         "access_rules": [
                             "$Rule|393"
@@ -1066,6 +1456,16 @@
                 "overlay_background": "#000000",
                 "access_rules": [],
                 "sections": [
+                    {
+                        "name": "Catch a Venus' Flower Basket",
+                        "item_count": 1,
+                        "access_rules": [
+                            "$Rule|617"
+                        ],
+                        "visibility_rules": [
+                            "$Vis|617"
+                        ]
+                    },
                     {
                         "name": "Donate a Venus' flower basket to the museum",
                         "access_rules": [

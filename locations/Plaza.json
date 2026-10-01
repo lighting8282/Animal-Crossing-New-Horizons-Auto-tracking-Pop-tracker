@@ -32,6 +32,16 @@
                             "$Vis|174"
                         ],
                         "item_count": 1
+                    },
+                    {
+                        "name": "Critterpedia Hunt",
+                        "item_count": 1,
+                        "access_rules": [
+                            "$Rule|417"
+                        ],
+                        "visibility_rules": [
+                            "$Vis|417"
+                        ]
                     }
                 ],
                 "map_locations": [
