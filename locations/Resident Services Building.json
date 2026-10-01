@@ -16,10 +16,10 @@
                     {
                         "name": "Pay off all of your loans and complete your goal!",
                         "access_rules": [
-                            "$Rule|409"
+                            "$Rule|408"
                         ],
                         "visibility_rules": [
-                            "$Vis|409"
+                            "$Vis|408"
                         ],
                         "item_count": 1
                     }
@@ -53,10 +53,10 @@
                     {
                         "name": "Change up your look at a wardrobe",
                         "access_rules": [
-                            "$Rule|190"
+                            "$Rule|189"
                         ],
                         "visibility_rules": [
-                            "$Vis|190"
+                            "$Vis|189"
                         ],
                         "item_count": 1
                     },
@@ -90,6 +90,16 @@
                     {
                         "name": "Change your island's flag or tune",
                         "access_rules": [
+                            "$Rule|170"
+                        ],
+                        "visibility_rules": [
+                            "$Vis|170"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Use the Island Designer app",
+                        "access_rules": [
                             "$Rule|171"
                         ],
                         "visibility_rules": [
@@ -98,17 +108,17 @@
                         "item_count": 1
                     },
                     {
-                        "name": "Use the Island Designer app",
+                        "name": "Craft a bamboo noodle slide",
                         "access_rules": [
-                            "$Rule|172"
+                            "$Rule|409"
                         ],
                         "visibility_rules": [
-                            "$Vis|172"
+                            "$Vis|409"
                         ],
                         "item_count": 1
                     },
                     {
-                        "name": "Craft a bamboo noodle slide",
+                        "name": "Craft a mushroom wreath",
                         "access_rules": [
                             "$Rule|410"
                         ],
@@ -118,7 +128,7 @@
                         "item_count": 1
                     },
                     {
-                        "name": "Craft a mushroom wreath",
+                        "name": "Craft an ornament wreath",
                         "access_rules": [
                             "$Rule|411"
                         ],
@@ -128,7 +138,7 @@
                         "item_count": 1
                     },
                     {
-                        "name": "Craft an ornament wreath",
+                        "name": "Craft an outdoor picnic set",
                         "access_rules": [
                             "$Rule|412"
                         ],
@@ -138,7 +148,7 @@
                         "item_count": 1
                     },
                     {
-                        "name": "Craft an outdoor picnic set",
+                        "name": "Craft a red-leaf pile",
                         "access_rules": [
                             "$Rule|413"
                         ],
@@ -148,7 +158,7 @@
                         "item_count": 1
                     },
                     {
-                        "name": "Craft a red-leaf pile",
+                        "name": "Craft a shell wreath",
                         "access_rules": [
                             "$Rule|414"
                         ],
@@ -158,7 +168,7 @@
                         "item_count": 1
                     },
                     {
-                        "name": "Craft a shell wreath",
+                        "name": "Craft a snowflake wreath",
                         "access_rules": [
                             "$Rule|415"
                         ],
@@ -168,22 +178,12 @@
                         "item_count": 1
                     },
                     {
-                        "name": "Craft a snowflake wreath",
+                        "name": "Craft a tree's bounty little tree",
                         "access_rules": [
                             "$Rule|416"
                         ],
                         "visibility_rules": [
                             "$Vis|416"
-                        ],
-                        "item_count": 1
-                    },
-                    {
-                        "name": "Craft a tree's bounty little tree",
-                        "access_rules": [
-                            "$Rule|417"
-                        ],
-                        "visibility_rules": [
-                            "$Vis|417"
                         ],
                         "item_count": 1
                     }

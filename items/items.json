@@ -516,6 +516,33 @@
         "codes": "month-april"
     },
     {
+        "name": "Month - January",
+        "type": "toggle",
+        "img": "images/items/month-january.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "month-january"
+    },
+    {
+        "name": "Pascal",
+        "type": "toggle",
+        "img": "images/items/placeholderitem.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "pascal"
+    },
+    {
+        "name": "Critterpedia Entry",
+        "type": "consumable",
+        "img": "images/items/placeholderitem.png",
+        "initial_quantity": 0,
+        "min_quantity": 0,
+        "max_quantity": 200,
+        "increment": 1,
+        "overlay_align": "right",
+        "codes": "critterpediaentry"
+    },
+    {
         "name": "update",
         "type": "toggle",
         "img": "images/items/placeholderitem.png",

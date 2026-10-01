@@ -16,20 +16,20 @@
                     {
                         "name": "Donate all fish, bugs, sea creatures, and fossils to the museum and complete your goal!",
                         "access_rules": [
-                            "$Rule|407"
+                            "$Rule|406"
                         ],
                         "visibility_rules": [
-                            "$Vis|407"
+                            "$Vis|406"
                         ],
                         "item_count": 1
                     },
                     {
                         "name": "Donate all fish, bugs, sea creatures, fossils, and works of art to the museum and complete your goal!",
                         "access_rules": [
-                            "$Rule|408"
+                            "$Rule|407"
                         ],
                         "visibility_rules": [
-                            "$Vis|408"
+                            "$Vis|407"
                         ],
                         "item_count": 1
                     }
@@ -140,30 +140,30 @@
                     {
                         "name": "Fall for one of Redd's forgeries",
                         "access_rules": [
-                            "$Rule|164"
+                            "$Rule|163"
                         ],
                         "visibility_rules": [
-                            "$Vis|164"
+                            "$Vis|163"
                         ],
                         "item_count": 1
                     },
                     {
                         "name": "Donate an actually real work of art from Redd",
                         "access_rules": [
-                            "$Rule|176"
+                            "$Rule|175"
                         ],
                         "visibility_rules": [
-                            "$Vis|176"
+                            "$Vis|175"
                         ],
                         "item_count": 1
                     },
                     {
                         "name": "Enjoy a coffee at the Roost",
                         "access_rules": [
-                            "$Rule|179"
+                            "$Rule|178"
                         ],
                         "visibility_rules": [
-                            "$Vis|179"
+                            "$Vis|178"
                         ],
                         "item_count": 1
                     }

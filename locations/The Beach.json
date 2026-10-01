@@ -26,10 +26,10 @@
                     {
                         "name": "Give Pascal a scallop",
                         "access_rules": [
-                            "$Rule|177"
+                            "$Rule|176"
                         ],
                         "visibility_rules": [
-                            "$Vis|177"
+                            "$Vis|176"
                         ],
                         "item_count": 1
                     }
@@ -63,10 +63,10 @@
                     {
                         "name": "Help Gulliver or Gullivarrr",
                         "access_rules": [
-                            "$Rule|174"
+                            "$Rule|173"
                         ],
                         "visibility_rules": [
-                            "$Vis|174"
+                            "$Vis|173"
                         ],
                         "item_count": 1
                     },
@@ -100,15 +100,25 @@
                     {
                         "name": "Accompany Kapp'n on a boat tour",
                         "access_rules": [
-                            "$Rule|178"
+                            "$Rule|177"
                         ],
                         "visibility_rules": [
-                            "$Vis|178"
+                            "$Vis|177"
                         ],
                         "item_count": 1
                     },
                     {
                         "name": "Decorate a hotel room",
+                        "access_rules": [
+                            "$Rule|180"
+                        ],
+                        "visibility_rules": [
+                            "$Vis|180"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Show a lost tourist to the hotel",
                         "access_rules": [
                             "$Rule|181"
                         ],
@@ -118,22 +128,12 @@
                         "item_count": 1
                     },
                     {
-                        "name": "Show a lost tourist to the hotel",
+                        "name": "Fulfill 5 DIY requests from the hotel",
                         "access_rules": [
                             "$Rule|182"
                         ],
                         "visibility_rules": [
                             "$Vis|182"
-                        ],
-                        "item_count": 1
-                    },
-                    {
-                        "name": "Fulfill 5 DIY requests from the hotel",
-                        "access_rules": [
-                            "$Rule|183"
-                        ],
-                        "visibility_rules": [
-                            "$Vis|183"
                         ],
                         "item_count": 1
                     }

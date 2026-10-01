@@ -45,4 +45,7 @@ ITEM_MAPPING = {
 	[44] = {{"label", "toggle"}},
 	[45] = {{"celeste", "toggle"}},
 	[46] = {{"bellvoucher", "toggle"}},
+	[52] = {{"month-january", "toggle"}},
+	[53] = {{"pascal", "toggle"}},
+	[54] = {{"critterpediaentry", "consumable"}},
 }

@@ -15,6 +15,93 @@
                 "content": [
                     {
                         "type": "group",
+                        "header": "What Your Goal Needs",
+                        "content": {
+                            "type": "array",
+                            "orientation": "vertical",
+                            "content": [
+                                {
+                                    "type": "text",
+                                    "text": "Every goal except Critterpedia Hunt sits behind the"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "Project K gate:"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "  Net 1, Rod 1, Axe 1, Vaulting Pole, Ladder,"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "  Villager 6."
+                                },
+                                {
+                                    "type": "text",
+                                    "text": ""
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "On top of that:"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "  Critterpedia Hunt  nothing - it sits in the starting"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "                     region. By far the shortest goal."
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "  Credits            nothing more"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "  Museum (No Art)    Net 2, Rod 2, Shovel 1, Can 1,"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "                     Wet Suit, ALL 12 Month items"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "  Museum (Art)       the above plus Redd"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "  All Home Loans     Net 2, Rod 2, Shovel 2, Axe 2,"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "                     Can 2, Villager 8, Inventory 2,"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "                     Nook Miles Ticket, Tool Ring,"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "                     Wet Suit, Leif, C.J., Flick,"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "                     Daisy Mae, Be a Chef DIY Recipes+"
+                                }
+                            ]
+                        }
+                    }
+                ]
+            },
+            {
+                "type": "array",
+                "orientation": "vertical",
+                "v_alignment": "top",
+                "h_alignment": "left",
+                "max_width": 330,
+                "content": [
+                    {
+                        "type": "group",
                         "header": "Check Tricks: Leif & Birthday",
                         "content": {
                             "type": "array",
@@ -38,31 +125,15 @@
                                 },
                                 {
                                     "type": "text",
-                                    "text": "  Craft Veggie Basket and Shrubbery Hubbubbery need"
+                                    "text": "  He also appears in Craft Veggie Basket, Shrubbery"
                                 },
                                 {
                                     "type": "text",
-                                    "text": "  him or the full endgame set."
+                                    "text": "  Hubbubbery, Sprout Out Loud, Executive Producer and"
                                 },
                                 {
                                     "type": "text",
-                                    "text": "  Sprout Out Loud and Executive Producer also accept"
-                                },
-                                {
-                                    "type": "text",
-                                    "text": "  November + 3 Villagers. In game you buy pumpkin"
-                                },
-                                {
-                                    "type": "text",
-                                    "text": "  starts at Nook's Cranny in October, so you may be"
-                                },
-                                {
-                                    "type": "text",
-                                    "text": "  able to do these before the logic says so."
-                                },
-                                {
-                                    "type": "text",
-                                    "text": "  Spooky Carriage accepts November or Leif."
+                                    "text": "  the All Home Loans goal."
                                 },
                                 {
                                     "type": "text",
@@ -74,31 +145,31 @@
                                 },
                                 {
                                     "type": "text",
-                                    "text": "  Set your birthday to January to get Happy Birthday!"
+                                    "text": "  Happy Birthday! now has NO logic requirement - the"
                                 },
                                 {
                                     "type": "text",
-                                    "text": "  straight away. It does NOT cover Birthday Celebration."
+                                    "text": "  birth_month option tells the apworld when your"
                                 },
                                 {
                                     "type": "text",
-                                    "text": "  Note: the apworld cannot know your birthday, so both"
+                                    "text": "  birthday is. Set your in-game birthday to match."
                                 },
                                 {
                                     "type": "text",
-                                    "text": "  checks list ALL 11 Month items as required. They stay"
+                                    "text": ""
                                 },
                                 {
                                     "type": "text",
-                                    "text": "  red on this tracker even when you can already do them."
+                                    "text": "Spooky Carriage:"
                                 },
                                 {
                                     "type": "text",
-                                    "text": "  Sending them early is fine - out-of-logic checks are"
+                                    "text": "  Now just October + Shovel. Leif and November are no"
                                 },
                                 {
                                     "type": "text",
-                                    "text": "  allowed; only using items early is not."
+                                    "text": "  longer part of it."
                                 }
                             ]
                         }
@@ -112,31 +183,15 @@
                             "content": [
                                 {
                                     "type": "text",
-                                    "text": "Never needed, whatever your goal:"
+                                    "text": "Gates nothing anywhere in the logic:"
                                 },
                                 {
                                     "type": "text",
-                                    "text": "  Tool Ring, Progressive Inventory Space,"
+                                    "text": "  Saharah, Kicks, Label, Bell Voucher."
                                 },
                                 {
                                     "type": "text",
-                                    "text": "  Bell Voucher. These gate nothing anywhere."
-                                },
-                                {
-                                    "type": "text",
-                                    "text": ""
-                                },
-                                {
-                                    "type": "text",
-                                    "text": "With post_game_checks OFF, these gate nothing:"
-                                },
-                                {
-                                    "type": "text",
-                                    "text": "  Path Permits, Cliff Construction Permit,"
-                                },
-                                {
-                                    "type": "text",
-                                    "text": "  Waterscaping Permit, Basic Cooking Recipes."
+                                    "text": "  These are correctly NOT marked progression."
                                 },
                                 {
                                     "type": "text",
@@ -144,11 +199,31 @@
                                 },
                                 {
                                     "type": "text",
-                                    "text": "Be a Chef DIY Recipes+ is the exception - it is"
+                                    "text": "Critterpedia Entry is marked progression but gates"
                                 },
                                 {
                                     "type": "text",
-                                    "text": "REQUIRED if your goal is All Home Loans."
+                                    "text": "nothing. You collect them from the Critterpedia Hunt"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "checks; nothing in the logic counts them."
+                                },
+                                {
+                                    "type": "text",
+                                    "text": ""
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "Everything else now gates something. Tool Ring,"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "Inventory Space, the permits and the cooking books"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "all matter for All Home Loans."
                                 }
                             ]
                         }
@@ -273,15 +348,19 @@
                                 },
                                 {
                                     "type": "text",
-                                    "text": "Progressive Villager has 8 stages but the logic only ever"
+                                    "text": "Progressive Villager matters at every single stage,"
                                 },
                                 {
                                     "type": "text",
-                                    "text": "asks for 3 (opens a large region) and 8 (the endgame)."
+                                    "text": "1 through 8 - unlike most progressives there is no"
                                 },
                                 {
                                     "type": "text",
-                                    "text": "Copies 2, 4, 5, 6 and 7 unlock nothing on their own."
+                                    "text": "dead copy. 3 opens a region, 6 opens Project K,"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "8 is needed for All Home Loans."
                                 }
                             ]
                         }
@@ -363,69 +442,6 @@
                     },
                     {
                         "type": "group",
-                        "header": "What Your Goal Needs",
-                        "content": {
-                            "type": "array",
-                            "orientation": "vertical",
-                            "content": [
-                                {
-                                    "type": "text",
-                                    "text": "Every goal sits behind the same region gate:"
-                                },
-                                {
-                                    "type": "text",
-                                    "text": "  Net 2, Rod 2, Shovel 2, Axe 2, Vaulting Pole,"
-                                },
-                                {
-                                    "type": "text",
-                                    "text": "  Ladder, Villager 8."
-                                },
-                                {
-                                    "type": "text",
-                                    "text": ""
-                                },
-                                {
-                                    "type": "text",
-                                    "text": "On top of that:"
-                                },
-                                {
-                                    "type": "text",
-                                    "text": "  Credits         nothing more"
-                                },
-                                {
-                                    "type": "text",
-                                    "text": "  Museum (No Art) Watering Can, Wet Suit, and"
-                                },
-                                {
-                                    "type": "text",
-                                    "text": "                  ALL 11 Month items"
-                                },
-                                {
-                                    "type": "text",
-                                    "text": "  Museum (Art)    the above plus Redd"
-                                },
-                                {
-                                    "type": "text",
-                                    "text": "  All Home Loans  Wet Suit, Leif, C.J., Flick,"
-                                },
-                                {
-                                    "type": "text",
-                                    "text": "                  Daisy Mae, Be a Chef DIY Recipes+"
-                                }
-                            ]
-                        }
-                    }
-                ]
-            },
-            {
-                "type": "array",
-                "orientation": "vertical",
-                "v_alignment": "top",
-                "h_alignment": "left",
-                "max_width": 330,
-                "content": [
-                    {
-                        "type": "group",
                         "header": "The Honour System",
                         "content": {
                             "type": "array",
@@ -478,6 +494,81 @@
                                 {
                                     "type": "text",
                                     "text": "the run. If in doubt, send the check, hold the item."
+                                }
+                            ]
+                        }
+                    }
+                ]
+            },
+            {
+                "type": "array",
+                "orientation": "vertical",
+                "v_alignment": "top",
+                "h_alignment": "left",
+                "max_width": 330,
+                "content": [
+                    {
+                        "type": "group",
+                        "header": "Before You Start",
+                        "content": {
+                            "type": "array",
+                            "orientation": "vertical",
+                            "content": [
+                                {
+                                    "type": "text",
+                                    "text": "Pick the hemisphere your YAML says. It is PERMANENT and"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "roughly half the logic branches on it."
+                                },
+                                {
+                                    "type": "text",
+                                    "text": ""
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "start_month may put you in a random month, not January."
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "Month - January is now an item like any other."
+                                },
+                                {
+                                    "type": "text",
+                                    "text": ""
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "birth_month tells the apworld your birthday, so set"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "your in-game birthday to match it."
+                                },
+                                {
+                                    "type": "text",
+                                    "text": ""
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "starting_tools may hand you a rod and/or net up front."
+                                },
+                                {
+                                    "type": "text",
+                                    "text": ""
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "One island per Switch console, shared by all users on it."
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "A fresh island means deleting the old one - irreversible"
+                                },
+                                {
+                                    "type": "text",
+                                    "text": "without an island backup. Be sure before you commit."
                                 }
                             ]
                         }
@@ -536,52 +627,6 @@
                                 {
                                     "type": "text",
                                     "text": "credits and you have neither."
-                                }
-                            ]
-                        }
-                    },
-                    {
-                        "type": "group",
-                        "header": "Before You Start",
-                        "content": {
-                            "type": "array",
-                            "orientation": "vertical",
-                            "content": [
-                                {
-                                    "type": "text",
-                                    "text": "Pick the hemisphere your YAML says. It is PERMANENT and"
-                                },
-                                {
-                                    "type": "text",
-                                    "text": "roughly half the logic branches on it."
-                                },
-                                {
-                                    "type": "text",
-                                    "text": ""
-                                },
-                                {
-                                    "type": "text",
-                                    "text": "One island per Switch console, shared by all users on it."
-                                },
-                                {
-                                    "type": "text",
-                                    "text": "A fresh island means deleting the old one - irreversible"
-                                },
-                                {
-                                    "type": "text",
-                                    "text": "without an island backup. Be sure before you commit."
-                                },
-                                {
-                                    "type": "text",
-                                    "text": ""
-                                },
-                                {
-                                    "type": "text",
-                                    "text": "Know your goal: Credits, a Museum completion, or All Home"
-                                },
-                                {
-                                    "type": "text",
-                                    "text": "Loans. They are wildly different lengths."
                                 }
                             ]
                         }

@@ -36,6 +36,16 @@
                     {
                         "name": "Island Shutterbug",
                         "access_rules": [
+                            "$Rule|141"
+                        ],
+                        "visibility_rules": [
+                            "$Vis|141"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Edit Credit",
+                        "access_rules": [
                             "$Rule|142"
                         ],
                         "visibility_rules": [
@@ -44,7 +54,7 @@
                         "item_count": 1
                     },
                     {
-                        "name": "Edit Credit",
+                        "name": "NookPhone Life",
                         "access_rules": [
                             "$Rule|143"
                         ],
@@ -54,32 +64,22 @@
                         "item_count": 1
                     },
                     {
-                        "name": "NookPhone Life",
-                        "access_rules": [
-                            "$Rule|144"
-                        ],
-                        "visibility_rules": [
-                            "$Vis|144"
-                        ],
-                        "item_count": 1
-                    },
-                    {
                         "name": "Send 5 letters",
                         "access_rules": [
-                            "$Rule|156"
+                            "$Rule|155"
                         ],
                         "visibility_rules": [
-                            "$Vis|156"
+                            "$Vis|155"
                         ],
                         "item_count": 1
                     },
                     {
                         "name": "Play on three different days",
                         "access_rules": [
-                            "$Rule|195"
+                            "$Rule|194"
                         ],
                         "visibility_rules": [
-                            "$Vis|195"
+                            "$Vis|194"
                         ],
                         "item_count": 1
                     }
@@ -133,10 +133,10 @@
                     {
                         "name": "Pop a balloon and lose the present to the water",
                         "access_rules": [
-                            "$Rule|165"
+                            "$Rule|164"
                         ],
                         "visibility_rules": [
-                            "$Vis|165"
+                            "$Vis|164"
                         ],
                         "item_count": 1
                     }
@@ -170,6 +170,16 @@
                     {
                         "name": "Catch a flea",
                         "access_rules": [
+                            "$Rule|156"
+                        ],
+                        "visibility_rules": [
+                            "$Vis|156"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Catch a cicada shell",
+                        "access_rules": [
                             "$Rule|157"
                         ],
                         "visibility_rules": [
@@ -178,7 +188,7 @@
                         "item_count": 1
                     },
                     {
-                        "name": "Catch a cicada shell",
+                        "name": "Catch 5 wasps in a row",
                         "access_rules": [
                             "$Rule|158"
                         ],
@@ -188,17 +198,17 @@
                         "item_count": 1
                     },
                     {
-                        "name": "Catch 5 wasps in a row",
+                        "name": "Faint from a wasp sting",
                         "access_rules": [
-                            "$Rule|159"
+                            "$Rule|160"
                         ],
                         "visibility_rules": [
-                            "$Vis|159"
+                            "$Vis|160"
                         ],
                         "item_count": 1
                     },
                     {
-                        "name": "Faint from a wasp sting",
+                        "name": "Faint from a tarantula or scorpion attack",
                         "access_rules": [
                             "$Rule|161"
                         ],
@@ -208,27 +218,27 @@
                         "item_count": 1
                     },
                     {
-                        "name": "Faint from a tarantula or scorpion attack",
-                        "access_rules": [
-                            "$Rule|162"
-                        ],
-                        "visibility_rules": [
-                            "$Vis|162"
-                        ],
-                        "item_count": 1
-                    },
-                    {
                         "name": "Pop 5 balloons",
                         "access_rules": [
-                            "$Rule|166"
+                            "$Rule|165"
                         ],
                         "visibility_rules": [
-                            "$Vis|166"
+                            "$Vis|165"
                         ],
                         "item_count": 1
                     },
                     {
                         "name": "Build a perfect snowperson",
+                        "access_rules": [
+                            "$Rule|167"
+                        ],
+                        "visibility_rules": [
+                            "$Vis|167"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Wish upon a shooting star",
                         "access_rules": [
                             "$Rule|168"
                         ],
@@ -238,42 +248,32 @@
                         "item_count": 1
                     },
                     {
-                        "name": "Wish upon a shooting star",
-                        "access_rules": [
-                            "$Rule|169"
-                        ],
-                        "visibility_rules": [
-                            "$Vis|169"
-                        ],
-                        "item_count": 1
-                    },
-                    {
                         "name": "Help Wisp get his spirit pieces back",
                         "access_rules": [
-                            "$Rule|173"
+                            "$Rule|172"
                         ],
                         "visibility_rules": [
-                            "$Vis|173"
+                            "$Vis|172"
                         ],
                         "item_count": 1
                     },
                     {
                         "name": "Dig up some buried bells",
                         "access_rules": [
-                            "$Rule|193"
+                            "$Rule|192"
                         ],
                         "visibility_rules": [
-                            "$Vis|193"
+                            "$Vis|192"
                         ],
                         "item_count": 1
                     },
                     {
                         "name": "Shake a piece of furniture from a tree",
                         "access_rules": [
-                            "$Rule|194"
+                            "$Rule|193"
                         ],
                         "visibility_rules": [
-                            "$Vis|194"
+                            "$Vis|193"
                         ],
                         "item_count": 1
                     }
@@ -451,6 +451,16 @@
                     {
                         "name": "Fulfill a request from a villager",
                         "access_rules": [
+                            "$Rule|139"
+                        ],
+                        "visibility_rules": [
+                            "$Vis|139"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Learn a reaction",
+                        "access_rules": [
                             "$Rule|140"
                         ],
                         "visibility_rules": [
@@ -459,37 +469,37 @@
                         "item_count": 1
                     },
                     {
-                        "name": "Learn a reaction",
-                        "access_rules": [
-                            "$Rule|141"
-                        ],
-                        "visibility_rules": [
-                            "$Vis|141"
-                        ],
-                        "item_count": 1
-                    },
-                    {
                         "name": "Build 20 fences",
                         "access_rules": [
-                            "$Rule|167"
+                            "$Rule|166"
                         ],
                         "visibility_rules": [
-                            "$Vis|167"
+                            "$Vis|166"
                         ],
                         "item_count": 1
                     },
                     {
                         "name": "Place a piece of furniture outside",
                         "access_rules": [
-                            "$Rule|170"
+                            "$Rule|169"
                         ],
                         "visibility_rules": [
-                            "$Vis|170"
+                            "$Vis|169"
                         ],
                         "item_count": 1
                     },
                     {
                         "name": "Become best friends with a villager",
+                        "access_rules": [
+                            "$Rule|183"
+                        ],
+                        "visibility_rules": [
+                            "$Vis|183"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Visit a villager on their birthday",
                         "access_rules": [
                             "$Rule|184"
                         ],
@@ -499,7 +509,7 @@
                         "item_count": 1
                     },
                     {
-                        "name": "Visit a villager on their birthday",
+                        "name": "And have a happy birthday of your own!",
                         "access_rules": [
                             "$Rule|185"
                         ],
@@ -509,32 +519,22 @@
                         "item_count": 1
                     },
                     {
-                        "name": "And have a happy birthday of your own!",
-                        "access_rules": [
-                            "$Rule|186"
-                        ],
-                        "visibility_rules": [
-                            "$Vis|186"
-                        ],
-                        "item_count": 1
-                    },
-                    {
                         "name": "Create your first custom design",
                         "access_rules": [
-                            "$Rule|191"
+                            "$Rule|190"
                         ],
                         "visibility_rules": [
-                            "$Vis|191"
+                            "$Vis|190"
                         ],
                         "item_count": 1
                     },
                     {
                         "name": "Create a pro custom design",
                         "access_rules": [
-                            "$Rule|192"
+                            "$Rule|191"
                         ],
                         "visibility_rules": [
-                            "$Vis|192"
+                            "$Vis|191"
                         ],
                         "item_count": 1
                     }

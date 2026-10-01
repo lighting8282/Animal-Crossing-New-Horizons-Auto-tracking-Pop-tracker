@@ -203,20 +203,20 @@
                     {
                         "name": "Pay off your moving fees!",
                         "access_rules": [
-                            "$Rule|150"
+                            "$Rule|149"
                         ],
                         "visibility_rules": [
-                            "$Vis|150"
+                            "$Vis|149"
                         ],
                         "item_count": 1
                     },
                     {
                         "name": "Pay off your first home loan",
                         "access_rules": [
-                            "$Rule|154"
+                            "$Rule|153"
                         ],
                         "visibility_rules": [
-                            "$Vis|154"
+                            "$Vis|153"
                         ],
                         "item_count": 1
                     }
@@ -240,6 +240,16 @@
                     {
                         "name": "Purchase something from Nook Shopping",
                         "access_rules": [
+                            "$Rule|144"
+                        ],
+                        "visibility_rules": [
+                            "$Vis|144"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Catalog 100 items to Nook Shopping",
+                        "access_rules": [
                             "$Rule|145"
                         ],
                         "visibility_rules": [
@@ -248,22 +258,12 @@
                         "item_count": 1
                     },
                     {
-                        "name": "Catalog 100 items to Nook Shopping",
+                        "name": "Complete 5 Nook Miles+ tasks",
                         "access_rules": [
                             "$Rule|146"
                         ],
                         "visibility_rules": [
                             "$Vis|146"
-                        ],
-                        "item_count": 1
-                    },
-                    {
-                        "name": "Complete 5 Nook Miles+ tasks",
-                        "access_rules": [
-                            "$Rule|147"
-                        ],
-                        "visibility_rules": [
-                            "$Vis|147"
                         ],
                         "item_count": 1
                     },

@@ -16,20 +16,20 @@
                     {
                         "name": "Watch K.K. perform at the plaza for the first time and complete your goal!",
                         "access_rules": [
-                            "$Rule|406"
+                            "$Rule|405"
                         ],
                         "visibility_rules": [
-                            "$Vis|406"
+                            "$Vis|405"
                         ],
                         "item_count": 1
                     },
                     {
                         "name": "Watch K.K. Slider perform for the first time",
                         "access_rules": [
-                            "$Rule|175"
+                            "$Rule|174"
                         ],
                         "visibility_rules": [
-                            "$Vis|175"
+                            "$Vis|174"
                         ],
                         "item_count": 1
                     }
@@ -120,10 +120,10 @@
                     {
                         "name": "Post to the bulletin board",
                         "access_rules": [
-                            "$Rule|155"
+                            "$Rule|154"
                         ],
                         "visibility_rules": [
-                            "$Vis|155"
+                            "$Vis|154"
                         ],
                         "item_count": 1
                     }
@@ -147,10 +147,10 @@
                     {
                         "name": "Join in a group stretching session",
                         "access_rules": [
-                            "$Rule|180"
+                            "$Rule|179"
                         ],
                         "visibility_rules": [
-                            "$Vis|180"
+                            "$Vis|179"
                         ],
                         "item_count": 1
                     }
@@ -174,20 +174,20 @@
                     {
                         "name": "Participate in a Fishing Tourney",
                         "access_rules": [
-                            "$Rule|187"
+                            "$Rule|186"
                         ],
                         "visibility_rules": [
-                            "$Vis|187"
+                            "$Vis|186"
                         ],
                         "item_count": 1
                     },
                     {
                         "name": "Participate in a Bug-Off",
                         "access_rules": [
-                            "$Rule|188"
+                            "$Rule|187"
                         ],
                         "visibility_rules": [
-                            "$Vis|188"
+                            "$Vis|187"
                         ],
                         "item_count": 1
                     }
@@ -211,10 +211,10 @@
                     {
                         "name": "Attend the Countdown event",
                         "access_rules": [
-                            "$Rule|189"
+                            "$Rule|188"
                         ],
                         "visibility_rules": [
-                            "$Vis|189"
+                            "$Vis|188"
                         ],
                         "item_count": 1
                     }

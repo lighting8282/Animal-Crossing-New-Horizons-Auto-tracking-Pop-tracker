@@ -16,10 +16,10 @@
                     {
                         "name": "Donate a bitterling to the museum",
                         "access_rules": [
-                            "$Rule|196"
+                            "$Rule|195"
                         ],
                         "visibility_rules": [
-                            "$Vis|196"
+                            "$Vis|195"
                         ],
                         "item_count": 1
                     }
@@ -43,10 +43,10 @@
                     {
                         "name": "Donate a pale chub to the museum",
                         "access_rules": [
-                            "$Rule|197"
+                            "$Rule|196"
                         ],
                         "visibility_rules": [
-                            "$Vis|197"
+                            "$Vis|196"
                         ],
                         "item_count": 1
                     }
@@ -70,10 +70,10 @@
                     {
                         "name": "Donate a crucian carp to the museum",
                         "access_rules": [
-                            "$Rule|198"
+                            "$Rule|197"
                         ],
                         "visibility_rules": [
-                            "$Vis|198"
+                            "$Vis|197"
                         ],
                         "item_count": 1
                     }
@@ -97,10 +97,10 @@
                     {
                         "name": "Donate a dace to the museum",
                         "access_rules": [
-                            "$Rule|199"
+                            "$Rule|198"
                         ],
                         "visibility_rules": [
-                            "$Vis|199"
+                            "$Vis|198"
                         ],
                         "item_count": 1
                     }
@@ -124,10 +124,10 @@
                     {
                         "name": "Donate a carp to the museum",
                         "access_rules": [
-                            "$Rule|200"
+                            "$Rule|199"
                         ],
                         "visibility_rules": [
-                            "$Vis|200"
+                            "$Vis|199"
                         ],
                         "item_count": 1
                     }
@@ -151,10 +151,10 @@
                     {
                         "name": "Donate a koi to the museum",
                         "access_rules": [
-                            "$Rule|201"
+                            "$Rule|200"
                         ],
                         "visibility_rules": [
-                            "$Vis|201"
+                            "$Vis|200"
                         ],
                         "item_count": 1
                     }
@@ -178,10 +178,10 @@
                     {
                         "name": "Donate a goldfish to the museum",
                         "access_rules": [
-                            "$Rule|202"
+                            "$Rule|201"
                         ],
                         "visibility_rules": [
-                            "$Vis|202"
+                            "$Vis|201"
                         ],
                         "item_count": 1
                     }
@@ -205,10 +205,10 @@
                     {
                         "name": "Donate a pop-eyed goldfish to the museum",
                         "access_rules": [
-                            "$Rule|203"
+                            "$Rule|202"
                         ],
                         "visibility_rules": [
-                            "$Vis|203"
+                            "$Vis|202"
                         ],
                         "item_count": 1
                     }
@@ -232,10 +232,10 @@
                     {
                         "name": "Donate a ranchu goldfish to the museum",
                         "access_rules": [
-                            "$Rule|204"
+                            "$Rule|203"
                         ],
                         "visibility_rules": [
-                            "$Vis|204"
+                            "$Vis|203"
                         ],
                         "item_count": 1
                     }
@@ -259,10 +259,10 @@
                     {
                         "name": "Donate a killifish to the museum",
                         "access_rules": [
-                            "$Rule|205"
+                            "$Rule|204"
                         ],
                         "visibility_rules": [
-                            "$Vis|205"
+                            "$Vis|204"
                         ],
                         "item_count": 1
                     }
@@ -286,10 +286,10 @@
                     {
                         "name": "Donate a crawfish to the museum",
                         "access_rules": [
-                            "$Rule|206"
+                            "$Rule|205"
                         ],
                         "visibility_rules": [
-                            "$Vis|206"
+                            "$Vis|205"
                         ],
                         "item_count": 1
                     }
@@ -313,10 +313,10 @@
                     {
                         "name": "Donate a soft-shelled turtle to the museum",
                         "access_rules": [
-                            "$Rule|207"
+                            "$Rule|206"
                         ],
                         "visibility_rules": [
-                            "$Vis|207"
+                            "$Vis|206"
                         ],
                         "item_count": 1
                     }
@@ -340,10 +340,10 @@
                     {
                         "name": "Donate a snapping turtle to the museum",
                         "access_rules": [
-                            "$Rule|208"
+                            "$Rule|207"
                         ],
                         "visibility_rules": [
-                            "$Vis|208"
+                            "$Vis|207"
                         ],
                         "item_count": 1
                     }
@@ -367,10 +367,10 @@
                     {
                         "name": "Donate a tadpole to the museum",
                         "access_rules": [
-                            "$Rule|209"
+                            "$Rule|208"
                         ],
                         "visibility_rules": [
-                            "$Vis|209"
+                            "$Vis|208"
                         ],
                         "item_count": 1
                     }
@@ -394,10 +394,10 @@
                     {
                         "name": "Donate a frog to the museum",
                         "access_rules": [
-                            "$Rule|210"
+                            "$Rule|209"
                         ],
                         "visibility_rules": [
-                            "$Vis|210"
+                            "$Vis|209"
                         ],
                         "item_count": 1
                     }
@@ -421,10 +421,10 @@
                     {
                         "name": "Donate a freshwater goby to the museum",
                         "access_rules": [
-                            "$Rule|211"
+                            "$Rule|210"
                         ],
                         "visibility_rules": [
-                            "$Vis|211"
+                            "$Vis|210"
                         ],
                         "item_count": 1
                     }
@@ -448,10 +448,10 @@
                     {
                         "name": "Donate a loach to the museum",
                         "access_rules": [
-                            "$Rule|212"
+                            "$Rule|211"
                         ],
                         "visibility_rules": [
-                            "$Vis|212"
+                            "$Vis|211"
                         ],
                         "item_count": 1
                     }
@@ -475,10 +475,10 @@
                     {
                         "name": "Donate a catfish to the museum",
                         "access_rules": [
-                            "$Rule|213"
+                            "$Rule|212"
                         ],
                         "visibility_rules": [
-                            "$Vis|213"
+                            "$Vis|212"
                         ],
                         "item_count": 1
                     }
@@ -502,10 +502,10 @@
                     {
                         "name": "Donate a giant snakehead to the museum",
                         "access_rules": [
-                            "$Rule|214"
+                            "$Rule|213"
                         ],
                         "visibility_rules": [
-                            "$Vis|214"
+                            "$Vis|213"
                         ],
                         "item_count": 1
                     }
@@ -529,10 +529,10 @@
                     {
                         "name": "Donate a bluegill to the museum",
                         "access_rules": [
-                            "$Rule|215"
+                            "$Rule|214"
                         ],
                         "visibility_rules": [
-                            "$Vis|215"
+                            "$Vis|214"
                         ],
                         "item_count": 1
                     }
@@ -556,10 +556,10 @@
                     {
                         "name": "Donate a yellow perch to the museum",
                         "access_rules": [
-                            "$Rule|216"
+                            "$Rule|215"
                         ],
                         "visibility_rules": [
-                            "$Vis|216"
+                            "$Vis|215"
                         ],
                         "item_count": 1
                     }
@@ -583,10 +583,10 @@
                     {
                         "name": "Donate a black bass to the museum",
                         "access_rules": [
-                            "$Rule|217"
+                            "$Rule|216"
                         ],
                         "visibility_rules": [
-                            "$Vis|217"
+                            "$Vis|216"
                         ],
                         "item_count": 1
                     }
@@ -610,10 +610,10 @@
                     {
                         "name": "Donate a tilapia to the museum",
                         "access_rules": [
-                            "$Rule|218"
+                            "$Rule|217"
                         ],
                         "visibility_rules": [
-                            "$Vis|218"
+                            "$Vis|217"
                         ],
                         "item_count": 1
                     }
@@ -637,10 +637,10 @@
                     {
                         "name": "Donate a pike to the museum",
                         "access_rules": [
-                            "$Rule|219"
+                            "$Rule|218"
                         ],
                         "visibility_rules": [
-                            "$Vis|219"
+                            "$Vis|218"
                         ],
                         "item_count": 1
                     }
@@ -664,10 +664,10 @@
                     {
                         "name": "Donate a pond smelt to the museum",
                         "access_rules": [
-                            "$Rule|220"
+                            "$Rule|219"
                         ],
                         "visibility_rules": [
-                            "$Vis|220"
+                            "$Vis|219"
                         ],
                         "item_count": 1
                     }
@@ -691,10 +691,10 @@
                     {
                         "name": "Donate a sweetfish to the museum",
                         "access_rules": [
-                            "$Rule|221"
+                            "$Rule|220"
                         ],
                         "visibility_rules": [
-                            "$Vis|221"
+                            "$Vis|220"
                         ],
                         "item_count": 1
                     }
@@ -718,10 +718,10 @@
                     {
                         "name": "Donate a cherry salmon to the museum",
                         "access_rules": [
-                            "$Rule|222"
+                            "$Rule|221"
                         ],
                         "visibility_rules": [
-                            "$Vis|222"
+                            "$Vis|221"
                         ],
                         "item_count": 1
                     }
@@ -745,10 +745,10 @@
                     {
                         "name": "Donate a char to the museum",
                         "access_rules": [
-                            "$Rule|223"
+                            "$Rule|222"
                         ],
                         "visibility_rules": [
-                            "$Vis|223"
+                            "$Vis|222"
                         ],
                         "item_count": 1
                     }
@@ -772,10 +772,10 @@
                     {
                         "name": "Donate a golden trout to the museum",
                         "access_rules": [
-                            "$Rule|224"
+                            "$Rule|223"
                         ],
                         "visibility_rules": [
-                            "$Vis|224"
+                            "$Vis|223"
                         ],
                         "item_count": 1
                     }
@@ -799,10 +799,10 @@
                     {
                         "name": "Donate a stringfish to the museum",
                         "access_rules": [
-                            "$Rule|225"
+                            "$Rule|224"
                         ],
                         "visibility_rules": [
-                            "$Vis|225"
+                            "$Vis|224"
                         ],
                         "item_count": 1
                     }
@@ -826,10 +826,10 @@
                     {
                         "name": "Donate a salmon to the museum",
                         "access_rules": [
-                            "$Rule|226"
+                            "$Rule|225"
                         ],
                         "visibility_rules": [
-                            "$Vis|226"
+                            "$Vis|225"
                         ],
                         "item_count": 1
                     }
@@ -853,10 +853,10 @@
                     {
                         "name": "Donate a king salmon to the museum",
                         "access_rules": [
-                            "$Rule|227"
+                            "$Rule|226"
                         ],
                         "visibility_rules": [
-                            "$Vis|227"
+                            "$Vis|226"
                         ],
                         "item_count": 1
                     }
@@ -880,10 +880,10 @@
                     {
                         "name": "Donate a mitten crab to the museum",
                         "access_rules": [
-                            "$Rule|228"
+                            "$Rule|227"
                         ],
                         "visibility_rules": [
-                            "$Vis|228"
+                            "$Vis|227"
                         ],
                         "item_count": 1
                     }
@@ -907,10 +907,10 @@
                     {
                         "name": "Donate a guppy to the museum",
                         "access_rules": [
-                            "$Rule|229"
+                            "$Rule|228"
                         ],
                         "visibility_rules": [
-                            "$Vis|229"
+                            "$Vis|228"
                         ],
                         "item_count": 1
                     }
@@ -934,10 +934,10 @@
                     {
                         "name": "Donate a nibble fish to the museum",
                         "access_rules": [
-                            "$Rule|230"
+                            "$Rule|229"
                         ],
                         "visibility_rules": [
-                            "$Vis|230"
+                            "$Vis|229"
                         ],
                         "item_count": 1
                     }
@@ -961,10 +961,10 @@
                     {
                         "name": "Donate an angelfish to the museum",
                         "access_rules": [
-                            "$Rule|231"
+                            "$Rule|230"
                         ],
                         "visibility_rules": [
-                            "$Vis|231"
+                            "$Vis|230"
                         ],
                         "item_count": 1
                     }
@@ -988,10 +988,10 @@
                     {
                         "name": "Donate a betta to the museum",
                         "access_rules": [
-                            "$Rule|232"
+                            "$Rule|231"
                         ],
                         "visibility_rules": [
-                            "$Vis|232"
+                            "$Vis|231"
                         ],
                         "item_count": 1
                     }
@@ -1015,10 +1015,10 @@
                     {
                         "name": "Donate a neon tetra to the museum",
                         "access_rules": [
-                            "$Rule|233"
+                            "$Rule|232"
                         ],
                         "visibility_rules": [
-                            "$Vis|233"
+                            "$Vis|232"
                         ],
                         "item_count": 1
                     }
@@ -1042,10 +1042,10 @@
                     {
                         "name": "Donate a rainbowfish to the museum",
                         "access_rules": [
-                            "$Rule|234"
+                            "$Rule|233"
                         ],
                         "visibility_rules": [
-                            "$Vis|234"
+                            "$Vis|233"
                         ],
                         "item_count": 1
                     }
@@ -1069,10 +1069,10 @@
                     {
                         "name": "Donate a piranha to the museum",
                         "access_rules": [
-                            "$Rule|235"
+                            "$Rule|234"
                         ],
                         "visibility_rules": [
-                            "$Vis|235"
+                            "$Vis|234"
                         ],
                         "item_count": 1
                     }
@@ -1096,10 +1096,10 @@
                     {
                         "name": "Donate an arowana to the museum",
                         "access_rules": [
-                            "$Rule|236"
+                            "$Rule|235"
                         ],
                         "visibility_rules": [
-                            "$Vis|236"
+                            "$Vis|235"
                         ],
                         "item_count": 1
                     }
@@ -1123,10 +1123,10 @@
                     {
                         "name": "Donate a dorado to the museum",
                         "access_rules": [
-                            "$Rule|237"
+                            "$Rule|236"
                         ],
                         "visibility_rules": [
-                            "$Vis|237"
+                            "$Vis|236"
                         ],
                         "item_count": 1
                     }
@@ -1150,10 +1150,10 @@
                     {
                         "name": "Donate a gar to the museum",
                         "access_rules": [
-                            "$Rule|238"
+                            "$Rule|237"
                         ],
                         "visibility_rules": [
-                            "$Vis|238"
+                            "$Vis|237"
                         ],
                         "item_count": 1
                     }
@@ -1177,10 +1177,10 @@
                     {
                         "name": "Donate an arapaima to the museum",
                         "access_rules": [
-                            "$Rule|239"
+                            "$Rule|238"
                         ],
                         "visibility_rules": [
-                            "$Vis|239"
+                            "$Vis|238"
                         ],
                         "item_count": 1
                     }
@@ -1204,10 +1204,10 @@
                     {
                         "name": "Donate a saddled bichir to the museum",
                         "access_rules": [
-                            "$Rule|240"
+                            "$Rule|239"
                         ],
                         "visibility_rules": [
-                            "$Vis|240"
+                            "$Vis|239"
                         ],
                         "item_count": 1
                     }
@@ -1231,10 +1231,10 @@
                     {
                         "name": "Donate a sturgeon to the museum",
                         "access_rules": [
-                            "$Rule|241"
+                            "$Rule|240"
                         ],
                         "visibility_rules": [
-                            "$Vis|241"
+                            "$Vis|240"
                         ],
                         "item_count": 1
                     }
@@ -1258,10 +1258,10 @@
                     {
                         "name": "Donate a sea butterfly to the museum",
                         "access_rules": [
-                            "$Rule|242"
+                            "$Rule|241"
                         ],
                         "visibility_rules": [
-                            "$Vis|242"
+                            "$Vis|241"
                         ],
                         "item_count": 1
                     }
@@ -1285,10 +1285,10 @@
                     {
                         "name": "Donate a sea horse to the museum",
                         "access_rules": [
-                            "$Rule|243"
+                            "$Rule|242"
                         ],
                         "visibility_rules": [
-                            "$Vis|243"
+                            "$Vis|242"
                         ],
                         "item_count": 1
                     }
@@ -1312,10 +1312,10 @@
                     {
                         "name": "Donate a clown fish to the museum",
                         "access_rules": [
-                            "$Rule|244"
+                            "$Rule|243"
                         ],
                         "visibility_rules": [
-                            "$Vis|244"
+                            "$Vis|243"
                         ],
                         "item_count": 1
                     }
@@ -1339,10 +1339,10 @@
                     {
                         "name": "Donate a surgeonfish to the museum",
                         "access_rules": [
-                            "$Rule|245"
+                            "$Rule|244"
                         ],
                         "visibility_rules": [
-                            "$Vis|245"
+                            "$Vis|244"
                         ],
                         "item_count": 1
                     }
@@ -1366,10 +1366,10 @@
                     {
                         "name": "Donate a butterfly fish to the museum",
                         "access_rules": [
-                            "$Rule|246"
+                            "$Rule|245"
                         ],
                         "visibility_rules": [
-                            "$Vis|246"
+                            "$Vis|245"
                         ],
                         "item_count": 1
                     }
@@ -1393,10 +1393,10 @@
                     {
                         "name": "Donate a Napoleonfish to the museum",
                         "access_rules": [
-                            "$Rule|247"
+                            "$Rule|246"
                         ],
                         "visibility_rules": [
-                            "$Vis|247"
+                            "$Vis|246"
                         ],
                         "item_count": 1
                     }
@@ -1420,10 +1420,10 @@
                     {
                         "name": "Donate a zebra turkeyfish to the museum",
                         "access_rules": [
-                            "$Rule|248"
+                            "$Rule|247"
                         ],
                         "visibility_rules": [
-                            "$Vis|248"
+                            "$Vis|247"
                         ],
                         "item_count": 1
                     }
@@ -1447,10 +1447,10 @@
                     {
                         "name": "Donate a blowfish to the museum",
                         "access_rules": [
-                            "$Rule|249"
+                            "$Rule|248"
                         ],
                         "visibility_rules": [
-                            "$Vis|249"
+                            "$Vis|248"
                         ],
                         "item_count": 1
                     }
@@ -1474,10 +1474,10 @@
                     {
                         "name": "Donate a puffer fish to the museum",
                         "access_rules": [
-                            "$Rule|250"
+                            "$Rule|249"
                         ],
                         "visibility_rules": [
-                            "$Vis|250"
+                            "$Vis|249"
                         ],
                         "item_count": 1
                     }
@@ -1501,10 +1501,10 @@
                     {
                         "name": "Donate an anchovy to the museum",
                         "access_rules": [
-                            "$Rule|251"
+                            "$Rule|250"
                         ],
                         "visibility_rules": [
-                            "$Vis|251"
+                            "$Vis|250"
                         ],
                         "item_count": 1
                     }
@@ -1528,10 +1528,10 @@
                     {
                         "name": "Donate a horse mackerel to the museum",
                         "access_rules": [
-                            "$Rule|252"
+                            "$Rule|251"
                         ],
                         "visibility_rules": [
-                            "$Vis|252"
+                            "$Vis|251"
                         ],
                         "item_count": 1
                     }
@@ -1555,10 +1555,10 @@
                     {
                         "name": "Donate a barred knifejaw to the museum",
                         "access_rules": [
-                            "$Rule|253"
+                            "$Rule|252"
                         ],
                         "visibility_rules": [
-                            "$Vis|253"
+                            "$Vis|252"
                         ],
                         "item_count": 1
                     }
@@ -1582,10 +1582,10 @@
                     {
                         "name": "Donate a sea bass to the museum",
                         "access_rules": [
-                            "$Rule|254"
+                            "$Rule|253"
                         ],
                         "visibility_rules": [
-                            "$Vis|254"
+                            "$Vis|253"
                         ],
                         "item_count": 1
                     }
@@ -1609,10 +1609,10 @@
                     {
                         "name": "Donate a red snapper to the museum",
                         "access_rules": [
-                            "$Rule|255"
+                            "$Rule|254"
                         ],
                         "visibility_rules": [
-                            "$Vis|255"
+                            "$Vis|254"
                         ],
                         "item_count": 1
                     }
@@ -1636,10 +1636,10 @@
                     {
                         "name": "Donate a dab to the museum",
                         "access_rules": [
-                            "$Rule|256"
+                            "$Rule|255"
                         ],
                         "visibility_rules": [
-                            "$Vis|256"
+                            "$Vis|255"
                         ],
                         "item_count": 1
                     }
@@ -1663,10 +1663,10 @@
                     {
                         "name": "Donate an olive flounder to the museum",
                         "access_rules": [
-                            "$Rule|257"
+                            "$Rule|256"
                         ],
                         "visibility_rules": [
-                            "$Vis|257"
+                            "$Vis|256"
                         ],
                         "item_count": 1
                     }
@@ -1690,10 +1690,10 @@
                     {
                         "name": "Donate a squid to the museum",
                         "access_rules": [
-                            "$Rule|258"
+                            "$Rule|257"
                         ],
                         "visibility_rules": [
-                            "$Vis|258"
+                            "$Vis|257"
                         ],
                         "item_count": 1
                     }
@@ -1717,10 +1717,10 @@
                     {
                         "name": "Donate a moray eel to the museum",
                         "access_rules": [
-                            "$Rule|259"
+                            "$Rule|258"
                         ],
                         "visibility_rules": [
-                            "$Vis|259"
+                            "$Vis|258"
                         ],
                         "item_count": 1
                     }
@@ -1744,10 +1744,10 @@
                     {
                         "name": "Donate a ribbon eel to the museum",
                         "access_rules": [
-                            "$Rule|260"
+                            "$Rule|259"
                         ],
                         "visibility_rules": [
-                            "$Vis|260"
+                            "$Vis|259"
                         ],
                         "item_count": 1
                     }
@@ -1771,10 +1771,10 @@
                     {
                         "name": "Donate a tuna to the museum",
                         "access_rules": [
-                            "$Rule|261"
+                            "$Rule|260"
                         ],
                         "visibility_rules": [
-                            "$Vis|261"
+                            "$Vis|260"
                         ],
                         "item_count": 1
                     }
@@ -1798,10 +1798,10 @@
                     {
                         "name": "Donate a blue marlin to the museum",
                         "access_rules": [
-                            "$Rule|262"
+                            "$Rule|261"
                         ],
                         "visibility_rules": [
-                            "$Vis|262"
+                            "$Vis|261"
                         ],
                         "item_count": 1
                     }
@@ -1825,10 +1825,10 @@
                     {
                         "name": "Donate a giant trevally to the museum",
                         "access_rules": [
-                            "$Rule|263"
+                            "$Rule|262"
                         ],
                         "visibility_rules": [
-                            "$Vis|263"
+                            "$Vis|262"
                         ],
                         "item_count": 1
                     }
@@ -1852,10 +1852,10 @@
                     {
                         "name": "Donate a mahi-mahi to the museum",
                         "access_rules": [
-                            "$Rule|264"
+                            "$Rule|263"
                         ],
                         "visibility_rules": [
-                            "$Vis|264"
+                            "$Vis|263"
                         ],
                         "item_count": 1
                     }
@@ -1879,10 +1879,10 @@
                     {
                         "name": "Donate an ocean sunfish to the museum",
                         "access_rules": [
-                            "$Rule|265"
+                            "$Rule|264"
                         ],
                         "visibility_rules": [
-                            "$Vis|265"
+                            "$Vis|264"
                         ],
                         "item_count": 1
                     }
@@ -1906,10 +1906,10 @@
                     {
                         "name": "Donate a ray to the museum",
                         "access_rules": [
-                            "$Rule|266"
+                            "$Rule|265"
                         ],
                         "visibility_rules": [
-                            "$Vis|266"
+                            "$Vis|265"
                         ],
                         "item_count": 1
                     }
@@ -1933,10 +1933,10 @@
                     {
                         "name": "Donate a saw shark to the museum",
                         "access_rules": [
-                            "$Rule|267"
+                            "$Rule|266"
                         ],
                         "visibility_rules": [
-                            "$Vis|267"
+                            "$Vis|266"
                         ],
                         "item_count": 1
                     }
@@ -1960,10 +1960,10 @@
                     {
                         "name": "Donate a hammerhead shark to the museum",
                         "access_rules": [
-                            "$Rule|268"
+                            "$Rule|267"
                         ],
                         "visibility_rules": [
-                            "$Vis|268"
+                            "$Vis|267"
                         ],
                         "item_count": 1
                     }
@@ -1987,10 +1987,10 @@
                     {
                         "name": "Donate a great white shark to the museum",
                         "access_rules": [
-                            "$Rule|269"
+                            "$Rule|268"
                         ],
                         "visibility_rules": [
-                            "$Vis|269"
+                            "$Vis|268"
                         ],
                         "item_count": 1
                     }
@@ -2014,10 +2014,10 @@
                     {
                         "name": "Donate a whale shark to the museum",
                         "access_rules": [
-                            "$Rule|270"
+                            "$Rule|269"
                         ],
                         "visibility_rules": [
-                            "$Vis|270"
+                            "$Vis|269"
                         ],
                         "item_count": 1
                     }
@@ -2041,10 +2041,10 @@
                     {
                         "name": "Donate a suckerfish to the museum",
                         "access_rules": [
-                            "$Rule|271"
+                            "$Rule|270"
                         ],
                         "visibility_rules": [
-                            "$Vis|271"
+                            "$Vis|270"
                         ],
                         "item_count": 1
                     }
@@ -2068,10 +2068,10 @@
                     {
                         "name": "Donate a football fish to the museum",
                         "access_rules": [
-                            "$Rule|272"
+                            "$Rule|271"
                         ],
                         "visibility_rules": [
-                            "$Vis|272"
+                            "$Vis|271"
                         ],
                         "item_count": 1
                     }
@@ -2095,10 +2095,10 @@
                     {
                         "name": "Donate an oarfish to the museum",
                         "access_rules": [
-                            "$Rule|273"
+                            "$Rule|272"
                         ],
                         "visibility_rules": [
-                            "$Vis|273"
+                            "$Vis|272"
                         ],
                         "item_count": 1
                     }
@@ -2122,10 +2122,10 @@
                     {
                         "name": "Donate a barreleye to the museum",
                         "access_rules": [
-                            "$Rule|274"
+                            "$Rule|273"
                         ],
                         "visibility_rules": [
-                            "$Vis|274"
+                            "$Vis|273"
                         ],
                         "item_count": 1
                     }
@@ -2149,10 +2149,10 @@
                     {
                         "name": "Donate a coelacanth to the museum",
                         "access_rules": [
-                            "$Rule|275"
+                            "$Rule|274"
                         ],
                         "visibility_rules": [
-                            "$Vis|275"
+                            "$Vis|274"
                         ],
                         "item_count": 1
                     }

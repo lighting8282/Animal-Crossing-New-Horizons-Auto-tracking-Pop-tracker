@@ -131,7 +131,7 @@
                 "access_rules": [],
                 "sections": [
                     {
-                        "name": "Obtain an S-rank from the Happy Home Academy",
+                        "name": "Place 5 furniture items in your home",
                         "access_rules": [
                             "$Rule|137"
                         ],
@@ -141,22 +141,12 @@
                         "item_count": 1
                     },
                     {
-                        "name": "Place 5 furniture items in your home",
+                        "name": "Put 20 items in storage",
                         "access_rules": [
                             "$Rule|138"
                         ],
                         "visibility_rules": [
                             "$Vis|138"
-                        ],
-                        "item_count": 1
-                    },
-                    {
-                        "name": "Put 20 items in storage",
-                        "access_rules": [
-                            "$Rule|139"
-                        ],
-                        "visibility_rules": [
-                            "$Vis|139"
                         ],
                         "item_count": 1
                     }

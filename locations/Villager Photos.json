@@ -16,10 +16,10 @@
                     {
                         "name": "Obtain a photo from a villager",
                         "access_rules": [
-                            "$Rule|396"
+                            "$Rule|395"
                         ],
                         "visibility_rules": [
-                            "$Vis|396"
+                            "$Vis|395"
                         ],
                         "item_count": 1
                     }
@@ -43,10 +43,10 @@
                     {
                         "name": "Obtain a photo from a villager",
                         "access_rules": [
-                            "$Rule|397"
+                            "$Rule|396"
                         ],
                         "visibility_rules": [
-                            "$Vis|397"
+                            "$Vis|396"
                         ],
                         "item_count": 1
                     }
@@ -70,10 +70,10 @@
                     {
                         "name": "Obtain a photo from a villager",
                         "access_rules": [
-                            "$Rule|398"
+                            "$Rule|397"
                         ],
                         "visibility_rules": [
-                            "$Vis|398"
+                            "$Vis|397"
                         ],
                         "item_count": 1
                     }
@@ -97,10 +97,10 @@
                     {
                         "name": "Obtain a photo from a villager",
                         "access_rules": [
-                            "$Rule|399"
+                            "$Rule|398"
                         ],
                         "visibility_rules": [
-                            "$Vis|399"
+                            "$Vis|398"
                         ],
                         "item_count": 1
                     }
@@ -124,10 +124,10 @@
                     {
                         "name": "Obtain a photo from a villager",
                         "access_rules": [
-                            "$Rule|400"
+                            "$Rule|399"
                         ],
                         "visibility_rules": [
-                            "$Vis|400"
+                            "$Vis|399"
                         ],
                         "item_count": 1
                     }
@@ -151,10 +151,10 @@
                     {
                         "name": "Obtain a photo from a villager",
                         "access_rules": [
-                            "$Rule|401"
+                            "$Rule|400"
                         ],
                         "visibility_rules": [
-                            "$Vis|401"
+                            "$Vis|400"
                         ],
                         "item_count": 1
                     }
@@ -178,10 +178,10 @@
                     {
                         "name": "Obtain a photo from a villager",
                         "access_rules": [
-                            "$Rule|402"
+                            "$Rule|401"
                         ],
                         "visibility_rules": [
-                            "$Vis|402"
+                            "$Vis|401"
                         ],
                         "item_count": 1
                     }
@@ -205,10 +205,10 @@
                     {
                         "name": "Obtain a photo from a villager",
                         "access_rules": [
-                            "$Rule|403"
+                            "$Rule|402"
                         ],
                         "visibility_rules": [
-                            "$Vis|403"
+                            "$Vis|402"
                         ],
                         "item_count": 1
                     }
@@ -232,10 +232,10 @@
                     {
                         "name": "Obtain a photo from a villager",
                         "access_rules": [
-                            "$Rule|404"
+                            "$Rule|403"
                         ],
                         "visibility_rules": [
-                            "$Vis|404"
+                            "$Vis|403"
                         ],
                         "item_count": 1
                     }
@@ -259,10 +259,10 @@
                     {
                         "name": "Obtain a photo from a villager",
                         "access_rules": [
-                            "$Rule|405"
+                            "$Rule|404"
                         ],
                         "visibility_rules": [
-                            "$Vis|405"
+                            "$Vis|404"
                         ],
                         "item_count": 1
                     }

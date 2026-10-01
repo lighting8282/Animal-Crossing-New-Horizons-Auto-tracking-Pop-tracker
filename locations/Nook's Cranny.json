@@ -46,6 +46,16 @@
                     {
                         "name": "Buy something for the first time",
                         "access_rules": [
+                            "$Rule|147"
+                        ],
+                        "visibility_rules": [
+                            "$Vis|147"
+                        ],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Sell something for the first time",
+                        "access_rules": [
                             "$Rule|148"
                         ],
                         "visibility_rules": [
@@ -54,17 +64,17 @@
                         "item_count": 1
                     },
                     {
-                        "name": "Sell something for the first time",
+                        "name": "Spend 5,000 bells",
                         "access_rules": [
-                            "$Rule|149"
+                            "$Rule|150"
                         ],
                         "visibility_rules": [
-                            "$Vis|149"
+                            "$Vis|150"
                         ],
                         "item_count": 1
                     },
                     {
-                        "name": "Spend 5,000 bells",
+                        "name": "Buy turnips from Daisy Mae",
                         "access_rules": [
                             "$Rule|151"
                         ],
@@ -74,22 +84,12 @@
                         "item_count": 1
                     },
                     {
-                        "name": "Buy turnips from Daisy Mae",
+                        "name": "Make 1,000 bells on the Stalk Market",
                         "access_rules": [
                             "$Rule|152"
                         ],
                         "visibility_rules": [
                             "$Vis|152"
-                        ],
-                        "item_count": 1
-                    },
-                    {
-                        "name": "Make 1,000 bells on the Stalk Market",
-                        "access_rules": [
-                            "$Rule|153"
-                        ],
-                        "visibility_rules": [
-                            "$Vis|153"
                         ],
                         "item_count": 1
                     }
@@ -113,20 +113,20 @@
                     {
                         "name": "Bury a pitfall seed",
                         "access_rules": [
-                            "$Rule|160"
+                            "$Rule|159"
                         ],
                         "visibility_rules": [
-                            "$Vis|160"
+                            "$Vis|159"
                         ],
                         "item_count": 1
                     },
                     {
                         "name": "Fall into the hole created by said pitfall seed",
                         "access_rules": [
-                            "$Rule|163"
+                            "$Rule|162"
                         ],
                         "visibility_rules": [
-                            "$Vis|163"
+                            "$Vis|162"
                         ],
                         "item_count": 1
                     },
